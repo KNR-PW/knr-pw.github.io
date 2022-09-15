@@ -1,0 +1,101 @@
+@font-face {
+    font-family: "RadicalWut";
+    src: url("../fonts/radikalwut-bold.ttf");
+}
+
+@import 'blocks/_header';
+@import 'base/_header_mx';
+
+@import 'blocks/_start';
+@import 'base/_start_mx';
+
+@import 'blocks/_about';
+@import 'base/_about_mx';
+
+@import 'blocks/_focus';
+@import 'base/_focus_mx';
+
+@import 'blocks/_projects';
+@import 'base/_projects_mx';
+
+@import 'blocks/_authorities';
+@import 'base/_authorities_mx';
+
+@import 'blocks/_sponsors';
+@import 'base/_sponsors_mx';
+
+@import 'blocks/_project';
+@import 'base/_project_mx';
+
+@import 'blocks/_footer';
+@import 'base/_footer_mx';
+
+@import 'libs/_variable';
+
+
+
+*{
+    font-family: 'Lexend', sans-serif;
+}
+
+
+a {
+    text-decoration: none;
+    &:hover{
+        text-decoration: none;
+    }
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Lexend', serif;
+}
+
+
+section{
+    padding: 70px 0;
+}
+
+input{
+    box-shadow: none;
+}
+
+p{
+    margin: 0;
+}
+
+ul{
+    margin-bottom: 0;
+}
+
+.show{
+    display: block;
+}
+
+.hide{
+    display: none;
+}
+
+.btn-show{
+    display: block;
+}
+
+.square{
+    position: absolute;
+    top: 50%;
+    right: -100px;
+    display: block;
+    width: 200px;
+    height: 200px;
+    transform: rotate(45deg);
+    background-color: $blueDeFrance;
+    &-left{
+        left: -60px;
+        top: 70%;
+    }
+    &-white{
+        border: 1px solid $grey;
+        background-color: transparent;
+    }
+}
+
+@import '_mx';

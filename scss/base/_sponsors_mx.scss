@@ -1,0 +1,33 @@
+@media (max-width: 767px){
+    .sponsors{
+        &__title{
+            font-size: 40px;
+        }
+        &__slider{
+            width: 80%;
+        }
+        &__block{
+            flex-direction: column;
+            a{
+                width: 50%;
+                margin-bottom: 40px;
+                &:last-child{
+                    margin-bottom: 0;
+                }
+            }
+        }
+    }
+}
+
+@media (max-width: 575px){
+    .sponsors{
+        &__slider{
+            width: 95%;
+        }
+        &__block{
+            a{
+                width: 70%;
+            }
+        }
+    }
+}
