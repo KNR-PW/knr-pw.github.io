@@ -1,839 +1,364 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>
-      Koło Naukowe Robotyków - Wydział Mechaniczny Energetyki i Lotnictwa -
-      Politechnika Warszawska
-    </title>
-    <link
-      href="https://fonts.googleapis.com/css?family=Cambay:400,400i,700,700i&amp;subset=latin-ext"
-      rel="stylesheet"
-    />
-    <link
-      rel="shortcut icon"
-      type="image/png"
-      href="wp-content/uploads/2015/12/cropped-Logo-KNR-poziom-1-32x32.jpg"
-    />
-    <!--<link href="https://fonts.googleapis.com/css?family=Rubik+Mono+One&amp;subset=latin-ext" rel="stylesheet">-->
-    <link
-      rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
-    />
-    <link
-      rel="stylesheet"
-      href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
-      integrity="sha384-				   Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
-      crossorigin="anonymous"
-    />
-
-    <link rel="dns-prefetch" href="//connect.facebook.net" />
-    <link rel="dns-prefetch" href="//cdnjs.cloudflare.com" />
-    <link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com" />
-    <link rel="dns-prefetch" href="//fonts.googleapis.com" />
-    <link rel="dns-prefetch" href="//s.w.org" />
-    <script type="text/javascript">
-      window._wpemojiSettings = {
-        baseUrl: "https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/",
-        ext: ".png",
-        svgUrl: "https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/",
-        svgExt: ".svg",
-        source: {
-          concatemoji: "wp-includes\/js\/wp-emoji-release.min.js",
-        },
-      };
-      !(function (a, b, c) {
-        function d(a, b) {
-          var c = String.fromCharCode;
-          l.clearRect(0, 0, k.width, k.height),
-            l.fillText(c.apply(this, a), 0, 0);
-          var d = k.toDataURL();
-          l.clearRect(0, 0, k.width, k.height),
-            l.fillText(c.apply(this, b), 0, 0);
-          var e = k.toDataURL();
-          return d === e;
-        }
-        function e(a) {
-          var b;
-          if (!l || !l.fillText) return !1;
-          switch (((l.textBaseline = "top"), (l.font = "600 32px Arial"), a)) {
-            case "flag":
-              return (
-                !(b = d(
-                  [55356, 56826, 55356, 56819],
-                  [55356, 56826, 8203, 55356, 56819]
-                )) &&
-                ((b = d(
-                  [
-                    55356, 57332, 56128, 56423, 56128, 56418, 56128, 56421,
-                    56128, 56430, 56128, 56423, 56128, 56447,
-                  ],
-                  [
-                    55356, 57332, 8203, 56128, 56423, 8203, 56128, 56418, 8203,
-                    56128, 56421, 8203, 56128, 56430, 8203, 56128, 56423, 8203,
-                    56128, 56447,
-                  ]
-                )),
-                !b)
-              );
-            case "emoji":
-              return (
-                (b = d(
-                  [55358, 56760, 9792, 65039],
-                  [55358, 56760, 8203, 9792, 65039]
-                )),
-                !b
-              );
-          }
-          return !1;
-        }
-        function f(a) {
-          var c = b.createElement("script");
-          (c.src = a),
-            (c.defer = c.type = "text/javascript"),
-            b.getElementsByTagName("head")[0].appendChild(c);
-        }
-        var g,
-          h,
-          i,
-          j,
-          k = b.createElement("canvas"),
-          l = k.getContext && k.getContext("2d");
-        for (
-          j = Array("flag", "emoji"),
-            c.supports = { everything: !0, everythingExceptFlag: !0 },
-            i = 0;
-          i < j.length;
-          i++
-        )
-          (c.supports[j[i]] = e(j[i])),
-            (c.supports.everything = c.supports.everything && c.supports[j[i]]),
-            "flag" !== j[i] &&
-              (c.supports.everythingExceptFlag =
-                c.supports.everythingExceptFlag && c.supports[j[i]]);
-        (c.supports.everythingExceptFlag =
-          c.supports.everythingExceptFlag && !c.supports.flag),
-          (c.DOMReady = !1),
-          (c.readyCallback = function () {
-            c.DOMReady = !0;
-          }),
-          c.supports.everything ||
-            ((h = function () {
-              c.readyCallback();
-            }),
-            b.addEventListener
-              ? (b.addEventListener("DOMContentLoaded", h, !1),
-                a.addEventListener("load", h, !1))
-              : (a.attachEvent("onload", h),
-                b.attachEvent("onreadystatechange", function () {
-                  "complete" === b.readyState && c.readyCallback();
-                })),
-            (g = c.source || {}),
-            g.concatemoji
-              ? f(g.concatemoji)
-              : g.wpemoji && g.twemoji && (f(g.twemoji), f(g.wpemoji)));
-      })(window, document, window._wpemojiSettings);
-    </script>
-    <style type="text/css">
-      img.wp-smiley,
-      img.emoji {
-        display: inline !important;
-        border: none !important;
-        box-shadow: none !important;
-        height: 1em !important;
-        width: 1em !important;
-        margin: 0 0.07em !important;
-        vertical-align: -0.1em !important;
-        background: none !important;
-        padding: 0 !important;
-      }
-    </style>
-    <link
-      rel="stylesheet"
-      id="bwg_frontend-css"
-      href="wp-content/plugins/photo-gallery/css/bwg_frontend.css"
-      type="text/css"
-      media="all"
-    />
-    <link
-      rel="stylesheet"
-      id="bwg_font-awesome-css"
-      href="./wp-content/plugins/photo-gallery/css/font-awesome/font-awesome.css"
-      type="text/css"
-      media="all"
-    />
-    <link
-      rel="stylesheet"
-      id="bwg_mCustomScrollbar-css"
-      href="wp-content/plugins/photo-gallery/css/jquery.mCustomScrollbar.css"
-      type="text/css"
-      media="all"
-    />
-    <link
-      rel="stylesheet"
-      id="bwg_sumoselect-css"
-      href="wp-content/plugins/photo-gallery/css/sumoselect.css"
-      type="text/css"
-      media="all"
-    />
-    <link
-      rel="stylesheet"
-      id="style-css"
-      href="wp-content/themes/KNR-website-2021-12.2/css/header.css"
-      type="text/css"
-      media="all"
-    />
-    <link
-      rel="stylesheet"
-      id="font-css"
-      href="https://fonts.googleapis.com/css?family=Cambay%3A400%2C400i%2C700%2C700i&#038;subset=latin-ext&#038;ver=1.0.0"
-      type="text/css"
-      media="all"
-    />
-    <link
-      rel="stylesheet"
-      id="logo-css"
-      href="wp-content/uploads/2015/12/cropped-Logo-KNR-poziom-1-32x32.jpg"
-      type="image/jpeg"
-      media="all"
-    />
-    <link
-      rel="stylesheet"
-      id="font-awesome-css"
-      href="wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css"
-      type="text/css"
-      media="all"
-    />
-    <link
-      rel="stylesheet"
-      id="bootstrap-css"
-      href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css?ver=1.0.0"
-      type="text/css"
-      media="all"
-    />
-    <link
-      rel="stylesheet"
-      id="plugin_css-css"
-      href="wp-content/plugins/animated-headline/css/style.css"
-      type="text/css"
-      media="all"
-    />
-    <script
-      type="text/javascript"
-      src="wp-includes/js/jquery/jquery.js"
-    ></script>
-    <script
-      type="text/javascript"
-      src="wp-includes/js/jquery/jquery-migrate.min.js"
-    ></script>
-    <link rel="https://api.w.org/" href="wp-json/" />
-    <link
-      rel="wlwmanifest"
-      type="application/wlwmanifest+xml"
-      href="wp-includes/wlwmanifest.xml"
-    />
-
-    <link
-      rel="icon"
-      href="wp-content/uploads/2015/12/cropped-Logo-KNR-poziom-1-32x32.jpg"
-      sizes="32x32"
-    />
-    <link
-      rel="icon"
-      href="wp-content/uploads/2015/12/cropped-Logo-KNR-poziom-1-192x192.jpg"
-      sizes="192x192"
-    />
-    <link
-      rel="apple-touch-icon-precomposed"
-      href="wp-content/uploads/2015/12/cropped-Logo-KNR-poziom-1-180x180.jpg"
-    />
-    <meta
-      name="msapplication-TileImage"
-      content="wp-content/uploads/2015/12/cropped-Logo-KNR-poziom-1-270x270.jpg"
-    />
-  </head>
-  <body>
-    <div id="fb-root"></div>
-    <script
-      async
-      defer
-      src="https://connect.facebook.net/pl_PL/sdk.js#xfbml=1&version=v3.2"
-    ></script>
-    <header class="header">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-1 col-md-1 col-sm-3 col-3">
-            <div class="header__logo">
-              <div><div class="header__logo-img"></div></div>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/bootstrap-grid.min.css">
+    <link rel="stylesheet" href="css/bootstrap-reboot.min.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lexend:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700;1,900&display=swap" rel="stylesheet">
+    <link rel="shortcut icon" href="images/favicon-32x32.png" type="image/png">
+    <link rel="stylesheet" type="text/css" href="./css/slick.css"/>
+    <link rel="stylesheet" type="text/css" href="./css/slick-theme.css"/>
+    <link rel="stylesheet" href="css/aos.css">
+    <link rel="stylesheet" href="css/style.css">
+    <title>KNR</title>
+</head>
+<body>
+    <header id="header" class="header">
+        <div class="container">
+            <div class="header__wrapper">
+                <div class="logo">
+                    <a href="#home"><img src="images/KNR_log.png" alt="logo"></a>
+                </div>
+                <nav class="navbar">
+                    <ul>
+                        <li><a class="navbar-link active" href="#start" id="start-page">Start</a></li>
+                        <li><a class="navbar-link" href="#about" id="about-page">O nas</a></li>
+                        <li><a class="navbar-link" href="#projects" id="projects-page">Projekty</a></li>
+                        <li><a class="navbar-link" href="#authorities" id="authorities-page">Zarząd</a></li>
+                        <li><a class="navbar-link" href="#sponsors" id="sponsors-page">Wspierają nas</a></li>
+                        <li><a class="navbar-link" href="#footer" id="footer-page">Kontakt</a></li>
+                    </ul>
+                    <div class="mobile-nav-bars">
+                        <i class="fas fa-bars"></i>
+                    </div>
+                </nav>
             </div>
-          </div>
-          <div class="col-lg-3 col-md-3 col-sm-1 col-1"></div>
-          <nav class="col-lg-8 col-md-8 col-sm-8 col-7">
-            <div class="header__nav">
-              <li class="header__list">
-                <div class="header__link">START</div>
-              </li>
-              <li class="header__list">
-                <div class="header__link">O NAS</div>
-              </li>
-              <li class="header__list">
-                <div class="header__link">PROJEKTY</div>
-              </li>
-              <li class="header__list">
-                <div class="header__link">KONTAKT</div>
-              </li>
-              <li class="header__list">
-                <div class="header__link">WSPIERAJĄ NAS</div>
-              </li>
-            </div>
-          </nav>
         </div>
-      </div>
     </header>
-    <ul class="header__nav-tab">
-      <li class="header__nav-tab--list">
-        <div class="header__nav-tab--list-item">
-          <div class="header__nav-tab--link">START</div>
+    <section class="start" id="start" data-section="start">
+        <div class="container">
+            <div class="start__wrapper">
+                <div data-aos="fade-up" class="start__block">
+                    <!-- <img class="start__image akso" src="images/akso.jpg" alt="akso"> -->
+                    <img class="start__image hal" src="images/hal.jpg" alt="hal">
+                </div>
+                <div class="start__block">
+                    <!-- <div data-aos="fade-up" class="start__title">KNR</div> -->
+                    <div data-aos="fade-up" class="start__title"><span>K</span>oło <span>N</span>aukowe <span>R</span>obotyków</div>
+                </div>
+            </div>
         </div>
-      </li>
-      <li class="header__nav-tab--list">
-        <div class="header__nav-tab--list-item">
-          <div class="header__nav-tab--link">O NAS</div>
+        <div class="square"></div>
+        <div class="square square-left"></div>
+    </section>
+    <section class="about" id="about" data-section="about">
+        <div class="about__wave">
+            <svg viewBox="0 0 1200 120" preserveAspectRatio="none">
+                <path d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z"></path>
+            </svg>
         </div>
-      </li>
-      <li class="header__nav-tab--list">
-        <div class="header__nav-tab--list-item">
-          <div class="header__nav-tab--link">PROJEKTY</div>
+        <div class="container">
+            <div class="about__wrapper">
+                <div class="about__block" data-aos="fade-up">
+                    <img class="about__image" src="images/team.jpg" alt="hal">
+                </div>
+                <div class="about__block">
+                    <div data-aos="fade-up" class="about__title">
+                        O nas
+                    </div>
+                    <div data-aos="fade-up" data-aos-delay="300" class="about__descr">
+                        Koło Naukowe Robotyków KNR działające przy Wydziale Mechanicznym Energetyki i Lotnictwa Politechniki Warszawskiej. Skupia w swoich szeregach pasjonatów robotyki, którzy rozwijają swoją wiedzę i umiejętności. Działalność członków Koła nie ogranicza się do jednej tylko dziedziny robotyki - członkowie są zaangażowani w projekty dotyczące samochodów autonomicznych, wizji maszynowej, łazików marsjańskich, manipulatorów. Członkowie koła zajmują się także budową robotów humanoidalnych, mobilnych, podwodnych, a nawet chirurgicznych. Dodatkowo, studenci Koła wraz z swoimi konstrukcjami uczestniczą w ogólnopolskich i międzynarodowych zawodach robotycznych, prezentują swoje dokonania na międzynarodowych konferencjach oraz biorą udział w profesjonalnych szkoleniach. Działalność popularyzacji nauki skupia się na wystawianiu swoich konstrukcji oraz prezentacji ich na różnych wydarzeniach poświęconych nauce, jak np. Piknik Naukowy Polskiego Radia i Centrum Nauki Kopernik, czy podczas Nocy w Instytucie Lotnictwa. Prowadzą warsztaty dla młodzieży szkolnej rozszerzające ich wiedzę z robotyki, np. w ramach Festiwalu Nauki.
+                    </div>
+                </div>
+            </div>
         </div>
-      </li>
-      <li class="header__nav-tab--list">
-        <div class="header__nav-tab--list-item">
-          <div class="header__nav-tab--link">KONTAKT</div>
+        <div class="square square-white"></div>
+    </section>
+    <section class="projects" id="projects" data-section="projects">
+        <div class="projects__wave">
+            <svg viewBox="0 0 1200 120" preserveAspectRatio="none">
+                <path d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z"></path>
+            </svg>
         </div>
-      </li>
-      <li class="header__nav-tab--list">
-        <div class="header__nav-tab--list-item">
-          <div class="header__nav-tab--link">WSPIERAJĄ NAS</div>
+        <div class="projects__wrapper">
+            <div data-aos="fade-up" class="projects__title">
+                Projekty
+            </div>
+            <div class="projects__item">
+                <div data-aos="fade-up" class="projects__item-block">
+                    <div class="projects__item-slider">
+                        <img src="./images/lazik/1.jpg" alt="project 1">
+                        <img src="./images/lazik/2.jpg" alt="project 1">
+                        <img src="./images/lazik/3.jpg" alt="project 1">
+                        <img src="./images/lazik/4.jpg" alt="project 1">
+                    </div>
+                </div>
+                <div class="projects__item-block">
+                    <div data-aos="fade-up" class="projects__item-title">
+                        Łazik HAL-062
+                    </div>
+                    <div data-aos="fade-up" class="projects__item-descr">
+                        Łazik marsjański „HAL-062” to robot biorący udział w najbardziej prestiżowych zawodach na świecie ...
+                    </div>
+                    <div data-aos="fade-up">
+                        <a href="hal.html" class="projects__item-btn">
+                            Więcej ...
+                        </a>
+                    </div>
+                </div>
+                <div class="projects__square projects__square-top projects__square-right"></div>
+                <div class="projects__square projects__square-white projects__square-bottom  projects__square-left projects__square-big"></div>
+            </div>
+            <div class="projects__item projects__item-grey projects__item-reverse">
+                <div class="projects__item-block">
+                    <div data-aos="fade-up" class="projects__item-title">
+                        Melson
+                    </div>
+                    <div data-aos="fade-up" class="projects__item-descr">
+                        Melson to robot humanoidalny o 21 stopniach swobody. Swoją sylwetką i ruchami naśladuje człowieka, do czego wykorzystuje aż 19 wysokiej precyzji napędów ...
+                    </div>
+                    <div data-aos="fade-up">
+                        <a href="melson.html" class="projects__item-btn">
+                            Więcej ...
+                        </a>
+                    </div>
+                </div>
+                <div data-aos="fade-up" class="projects__item-block">
+                    <div class="projects__item-slider">
+                        <img src="./images/melson/1.jpg" alt="project 1">
+                        <img src="./images/melson/2.jpg" alt="project 1">
+                        <img src="./images/melson/3.jpg" alt="project 1">
+                        <img src="./images/melson/4.jpg" alt="project 1">
+                    </div>
+                </div>
+                <div class="projects__item-wave">
+                    <svg viewBox="0 0 1200 120" preserveAspectRatio="none">
+                        <path d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z"></path>
+                    </svg>
+                </div>
+                <div class="projects__square projects__square-big projects__square-bottom projects__square-right"></div>
+            </div>
+            <div class="projects__item">
+                <div data-aos="fade-up" class="projects__item-block">
+                    <div class="projects__item-slider">
+                        <img src="./images/okon/1.jpg" alt="project 1">
+                        <img src="./images/okon/2.jpg" alt="project 1">
+                        <img src="./images/okon/3.jpg" alt="project 1">
+                    </div>
+                </div>
+                <div class="projects__item-block">
+                    <div data-aos="fade-up" class="projects__item-title">
+                        Łódz Podwodna OKOŃ
+                    </div>
+                    <div data-aos="fade-up" class="projects__item-descr">
+                        Łódz Podwodna OKOŃ (AUV-Autonomous Underwater Vehicle) to w pełni autonomiczny robot podwodny ...
+                    </div>
+                    <div data-aos="fade-up">
+                        <a href="okon.html" class="projects__item-btn">
+                            Więcej ...
+                        </a>
+                    </div>
+                </div>
+                <div class="projects__item-wave projects__item-wave-grey">
+                    <svg viewBox="0 0 1200 120" preserveAspectRatio="none">
+                        <path d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z"></path>
+                    </svg>
+                </div>
+                <div class="projects__square projects__square-white projects__square-bottom projects__square-left"></div>
+            </div>
+            <div class="projects__item projects__item-grey projects__item-reverse">
+                <div class="projects__item-block">
+                    <div data-aos="fade-up" class="projects__item-title">
+                        Selfie
+                    </div>
+                    <div data-aos="fade-up" class="projects__item-descr">
+                        Samochód Autonomiczny „Selfie” projekt samochodu w skali 1:10, który przy pomocy wizji maszynowej lub lidaru i innych czujników porusza się po torze symulującym rzeczywisty ruch uliczny ...
+                    </div>
+                    <div data-aos="fade-up">
+                        <a href="selfie.html" class="projects__item-btn">
+                            Więcej ...
+                        </a>
+                    </div>
+                </div>
+                <div data-aos="fade-up" class="projects__item-block">
+                    <div class="projects__item-slider">
+                        <img src="./images/selfie/1.jpg" alt="project 1">
+                        <img src="./images/selfie/2.jpg" alt="project 1">
+                        <img src="./images/selfie/3.jpg" alt="project 1">
+                        <img src="./images/selfie/4.jpg" alt="project 1">
+                    </div>
+                </div>
+                <div class="projects__item-wave">
+                    <svg viewBox="0 0 1200 120" preserveAspectRatio="none">
+                        <path d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z"></path>
+                    </svg>
+                </div>
+            </div>
         </div>
-      </li>
-    </ul>
-    <div class="icon-bar__delete">
-      <div class="icon-bar">
-        <a
-          href="https://www.facebook.com/kolo.naukowe.robotykow.knr/"
-          target="_blank"
-          rel="noopener noreferrer"
-          class="icon-bar__link facebook"
-          ><i class="fa fa-facebook"></i
-        ></a>
-        <a
-          href="https://www.instagram.com/knr_pw/?hl=pl"
-          target="_blank"
-          rel="noopener noreferrer"
-          class="icon-bar__link instagram"
-          ><i class="fa fa-instagram"></i
-        ></a>
-        <a
-          href="https://www.linkedin.com/company/students-robotics-association-ko%C5%82o-naukowe-robotyk%C3%B3w-knr/about/"
-          target="_blank"
-          rel="noopener noreferrer"
-          class="icon-bar__link linkedin"
-          ><i class="fa fa-linkedin"></i
-        ></a>
-        <a
-          href="https://m.youtube.com/user/KoloNaukoweRobotykow"
-          target="_blank"
-          rel="noopener noreferrer"
-          class="icon-bar__link youtube"
-          ><i class="fa fa-youtube"></i
-        ></a>
-      </div>
-    </div>
+    </section>
+    <section class="authorities" id="authorities" data-section="authorities">
+        <div class="authorities__wave">
+            <svg viewBox="0 0 1200 120" preserveAspectRatio="none">
+                <path d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z"></path>
+            </svg>
+        </div>
+        <div class="container">
+            <div class="authorities__wrapper">
+                <div data-aos="fade-up" class="authorities__title">
+                    Zarząd
+                </div>
+                <div class="authorities__content">
+                    <div class="authorities__content-block">
+                        <div data-aos="fade-up" class="authorities__position">
+                            Prezes
+                        </div>
+                        <div data-aos="fade-up" data-aos-delay="100" class="authorities__name">
+                            Kajetan Jonak
+                        </div>
+                        <div data-aos="fade-up" data-aos-delay="200">
+                            <a href="mailto:kajetan@jonak.org.pl" class="authorities__contacts-item">
+                                <i class="far fa-envelope"></i>
+                                <p>kajetan@jonak.org.pl</p>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="authorities__content-block">
+                        <div data-aos="fade-up" class="authorities__position">
+                            Wiceprezes
+                        </div>
+                        <div data-aos="fade-up" data-aos-delay="100" class="authorities__name">
+                            Paweł Kotiuk
+                        </div>
+                        <div data-aos="fade-up" data-aos-delay="200">
+                            <a href="mailto:pawel.kotiuk.stud@pw.edu.pl" class="authorities__contacts-item">
+                                <i class="far fa-envelope"></i>
+                                <p>pawel.kotiuk.stud@pw.edu.pl</p>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="authorities__content-block">
+                        <div data-aos="fade-up" class="authorities__position">
+                            Skarbnik
+                        </div>
+                        <div data-aos="fade-up" data-aos-delay="100" class="authorities__name">
+                            Cezary Łączek
+                        </div>
+                        <div data-aos="fade-up" data-aos-delay="200">
+                            <a href="mailto:someemail@gmail.com" class="authorities__contacts-item">
+                                <i class="far fa-envelope"></i>
+                                <p>someemail@gmail.com</p>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="authorities__content-block">
+                        <div data-aos="fade-up" class="authorities__position">
+                            Koordynator ds. Sponsoringu i Reklamy
+                        </div>
+                        <div data-aos="fade-up" data-aos-delay="100" class="authorities__name">
+                            Aleksandra Panufnik
+                        </div>
+                        <div data-aos="fade-up" data-aos-delay="200" >
+                            <a href="mailto:01153151@pw.edu.pl" class="authorities__contacts-item">
+                                <i class="far fa-envelope"></i>
+                                <p>01153151@pw.edu.pl</p>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="square square-white"></div>
+    </section>
+    <section class="sponsors" id="sponsors" data-section="sponsors">
+        <div class="container">
+            <div data-aos="fade-up" class="sponsors__title">
+                Wspierają nas
+            </div>
+            <div data-aos="fade-up" data-aos-delay="300" class="sponsors__block">
+                <a href="https://www.tme.eu/" target="_blank">
+                    <img src="images/tme.png" alt="sponsors image">
+                </a>
+                <a href="https://botland.com.pl/pl/" target="_blank">
+                    <img src="images/botland.png" alt="sponsors image">
+                </a>
+                <a href="https://www.solidworks.com/" target="_blank">
+                    <img src="images/solid.png" alt="sponsors image">
+                </a>
 
-    <main class="start__container">
-      <div class="start__video">
-        <!--<video autoplay loop muted class="start__video-item">-->
-        <!--<source src="" type="video/mp4">-->
-        <!--</video>-->
-      </div>
-      <div class="start__img">
-        <div class="start__img-item"></div>
-      </div>
-    </main>
-    <article class="about-us">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-8 col-md-12 col-sm-12">
-            <div class="about-us__info">
-              <h1 class="about-us__title">O NAS</h1>
-              <p class="about-us__text">
-                Koło Naukowe Robotyków KNR działające przy Wydziale Mechanicznym
-                Energetyki i Lotnictwa Politechniki Warszawskiej. Skupia w
-                swoich szeregach pasjonatów robotyki, którzy rozwijają swoją
-                wiedzę i umiejętności. Działalność członków Koła nie ogranicza
-                się do jednej tylko dziedziny robotyki - członkowie są
-                zaangażowani w projekty dotyczące samochodów autonomicznych,
-                wizji maszynowej, łazików marsjańskich, manipulatorów.
-                Członkowie koła zajmują się także budową robotów humanoidalnych,
-                mobilnych, podwodnych, a nawet chirurgicznych. Dodatkowo,
-                studenci Koła wraz z swoimi konstrukcjami uczestniczą w
-                ogólnopolskich i międzynarodowych zawodach robotycznych,
-                prezentują swoje dokonania na międzynarodowych konferencjach
-                oraz biorą udział w profesjonalnych szkoleniach. Działalność
-                popularyzacji nauki skupia się na wystawianiu swoich konstrukcji
-                oraz prezentacji ich na różnych wydarzeniach poświęconych nauce,
-                jak np. Piknik Naukowy Polskiego Radia i Centrum Nauki Kopernik,
-                czy podczas Nocy w Instytucie Lotnictwa. Prowadzą warsztaty dla
-                młodzieży szkolnej rozszerzające ich wiedzę z robotyki, np. w
-                ramach Festiwalu Nauki.
-              </p>
+                <a href="http://www.addit.pl/" target="_blank">
+                    <img src="images/addit.png" alt="sponsors image">
+                </a>
+                <a href="https://www.st.com/content/st_com/en.html" target="_blank">
+                    <img src="images/stm.png" alt="sponsors image">
+                </a>
             </div>
-          </div>
-          <div class="col-lg-4 col-md-12 col-sm-12">
-            <div class="about-us__box">
-              <div
-                class="fb-page"
-                data-href="https://www.facebook.com/kolo.naukowe.robotykow.knr/"
-                data-tabs="timeline"
-                data-max-width="350"
-                data-height="400"
-                data-small-header="false"
-                data-adapt-container-width="true"
-                data-hide-cover="false"
-                data-show-facepile="true"
-              >
-                <blockquote
-                  cite="https://www.facebook.com/kolo.naukowe.robotykow.knr/"
-                  class="fb-xfbml-parse-ignore"
-                >
-                  <a href="https://www.facebook.com/kolo.naukowe.robotykow.knr/"
-                    >Koło Naukowe Robotyków KNR</a
-                  >
-                </blockquote>
-              </div>
-            </div>
-          </div>
         </div>
-      </div>
-    </article>
-    <article class="projects">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-12 col-md-12 col-sm-12">
-            <h1 class="projects__title">PROJEKTY</h1>
-          </div>
+    </section>
+    <footer class="footer" id="footer" data-section="footer">
+        <div class="footer__wave">
+            <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
+                <path d="M0,0V46.29c47.79,22.2,103.59,32.17,158,28,70.36-5.37,136.33-33.31,206.8-37.5C438.64,32.43,512.34,53.67,583,72.05c69.27,18,138.3,24.88,209.4,13.08,36.15-6,69.85-17.84,104.45-29.34C989.49,25,1113-14.29,1200,52.47V0Z" opacity=".25"></path>
+                <path d="M0,0V15.81C13,36.92,27.64,56.86,47.69,72.05,99.41,111.27,165,111,224.58,91.58c31.15-10.15,60.09-26.07,89.67-39.8,40.92-19,84.73-46,130.83-49.67,36.26-2.85,70.9,9.42,98.6,31.56,31.77,25.39,62.32,62,103.63,73,40.44,10.79,81.35-6.69,119.13-24.28s75.16-39,116.92-43.05c59.73-5.85,113.28,22.88,168.9,38.84,30.2,8.66,59,6.17,87.09-7.5,22.43-10.89,48-26.93,60.65-49.24V0Z" opacity=".5"></path>
+                <path d="M0,0V5.63C149.93,59,314.09,71.32,475.83,42.57c43-7.64,84.23-20.12,127.61-26.46,59-8.63,112.48,12.24,165.56,35.4C827.93,77.22,886,95.24,951.2,90c86.53-7,172.46-45.71,248.8-84.81V0Z"></path>
+            </svg>
         </div>
-      </div>
-      <div class="projects__background-brake">
         <div class="container">
-          <div class="row">
-            <div class="col-lg-5 col-md-12 col-sm-12">
-              <div class="projects__box">
-                <img
-                  class="projects__img"
-                  src="wp-content/themes/KNR-website-2021-12.2/css/okon_knr.jpg"
-                />
-              </div>
+            <div class="footer__wrapper">
+                <div class="footer__block">
+                    <div class="footer__social">
+                        <a href="https://www.facebook.com/kolo.naukowe.robotykow.knr/" class="footer__social-item">
+                            <i class="fab fa-facebook"></i>
+                        </a>
+                        <a href="https://www.instagram.com/knr_pw/?igshid=YmMyMTA2M2Y%3D" class="footer__social-item">
+                            <i class="fab fa-instagram"></i>
+                        </a>
+                        <a href="https://www.linkedin.com/company/students-robotics-association-ko%C5%82o-naukowe-robotyk%C3%B3w-knr/mycompany/" class="footer__social-item">
+                            <i class="fab fa-linkedin"></i>
+                        </a>
+                    </div>
+                </div>
+                <div class="footer__block">
+                    <div class="footer__image">
+                        <img src="images/logo.png" alt="logo">
+                    </div>
+                </div>
+                <div class="footer__block">
+                    <div class="footer__info">
+                        <div class="footer__contacts">
+                            <!-- <a href="tel:+234567823456" class="footer__contacts-item">
+                                <i class="fas fa-phone"></i>
+                                <p>+234567823456</p>
+                            </a> -->
+                            <a href="mailto:knr@pw.edu.pl" class="footer__contacts-item">
+                                <i class="far fa-envelope"></i>
+                                <p>knr@pw.edu.pl</p>
+                            </a>
+                            <a href="mailto:knr.meil@gmail.com" class="footer__contacts-item">
+                                <i class="far fa-envelope"></i>
+                                <p>knr.meil@gmail.com</p>
+                            </a>
+                            <a href="https://goo.gl/maps/BA4zbvgrkiLX1B8y7" target="_blank" class="footer__contacts-item">
+                                <i class="fa-solid fa-map-location"></i>
+                                <p>Wydział Mechaniczny Energetyki i Lotnictwa Politechniki Warszawskiej</p>
+                            </a>
+                        </div>
+                    </div>
+                </div>
             </div>
-            <div class="col-lg-7 col-md-12 col-sm-12">
-              <div class="projects__info">
-                <h2 class="projects__titles">Łódz Podwodna OKOŃ</h2>
-                <p class="projects__text">
-                  Łódz Podwodna OKOŃ (AUV-Autonomous Underwater Vehicle) to w
-                  pełni autonomiczny robot podwodny. Bardzo dobrą okazją do
-                  poszerzenia umiejętności w zakresie budowy jednostek
-                  pływających, sterowania nimi oraz nadawania im autonomii są
-                  coroczne międzynarodowe studenckie zawody robotów podwodnych
-                  RoboSub w Stanach Zjednoczonych czy SAUVC w Singapurze. Każdy z AUV musi wykonać
-                  szereg zadań w określonym czasie, bez ingerencji operatora.
-                  Projekt obejmuje budowę w pełni wodoszczelnego (do głębokości
-                  przynajmniej 4m) korpusu robota, system silników i czujników
-                  do stabilizacji poziomej i pionowej oraz szybkiego i
-                  dokładnego przemieszczania się oraz chwytaka do podnoszenia i
-                  opuszczania piłeczek, a także działanie z czujnikami
-                  akustycznymi do lokalizacji celów oznaczonych dźwiękowo.
-                </p>
-              </div>
-            </div>
-          </div>
         </div>
-      </div>
-      <div class="projects__background">
-        <div class="container">
-          <div class="row">
-            <div class="col-lg-7 col-md-12 col-sm-12">
-              <div class="projects__info">
-                <h2 class="projects__titles">Łazik HAL-062</h2>
-                <p class="projects__text">
-                  Łazik marsjański „HAL-062” w tym roku brał udział w University
-                  Rover Challenge. Są to odbywających się w USA zawody, na
-                  których ma być symulowana współpraca pomiędzy robotem a
-                  astronautą podczas misji na marsie. Są to najbardziej
-                  prestiżowe i rozpoznawalne zawody robotyczne na świecie. Robot
-                  jest wyposażony w zawieszenie typu Rocker - Bogie, napęd
-                  różnicowy oraz manipulator o 6 stopniach swobody. Dodatkowo
-                  posiada moduł z kamerami oraz GPS-em, używany do autonomicznej
-                  nawigacji podczas jednej z konkurencji. Aktualnie jego
-                  następna, ulepszona wersja jest przygotowywana na kolejną
-                  edycję konkursu, która odbędzie się w maju przyszłego roku.
-                </p>
-              </div>
-            </div>
-            <div class="col-lg-5 col-md-12 col-sm-12">
-              <div class="projects__box">
-                <img
-                  class="projects__img"
-                  src="wp-content/themes/KNR-website-2021-12.2/css/hal.jpg"
-                />
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="projects__background-brake">
-        <div class="container">
-          <div class="row">
-            <div class="col-lg-5 col-md-12 col-sm-12">
-              <div class="projects__box">
-                <img
-                  class="projects__img"
-                  src="wp-content/themes/KNR-website-2021-12.2/css/selfie.jpg"
-                />
-              </div>
-            </div>
-            <div class="col-lg-7 col-md-12 col-sm-12">
-              <div class="projects__info">
-                <h2 class="projects__titles">Selfie</h2>
-                <p class="projects__text">
-                  Samochód Autonomiczny „Selfie” projekt samochodu w skali 1:10,
-                  który przy pomocy wizji maszynowej lub lidaru i innych
-                  czujników porusza się po torze symulującym rzeczywisty ruch
-                  uliczny. Do sukcesów zespołu można zaliczyć:
-                  <li>
-                    Pierwsze miejsce na International Autonomous Robot
-                    Racing Challenge 2018 w Kanadzie
-                  </li>
-                  <li>
-                    Drugie miejsce na zawodach Carolo – Cup w Niemczech w roku
-                    2020
-                  </li>
-                  <li>
-                    Pierwsze miejsce na zawodach Carolo – Cup w Niemczech w roku
-                    2021
-                  </li>
-                  <li>
-                    Trzecie miejsce na zawodach Carolo – Cup w Niemczech w roku
-                    2022
-                  </li>
-                  Powstały już 4 iteracje pojazdu, aktualnie pracujemy nad piątą.
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="projects__background">
-        <div class="container">
-          <div class="row">
-            <div class="col-lg-7 col-md-12 col-sm-12">
-              <div class="projects__info">
-                <h2 class="projects__titles">Melson</h2>
-                <p class="projects__text">
-                  Melson to robot humanoidalny o 21 stopniach swobody. Swoją
-                  sylwetką i ruchami naśladuje człowieka, do czego wykorzystuje
-                  aż 19 wysokiej precyzji napędów. Projekt powstał z myślą o
-                  konkurencjach takich jak Humanoid Sprint i Humanoid Sumo,
-                  jednak stanowi też doskonałą podstawę do rozwoju naszych
-                  zainteresowań i pasji z dziedziny robotyki. Do sukcesów
-                  Melsona można zaliczyć zajęcie 1 miejsca w kategorii „Humanoid
-                  Sprint” na zawodach Sumo Challenge w Łodzi, czy 1 miejsca w
-                  kategorii „Humanoid Robot” na zawodach RoboChallenge w
-                  Rumunii. Aktualnie nasz zespół pracuje nad konstrukcją
-                  kolejnych robotów, z którymi aspirujemy do udziału w zawodach
-                  robotycznej piłki nożnej RoboCup.
-                </p>
-              </div>
-            </div>
-            <div class="col-lg-5 col-md-12 col-sm-12">
-              <div class="projects__box">
-                <img
-                  class="projects__img"
-                  src="wp-content/themes/KNR-website-2021-12.2/css/melson.jpg"
-                />
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <!--<div class=" projects__background-brake">-->
-      <!--<div class="container">-->
-      <!--<div class="row">-->
-      <!--<div class="col-lg-5 col-md-12 col-sm-12">-->
-      <!--<div class="projects__box">-->
-      <!--<img class="projects__img" src="https://via.placeholder.com/350x400"/>-->
-      <!--</div>-->
-      <!--</div>-->
-      <!--<div class="col-lg-7 col-md-12 col-sm-12">-->
-      <!--<div class="projects__info">-->
-      <!--<h2 class="projects__titles">Roboty sportowe</h2>-->
-      <!--<p class="projects__text">-->
-      <!--Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid asperiores aspernatur aut commodi consectetur debitis-->
-      <!--dignissimos doloribus dolorum eius eligendi enim eum excepturi explicabo facilis hic impedit itaque iure iusto laudantium-->
-      <!--libero magnam minus molestiae natus necessitatibus nobis numquam perferendis possimus provident quis quod rem, saepe sed-->
-      <!--sequi soluta ullam unde voluptates! A amet aperiam consectetur consequatur delectus dolor dolorem, dolorum eos est eveniet-->
-      <!--explicabo hic iure libero modi molestias neque nobis odio quas sunt vitae! Consectetur delectus dolore doloremque expedita-->
-      <!--maiores officiis optio soluta voluptatibus. Earum error eum illo laborum maiores maxime molestias porro quas sunt vero. A-->
-      <!--doloribus nemo nobis nostrum! Accusantium, blanditiis consequatur culpa cum dignissimos doloribus ducimus earum et excepturi-->
-      <!--explicabo facere fugiat fugit incidunt, inventore, laborum minima non odit officiis pariatur quasi sequi ullam voluptates.-->
-      <!--</p>-->
-      <!--</div>-->
-      <!--</div>-->
-      <!--</div>-->
-      <!--</div>-->
-      <!--</div>-->
-    </article>
-    <article class="contact">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-12 col-md-12 col-sm-12">
-            <h1 class="contact__title">KONTAKT</h1>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-lg-12 col-md-12 col-sm-12">
-            <div class="contact__social">
-              <i class="fa fa-envelope" aria-hidden="true"></i>
-              <div class="contact__social-email">knr@pw.edu.pl</div>
-            </div>
-            <div class="contact__social">
-              <i class="fa fa-envelope" aria-hidden="true"></i>
-              <div class="contact__social-email">knr.meil@gmail.com</div>
-            </div>
-            <div class="contact__social">
-              <i class="fa fa-facebook-official" aria-hidden="true"></i>
-              <div class="contact__social-facebook">
-                www.facebook.com/kolo.naukowe.robotykow.knr/
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-lg-12 col-md-12 col-sm-12">
-            <div class="contact__info">
-              <h2 class="contact__titles">Zarząd</h2>
-            </div>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-lg-4 col-md-6 col-sm-6 col-6">
-            <div class="contact__managment-employee">
-              <div class="contact__managment-position">
-                <div class="contact__managment-position--enter">&nbsp;</div>
-                Prezes
-              </div>
-              <div class="contact__managment-box">
-                <!-- <img
-                  class="contact__managment-img"
-                  src="wp-content/themes/KNR-website-2021-12.2/css/Jacek_Prokopczuk-prezes.jpg"
-                /> -->
-              </div>
-              <div class="contact__managment-info">Kajetan Jonak</div>
-              <div class="contact__managment-infos">
-                <i class="fa fa-envelope" aria-hidden="true"></i>
-                kajetan@jonak.org.pl
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6 col-sm-6 col-6">
-            <div class="contact__managment-employee">
-              <div class="contact__managment-position">
-                <div class="contact__managment-position--enter">&nbsp;</div>
-                Wiceprezes
-              </div>
-              <div class="contact__managment-box"></div>
-              <div class="contact__managment-info">Paweł Kotiuk</div>
-              <div class="contact__managment-infos">
-                <i class="fa fa-envelope" aria-hidden="true"></i>
-                pawel.kotiuk.stud@pw.edu.pl
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6 col-sm-6 col-6">
-            <div class="contact__managment-employee">
-              <div class="contact__managment-position">Skarbnik</div>
-              <div class="contact__managment-box"></div>
-              <div class="contact__managment-info">Cezary Łączek</div>
-              <div class="contact__managment-infos"></div>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6 col-sm-6 col-6">
-            <div class="contact__managment-employee">
-              <div class="contact__managment-position">
-                Koordynator ds. Sponsoringu i Reklamy
-              </div>
-              <div class="contact__managment-box"></div>
-              <div class="contact__managment-info">Aleksandra Panufnik</div>
-              <div class="contact__managment-infos">
-                <i class="fa fa-envelope" aria-hidden="true"></i>
-                01153151@pw.edu.pl
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </article>
-    <article class="sponsors">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-12 col-md-12 col-sm-12">
-            <h1 class="sponsors__info">WSPIERAJĄ NAS</h1>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-lg-12 col-md-12 col-sm-12">
-            <div class="sponsors__info-items-text">
-              <div class="sponsors__info-description">
-                dostawca wyposażenia warsztatu KNR
-              </div>
-              <a
-                class="sponsors__info-img6"
-                href="https://www.tme.eu/"
-                target="_blank"
-              ></a>
-            </div>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-lg-12 col-md-12 col-sm-12">
-            <div class="sponsors__info-items-text">
-              <a
-                class="sponsors__info-img7"
-                href="http://www.addit.pl/"
-                target="_blank"
-              ></a>
-            </div>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-lg-6 col-md-6 col-sm-6">
-            <div class="sponsors__info-items">
-              <div class="sponsors__info-img3"></div>
-            </div>
-          </div>
-          <div class="col-lg-6 col-md-6 col-sm-6">
-            <div class="sponsors__info-items">
-              <a
-                class="sponsors__info-img1"
-                href="https://botland.com.pl/pl/"
-                target="_blank"
-              ></a>
-            </div>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-lg-12 col-md-12 col-sm-12">
-            <div class="sponsors__info-items">
-              <div class="sponsors__info-img5"></div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </article>
-    <footer class="footer">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-12 col-md-12 col-sm-12">
-            <div class="footer__info">
-              <div class="footer__info-rights">
-                <i class="fa fa-copyright" aria-hidden="true"></i> Piotr Szubert
-                for KNR 2019
-              </div>
-              <div class="footer__info-rights"></div>
-            </div>
-          </div>
-        </div>
-      </div>
     </footer>
-  </body>
-  <script type="text/javascript">
-    /* <![CDATA[ */
-    var bwg_objectsL10n = {
-      bwg_select_tag: "Select Tag",
-      bwg_order_by: "Order By",
-      bwg_search: "Szukaj",
-      bwg_show_ecommerce: "Show Ecommerce",
-      bwg_hide_ecommerce: "Hide Ecommerce",
-      bwg_show_comments: "Poka\u017c komentarze",
-      bwg_hide_comments: "Ukryj komentarze",
-      bwg_how_comments: "how Comments",
-      bwg_restore: "Przywr\u00f3\u0107",
-      bwg_maximize: "Maksymalizacji",
-      bwg_fullscreen: "Pe\u0142ny ekran",
-      bwg_search_tag: "SEARCH...",
-      bwg_tag_no_match: "No tags found",
-      bwg_all_tags_selected: "All tags selected",
-      bwg_tags_selected: "tags selected",
-    };
-    /* ]]> */
-  </script>
-  <script
-    type="text/javascript"
-    src="wp-content/plugins/photo-gallery/js/bwg_frontend.js"
-  ></script>
-  <script
-    type="text/javascript"
-    src="wp-content/plugins/photo-gallery/js/jquery.sumoselect.min.js"
-  ></script>
-  <script
-    type="text/javascript"
-    src="wp-content/plugins/photo-gallery/js/jquery.mobile.js"
-  ></script>
-  <script
-    type="text/javascript"
-    src="wp-content/plugins/photo-gallery/js/jquery.mCustomScrollbar.concat.min.js"
-  ></script>
-  <script
-    type="text/javascript"
-    src="wp-content/plugins/photo-gallery/js/jquery.fullscreen-0.4.1.js"
-  ></script>
-  <script type="text/javascript">
-    /* <![CDATA[ */
-    var bwg_objectL10n = {
-      bwg_field_required: "field is required.",
-      bwg_mail_validation: "To nie jest prawid\u0142owy adres e-mail. ",
-      bwg_search_result:
-        "Nie ma \u017cadnych zdj\u0119\u0107 pasuj\u0105cych do wyszukiwania.",
-    };
-    /* ]]> */
-  </script>
-  <script
-    type="text/javascript"
-    src="wp-content/plugins/photo-gallery/js/bwg_gallery_box.js"
-  ></script>
-  <script
-    type="text/javascript"
-    src="wp-content/plugins/photo-gallery/js/bwg_embed.js"
-  ></script>
-  <script
-    type="text/javascript"
-    src="https://connect.facebook.net/pl_PL/sdk.js?ver=1.0.0#xfbml=1&#038;version=v3.2"
-  ></script>
-  <script
-    type="text/javascript"
-    src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js?ver=1.0.0"
-  ></script>
-  <script
-    type="text/javascript"
-    src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js?ver=1.0.0"
-  ></script>
-  <script
-    type="text/javascript"
-    src="wp-content/themes/KNR-website-2021-12.2/js/script.js"
-  ></script>
-  <script
-    type="text/javascript"
-    src="wp-content/plugins/animated-headline/js/main.js"
-  ></script>
-  <script type="text/javascript" src="wp-includes/js/wp-embed.min.js"></script>
+    <script src="js/aos.js"></script>
+    <script src="https://kit.fontawesome.com/2c477ec56b.js" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+    <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+    <script type="text/javascript" src="./js/slick.min.js"></script>
+    <script src="js/script.js"></script>
+    <script src="js/scrolling.js"></script>
+</body>
 </html>

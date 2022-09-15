@@ -1,0 +1,42 @@
+@media (max-width: 991px){
+    .focus{
+        &__wrapper{
+            flex-direction: column;
+            align-items: center;
+        }
+        &__block{
+            width: 70%;
+            margin-bottom: 60px;
+            margin-left: 0;
+            &:last-child{
+                margin-bottom: 0;
+            }
+            &-image{
+                transform: scale(0.85);
+            }
+        }
+    }
+}
+
+@media (max-width: 767px){
+    
+}
+
+@media (max-width: 575px){
+    .focus{
+        &__block{
+            width: 70%;
+            &:last-child{
+                margin-bottom: 0;
+            }
+            &-image{
+                transform: scale(0.7);
+                margin-bottom: 20px;
+            }
+            &-title{
+                font-size: 18px;
+                line-height: 20px;
+            }
+        }
+    }
+}
