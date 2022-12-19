@@ -1,0 +1,9 @@
+baseURL = "https://knr.edu.pl/"
+languageCode = "pl-pl"
+title = "Koło Naukowe Robotyków PW"
+
+
+[project]
+title = "Project"
+singular = "project"
+plural = "projects"
