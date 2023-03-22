@@ -20,9 +20,6 @@ tekst
 ## h2
 więcej tekstu
 # zdjęcie dodane w markdownie
-
-{{< img src="/images/melson/1.jpg" alt="article_image" width="100%">}} 
+![alt text](/images/melson/1.jpg)
 # film youtube dodany w markdownie
 {{< youtube 2tch4J_pP9o>}}
-
-  
