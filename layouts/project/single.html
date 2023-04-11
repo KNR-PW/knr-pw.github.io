@@ -8,26 +8,27 @@
     <img src="{{ .Params.main_project_image }}" alt="hal" />
   </div>
 </section>
-<section class="about">
-  <div class="about__triangle">
+<section class="project">
+  <div class="project__triangle">
     <svg viewBox="0 0 1200 120" preserveAspectRatio="none">
       <path d="M1200 0L0 0 892.25 114.72 1200 0z"></path>
     </svg>
   </div>
   <div class="container">
-    <div class="about__wrapper">
-      <div class="about__block">
-        <img class="about__image" src="{{ .Params.article_image}}" alt="hal" />
+    <div class="project__wrapper">
+      <div class="project__block">
+        <img class="project__image" src="{{ .Params.article_image}}" alt="hal" />
       </div>
-      <div class="about__block">
-        <div class="about__descr">{{.Params.short_description | safeHTML }}
+      <div class="project__block">
+        <div class="project__descr-title">Kilka słów więcej</div>
+        <div class="project__descr">{{.Params.short_description | safeHTML }}
         </div>
       </div>
     </div>
 
-    <div class="about__wrapper">
-      <div class="about__block">
-        <div class="about__descr">
+    <div class="project__wrapper">
+      <div class="project__block">
+        <div class="project__descr">
           {{.Content}}
         </div>
       </div>
