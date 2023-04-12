@@ -15,16 +15,3 @@ short_description:
     przygotowywana na kolejną edycję konkursu, która odbędzie się w maju
     przyszłego roku."
 ---
-# Kilka słów więcej
-jakiś tekst
-# h1
-## h2
-### h3
-#### h4
-##### h5
-###### h6
-więcej tekstu
-# zdjęcie dodane w markdownie
-![alt text](/images/melson/1.jpg)
-# film youtube dodany w markdownie
-{{< youtube 2tch4J_pP9o>}}
