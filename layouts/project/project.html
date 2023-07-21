@@ -1,0 +1,37 @@
+{{ partial "header.html" . }}
+<section class="project-start">
+</section>
+<section class="project">
+  <div class="project__triangle">
+    <svg viewBox="0 0 1200 120" preserveAspectRatio="none">
+      <path d="M1200 0L0 0 892.25 114.72 1200 0z"></path>
+    </svg>
+  </div>
+        <div class="archive-title" data-aos="fade-up">Archiwum projektów</div>
+  </div>
+  <div class="square square-white"></div>
+  <div class="archive-gallery">
+    {{range .Pages}}
+      <div class="archive-item" data-aos="fade-up">
+        <a href="{{ .RelPermalink }}">
+          <img src="{{ .Params.article_image}}" alt="{{.Title}}">
+          <h2 data-aos="fade-up">{{.Title}}</h2>
+          <div class="archive-dates">
+            <p data-aos="fade-up">
+              {{ if .Params.start_date }}
+                {{ .Params.start_date }}
+                {{ if .Params.end_date }} 
+                  - {{ .Params.end_date }} 
+                {{ else }} 
+                  - obecnie 
+                {{ end }}
+              {{ end }}
+            </p>
+          </div>
+          <p data-aos="fade-up">{{.Params.short_description | safeHTML | truncate 100 }}</p>
+        </a>
+      </div>
+    {{end}}
+  </div>
+</section>
+{{ partial "footer.html" . }}

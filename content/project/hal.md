@@ -3,6 +3,8 @@ title: Łazik HAL-062
 url: "/hal"
 main_project_image: "/images/hal_small.jpg"
 article_image: "/images/lazik/4.jpg"
+start_date:
+end_date:
 short_description:
   "Łazik marsjański „HAL-062” w tym roku brał udział w University Rover
   Challenge. Są to odbywających się w USA zawody, na których ma być
