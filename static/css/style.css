@@ -109,7 +109,9 @@
 .dropdown-menu a {
     color: #333;
     display: block;
-    padding: 15px;
+    padding: 10px;
+    padding-left:25px;
+    padding-right:25px;
     margin-right:0px;
     width: auto;
     text-align: center;
