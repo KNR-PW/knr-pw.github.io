@@ -3,6 +3,8 @@ title: Selfie
 url: "/selfie"
 main_project_image: "/images/selfie/4.jpg"
 article_image: "/images/selfie/1.jpg"
+archive_image: "/images/selfie/4.jpg"
+main_site: false
 start_date: 2016
 end_date: 2022.09
 short_description:

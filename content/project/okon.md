@@ -3,6 +3,7 @@ title: Łódz Podwodna OKOŃ
 url: "/okon"
 main_project_image: "/images/okon/1.jpg"
 article_image: "/images/okon/2.jpg"
+main_site: true
 start_date:
 end_date:
 short_description: "Łódz Podwodna OKOŃ (AUV-Autonomous Underwater Vehicle) to w pełni autonomiczny

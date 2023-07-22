@@ -3,6 +3,7 @@ title: Melson
 url: "/melson"
 main_project_image: "/images/melson/3.jpg"
 article_image: "/images/melson/1.jpg"
+main_site: true
 start_date:
 end_date:
 short_description:

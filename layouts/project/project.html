@@ -14,7 +14,11 @@
     {{range .Pages}}
       <div class="archive-item" data-aos="fade-up">
         <a href="{{ .RelPermalink }}">
-          <img src="{{ .Params.article_image}}" alt="{{.Title}}">
+          {{ if .Params.archive_image }}
+            <img src="{{ .Params.archive_image }}" alt="{{ .Params.title }}" />
+          {{else}}
+            <img src="{{ .Params.article_image }}" alt="{{ .Params.title }}" />
+          {{ end }}
           <h2 data-aos="fade-up">{{.Title}}</h2>
           <div class="archive-dates">
             <p data-aos="fade-up">
