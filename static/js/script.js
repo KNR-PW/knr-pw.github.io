@@ -35,6 +35,28 @@ function clickBars(navSelector, navItemsSelector, barsSelector){
 }
 
 
+document.addEventListener('DOMContentLoaded', function() {
+    const dropdownToggle = document.querySelector('.dropdown-toggle');
+    const dropdownMenu = document.querySelector('.dropdown-menu');
+    let timeout;
+
+    dropdownToggle.addEventListener('click', function(){
+        dropdownMenu.classList.toggle('dropdown-menu-shown')
+    });
+
+    function hideDropdownMenu(){
+        dropdownMenu.classList.remove('dropdown-menu-shown')
+    };
+
+    dropdownMenu.addEventListener('mouseenter', () => {
+        clearTimeout(timeout);
+    });
+
+    dropdownMenu.addEventListener('mouseleave', () => {
+        timeout = setTimeout(hideDropdownMenu, 500);
+    });
+});
+
 // function slider({container, slide, nextArrow, prevArrow, wrapper, field}) {
 //     let offset = 0;
 //     let slideIndex = 1;

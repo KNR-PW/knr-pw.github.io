@@ -81,6 +81,9 @@
 .dropdown {
     position: relative;
 }
+.dropdown p {
+    user-select: none;
+}
 .dropdown-toggle{
     cursor: pointer;
     color:#fff;
@@ -92,19 +95,18 @@
     margin-left: 5px;
     color:#008ae6;
 }
-.dropdown:hover .dropdown-menu {
-    display: block;
-    text-align: center;
-}
 .dropdown-menu {
     background-color: #fff;
     outline: 2px solid #505050;
     border-radius: 10px;
-    display: none;
     width: auto;
     position: absolute;
     text-align: center;
     z-index: 1;
+    display: none;
+}
+.dropdown-menu-shown {
+    display: block;
 }
 .dropdown-menu a {
     color: #333;
@@ -128,14 +130,11 @@
 }
 @media (max-width:870px){
     .dropdown-menu{
+        margin-top:5px;
         width:100%;
         outline:0px;
     }
 }
-.dropdown:hover .dropdown-menu {
-    display: block;
-    text-align: center;
-    }
 .navbar-mobile{
     position:fixed;
     overflow:hidden;
