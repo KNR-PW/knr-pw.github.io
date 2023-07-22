@@ -190,26 +190,15 @@
     <section class="projects archive__section" id="archive" data-section="archive">
       <div class="projects__wrapper">
         <div class="projects__item">
-          <div data-aos="fade-up" class="projects__item-block">
-            <div class="projects__item-slider">
-              {{ range .Site.RegularPages }}
-                {{ if (eq .Params.main_site false)}}
-                  {{ if .Params.archive_image }}
-                    <img src="{{ .Params.archive_image }}" alt="{{ .Params.title }}" />
-                  {{ end }}
-                {{ end }}
-              {{ end }}
-            </div>
-          </div>
-          <div class="projects__item-block">
-            <div data-aos="fade-up" class="projects__item-title">
+          <div class="archive__item-block">
+            <div data-aos="fade-up" class="archive__item-title">
               Archiwum projektów
             </div>
-            <div data-aos="fade-up" class="projects__item-descr">
+            <div data-aos="fade-up" class="archive__item-descr">
               Jeśli jesteś ciekawy innych naszych projektów możesz zajrzeć do naszego archiwum. 
             </div>
             <div data-aos="fade-up">
-              <a href="project" class="projects__item-btn"> 
+              <a href="project" class="archive__item-btn"> 
                 Więcej ... 
               </a>
             </div>
@@ -223,8 +212,6 @@
       </div>
     </section>
     <section class="authorities" id="authorities" data-section="authorities">
-      <!-- usunąć po review pomimo że authorities__wave i projects__item-wave to to samo w stylach 
-        to zmiana na to naprawia wygląd i nie chce mi się marnować czasu na ustalenie czemu, działa? działa -->
       <div class="projects__item-wave">
         <svg viewBox="0 0 1200 120" preserveAspectRatio="none">
           <path
