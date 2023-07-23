@@ -1329,22 +1329,6 @@
     -webkit-transition:0.3s;
     transition:0.3s
 }
-/* .authorities__wave{
-    position:absolute;
-    top:0;
-    left:0;
-    width:100%;
-    overflow:hidden;
-    line-height:0
-}
-.authorities__wave svg{
-    position:relative;
-    display:block;
-    width:calc(100% + 1.3px)
-}
-.authorities__wave svg path{
-    fill:#c0bdbd
-} */
 @media (max-width:1200px){
     .authorities__title{
         font-size:50px;
