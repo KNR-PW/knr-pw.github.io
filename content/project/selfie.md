@@ -19,7 +19,7 @@ W szczytowym momentcie nad projektem pracowało ponad 20 osób podzielonych na 3
  - elektroników i programistów niskopoziomowych
  - Zespół programistów wysokopoziomowych
 
-<img src="/images/selfie/SelfieCarolo2020FullSkład.png"  width="75%" alt="Zdjęcie zespołu przygotowującego samochód do CaroloCup 2020">
+<img src="/images/selfie/SelfieCarolo2020FullSkład.png"  width="75%" alt="Zdjęcie zespołu przygotowującego samochód do CaroloCup 2020" style="margin-left:12.5%">
 
 Do sukcesów zespołu można zaliczyć:
 
