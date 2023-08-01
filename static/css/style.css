@@ -1227,6 +1227,7 @@
 }
 .archive__section{
     padding-top: 0;
+    background-color: #fff;
 }
 .archive__wave{
     position:absolute;
@@ -1243,6 +1244,32 @@
     width:calc(100% + 1.3px);
     height:100px;
 }
+.archive__wave path{
+    fill:#ededed
+}
+.archive__wave-grey{
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    overflow:hidden;
+    line-height:0;
+    height:54px;
+}
+.archive__wave-grey svg {
+    position:relative;
+    display:block;
+    width:calc(100% + 1.3px);
+    height:100px;
+}
+.archive__wave-grey path{
+    fill:#c0bdbd
+}
+.authorities svg path{
+    fill:#fff
+}
+
+
 .authorities{
     background-color:#d3d3d3;
     padding:100px 0;

@@ -2,8 +2,11 @@
 title: Łazik HAL-062
 url: "/hal"
 main_project_image: "/images/hal_small.jpg"
-article_image: "/images/lazik/4.jpg"
+article_image: "/images/hal/4.jpg"
 main_site: true
+main_site_item_descr: 
+    Łazik marsjański „HAL-062” to robot biorący udział w najbardziej prestiżowych zawodach na świecie ...
+main_site_item_images: ["1", "2", "3", "4"]
 start_date:
 end_date:
 short_description:

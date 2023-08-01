@@ -4,6 +4,9 @@ url: "/melson"
 main_project_image: "/images/melson/3.jpg"
 article_image: "/images/melson/1.jpg"
 main_site: true
+main_site_item_descr: 
+  Melson to robot humanoidalny o 21 stopniach swobody. Swoją sylwetką i ruchami naśladuje człowieka, do czego wykorzystuje aż 21 wysokiej precyzji napędów ...
+main_site_item_images: ["1", "2", "3", "4"]
 start_date: 2014
 end_date:
 short_description:
