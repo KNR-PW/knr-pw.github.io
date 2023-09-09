@@ -9,14 +9,18 @@ main_site_item_images: ["1.jpg", "2.jpg", "3.jpg", "4.jpg"]
 start_date:
 end_date:
 short_description:
-    "Łazik marsjański „HAL-062” w tym roku brał udział w University Rover
-    Challenge. Są to odbywających się w USA zawody, na których ma być
-    symulowana współpraca pomiędzy robotem a astronautą podczas misji na
-    marsie. Są to najbardziej prestiżowe i rozpoznawalne zawody robotyczne na
-    świecie. Robot jest wyposażony w zawieszenie typu Rocker - Bogie, napęd
-    różnicowy oraz manipulator o 6 stopniach swobody. Dodatkowo posiada moduł
-    z kamerami oraz GPS-em, używany do autonomicznej nawigacji podczas jednej
-    z konkurencji. Aktualnie jego następna, ulepszona wersja jest
-    przygotowywana na kolejną edycję konkursu, która odbędzie się w maju
-    przyszłego roku."
+    Łazik marsjański "HAL-062" jest naszym największym projektem. 
+    Brał on udział w wielu zawodach takich jak chociażby University 
+    Rover Challenge. To prestiżowe zawody odbywające się w USA, gdzie 
+    symulowana jest współpraca pomiędzy robotem a astronautą podczas
+    misji na Marsie. Stanowią one najważniejszei najbardziej rozpoznawalne
+    wydarzenie w świecie robotyki. Oprócz zawodów po drugiej stronie
+    oceanu również brał udział w zawodach Anatolian Rover Challenge w
+    Turcji oraz w European Rover Challenge w Kielcach.Robot jest wyposażony
+    w zawieszenie typu Rocker - Bogie, napęd różnicowy oraz manipulator o 6
+    stopniach swobody. Dodatkowo posiada moduł z kamerami oraz GPS-em, 
+    używany do autonomicznej nawigacji podczas jednej z konkurencji.
+    Obecnie, w 2023 roku, cieszymy się z faktu, że już trzecia iteracja 
+    łazika "HAL-062" jest przygotowywana do udziału w kolejnych edycjach 
+    konkursów. 
 ---
