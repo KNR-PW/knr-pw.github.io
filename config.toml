@@ -9,3 +9,8 @@ unsafe= true
 title = "Project"
 singular = "project"
 plural = "projects"
+
+[article]
+title = "Artykuł"
+singular = "article"
+plural = "articles"

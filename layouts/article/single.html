@@ -1,0 +1,26 @@
+{{ partial "header.html" . }}
+
+<section class="project-start">
+  <div class="project-start__text">
+    <div class="project-start__title">{{.Title}}</div>
+  </div>
+</section>
+<section class="project">
+  <div class="project__triangle">
+    <svg viewBox="0 0 1200 120" preserveAspectRatio="none">
+      <path d="M1200 0L0 0 892.25 114.72 1200 0z"></path>
+    </svg>
+  </div>
+  <div class="container">
+    <div class="project__wrapper">
+      <div class="project__block">
+        <div class="project__descr">
+          {{.Content}}
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="square square-white"></div>
+</section>
+
+{{ partial "footer.html" . }}</div>
