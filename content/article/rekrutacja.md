@@ -8,7 +8,6 @@ url: /rekrutacja
 
 <br></br>
 
-<div style="text-align: justify"> 
 Czy marzysz o fascynującej przygodzie w świat robotyki i nowoczesnych
 technologii? Chciałbyś zacząć tworzyć przyszłość już dzisiaj? Rozwijać
 ciekawe projekty i urozmaicić swoje studenckie życie? Jeśli tak, to
@@ -16,7 +15,15 @@ jesteś we właściwym miejscu! Koło Naukowe Robotyków to miejsce, gdzie
 pasjonaci inżynierii spotykają się, by razem rozwiązywać problemy,
 tworzyć innowacje i wspólnie się rozwijać. Niezależnie od kierunku
 studiów, jak i poziomu doświadczenia, zapraszamy Cię do KNR!
-</div>
+
+Zalety bycia w kole naukowym:
+
+- Możliwość nabycie praktycznych umiejętności, które mogą być przydatne w dalszej karierze zawodowej
+- Duża szansa na zdobycie stypendium rektora w wypadku, gdy bierzesz udział w projekcie, który będzie reprezentował uczelnię na zawodach
+- Możliwość zaliczenia przedmiotu działanością w kole po wypełnieniu [odpowiedniego wniosku](https://www.dss.pw.edu.pl/Ksztalcenie/Wzory-dokumentow/Wzory-dokumentow)
+- Dostęp do dobrze wyposażonego warsztatu
+- W wypadku realizacji pracy dyplomowej w ramach projektu kołowego koło może zapewnić niezbędny sprzęt.
+- Oferty pracy, stażów i pomniejszych płatnych projektów kierowane do członków koła przez zaprzyjaźnione firmy z branży
 
 <br></br>
 
