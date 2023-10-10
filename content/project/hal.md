@@ -10,7 +10,7 @@ main_site_item_images:
   - 2.jpg
   - 3.jpg
   - 4.jpg
-  - 5.jpg
+  # - 5.jpg
 title: Łazik HAL-062
 short_description: " "
 ---
