@@ -3,20 +3,21 @@ const classMap = {
     "empty": "haczyk_key_off"
 };
 
-function handleError(){
+function handleError(error){
     const elements = document.querySelectorAll('.haczyk_right');
     elements.forEach(element => {
         element.className='haczyk_right haczyk_key_error';
     })
-    console.log("fetch_error");
+    console.log("fetch_error: ",error);
 }
 
-function updateButtonState(element_id, current_state){
-    element_id.className='haczyk_right';
+function updateButtonState(button_element, hook_info){
+    button_element.className='haczyk_right';
+    const current_state = hook_info.state;
     if (classMap.hasOwnProperty(current_state)) {
-        element_id.classList.add(classMap[current_state]);
+        button_element.classList.add(classMap[current_state]);
     } else {
-        element_id.classList.add("haczyk_key_error"); 
+        button_element.classList.add("haczyk_key_error"); 
     }
 }
 
@@ -26,14 +27,14 @@ function getState(){
     .then(data => {
         for (const key in data) {
             if (data.hasOwnProperty(key)) {
-                const state=data[key].state;
+                const hook_info=data[key];
                 const element=document.getElementById(key);
-                updateButtonState(element,state);
+                updateButtonState(element,hook_info);
             }
         }
     })
     .catch(error =>{
-        handleError();
+        handleError(error);
     })
 }
 setInterval(getState, 2500);
