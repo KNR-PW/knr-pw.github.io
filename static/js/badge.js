@@ -12,12 +12,18 @@ function handleError(error){
 }
 
 function updateButtonState(button_element, hook_info){
-    button_element.className='haczyk_right';
+    const element_right = button_element.getElementsByClassName("haczyk_right")[0];
+    const button_text = button_element.getElementsByClassName("haczyk_left_text")[0];
+    element_right.className='haczyk_right';
     const current_state = hook_info.state;
     if (classMap.hasOwnProperty(current_state)) {
-        button_element.classList.add(classMap[current_state]);
+        element_right.classList.add(classMap[current_state]);
+        let name = hook_info.place;
+        //replace first letter with upper case
+        name = name.charAt(0).toUpperCase() + name.slice(1);
+        button_text.textContent= name;
     } else {
-        button_element.classList.add("haczyk_key_error"); 
+        element_right.classList.add("haczyk_key_error"); 
     }
 }
 
