@@ -1954,7 +1954,7 @@ div details ul {
 }
 .haczyk_left {
     position: relative;
-    width: 160px;
+    width: 220px;
     height: 40px;
     margin: auto;
     border-radius: 25px 0px 0px 25px;
@@ -1984,7 +1984,7 @@ div details ul {
     text-align: center;
     top: 50%;
     left: 25px;
-    width:80%;
+    width:85%;
     font-weight: 700;
     font-size: 19px;
     line-height: 0;
