@@ -43,4 +43,7 @@ function getState(){
         handleError(error);
     })
 }
-setInterval(getState, 2500);
+setInterval(getState, 4000);
+
+// pierwsza aktualizacja powinna nastąpić zaraz po załadowaniu strony
+setTimeout(getState, 200);
