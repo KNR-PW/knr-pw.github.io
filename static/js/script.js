@@ -70,32 +70,6 @@ function clickBars(navSelector, navItemsSelector, barsSelector){
     });
 }
 
-//Kod zmieniający tekst po najechaniu na stan haczyka wartatu
-const haczykStatusList = document.querySelectorAll('.haczyk_status');
-haczykStatusList.forEach(haczykStatus => {
-  const haczykLeftText = haczykStatus.querySelector('.haczyk_left_text');
-  const haczykRight = haczykStatus.querySelector('.haczyk_right');
-  const haczykOriginalText = haczykLeftText.textContent.trim();
-
-  function handleMouseEnter() {
-    if (haczykRight.classList.contains('haczyk_key_on')) {
-      haczykLeftText.textContent = 'Open';
-    }
-    if (haczykRight.classList.contains('haczyk_key_off')) {
-        haczykLeftText.textContent = 'Closed';
-      }
-    if (haczykRight.classList.contains('haczyk_key_error')) {
-        haczykLeftText.textContent = 'Error';
-    }
-  }
-  function handleMouseOut() {
-    haczykLeftText.textContent = haczykOriginalText;
-  }
-
-  haczykStatus.addEventListener('mouseover', handleMouseEnter);
-  haczykStatus.addEventListener('mouseout', handleMouseOut);
-});
-
 // document.addEventListener('DOMContentLoaded', function() {
 //     const dropdownToggle = document.querySelector('.dropdown-toggle');
 //     const dropdownMenu = document.querySelector('.dropdown-menu');
