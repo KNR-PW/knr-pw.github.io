@@ -85,12 +85,12 @@ haczykStatusList.forEach(haczykStatus => {
     }
     if (secondsPassed > 60*60) {
       const hours = Math.floor(secondsPassed/(60*60));
-      haczykLeftText.textContent += ' od' + hours + ' godzin';
+      haczykLeftText.textContent += ' od ' + hours + ' godz.';
       return;
     }
     if (secondsPassed > 60) {
       const minutes = Math.floor(secondsPassed/60);
-      haczykLeftText.textContent += ' od' + minutes + ' minut';
+      haczykLeftText.textContent += ' od ' + minutes + ' minut';
       return;
     }
   }
