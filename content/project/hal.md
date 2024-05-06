@@ -10,10 +10,9 @@ main_site_item_images:
   - 2.jpg
   - 3.jpg
   - 4.jpg
-  # - 5.jpg
-title: Łazik HAL-062
 short_title: HAL-062
-short_description: "Specjalny pojazd zaprojektowany do badania i eksploracji powierzchni Marsa"
+title: Łazik HAL-062
+short_description: Specjalny pojazd zaprojektowany do badania i eksploracji powierzchni Marsa
 ---
 Łazik marsjański to specjalny pojazd zaprojektowany do badania i eksploracji powierzchni Marsa, a "HAL-062" jest efektem naszej wizji o eksploracji kosmosu. Ponadto "HAL-062" stanowi naszą odpowiedź na wyzwania stawiane przez prestiżowe zawody, takie jak [University Rover Challenge](https://urc.marssociety.org/) w USA, [European Rover Challenge](https://roverchallenge.eu/) w Kielcach oraz [Anatolian Rover Challenge](https://www.anatolianrover.space/) w Turcji. Wyposażony w zawieszenie typu Rocker-Bogie, napęd różnicowy, manipulator o 6 stopniach swobody, kamery i GPS, jest używany do autonomicznej nawigacji. Obecnie, w 2023 roku, cieszymy się z faktu, że już trzecia iteracja łazika "HAL-062" jest przygotowywana do udziału w kolejnych edycjach międzynarodowych konkursów.
 
@@ -58,7 +57,7 @@ Nasz zespół Łazika "HAL-062" ma na swoim koncie takie sukcesy jak:
 
 <br><br>
 
-<img src="/images/hal.jpg"  width="85%" alt="Lazik marsjanski na zawodach Univeristy Rover Challenge">
+<img src="/images/hal_film.jpg"  width="85%" alt="Lazik marsjanski podczas testów terenowych">
 
 <br><br>
 
