@@ -15,3 +15,5 @@ Robot balansujący Leon to platforma, poruszająca się na kuli za pośrednictwe
 Równowagę Leona zapewnia układ pomiarowo-sterujący i algorytm dynamicznej stabilizacji, w który wyposażony został. Podobne platformy powstały na zaledwie kilku prestiżowych uczelniach na całym świecie i były one inspiracją dla Leona.
 
 <img src="/images/leon/leon_portrait.jpg"  width="35%" alt="Humanoidy siedzące na stole">
+
+Praca dyplomowa napisana w ramach projektu wyjaśnia sposób doboru wykorzystanych podzespołów mechanicznych wraz z ich charakterystyką. Przedstawiono w niej schematy elektroniczne i elektryczne, na podstawie, których zbudowano sterowniki silników krokowych a także układ zasilania. Zaprezentowano także wyniki pomiarów zebrane podczas działania robota.
