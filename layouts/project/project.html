@@ -11,7 +11,9 @@
   </div>
   <div class="square square-white"></div>
   <div class="archive-gallery">
-    {{range .Pages}}
+    {{ $CurrentProjects := sort (collections.Where .Pages ".Params.end_date" nil) ".Params.start_date" "desc" }}
+    {{ $EndedProjects := sort (collections.Where .Pages "Params.end_date" "ne" nil) ".Params.end_date" "desc" }}
+    {{range append $EndedProjects $CurrentProjects}}
       <div class="archive-item" data-aos="fade-up">
         <a href="{{ .RelPermalink }}">
           {{ if .Params.archive_image }}
