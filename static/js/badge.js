@@ -37,6 +37,10 @@ function getState(){
             if (data.hasOwnProperty(key)) {
                 const hook_info=data[key];
                 const element=document.getElementById(key);
+                if (!element){
+                    console.log("Badge for element with id: ",key," not found");
+                    continue;
+                }
                 updateButtonState(element,hook_info);
                 state_change_times[key]=hook_info.state_change_time;
             }
