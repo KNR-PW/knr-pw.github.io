@@ -96,6 +96,7 @@ Mimo wymienionych wyzwań nasz zespół zdołał zająć 3. miejsce w zawodach C
 
 
 <!--  Żródła:
+https://www.facebook.com/eMaksPower
 Projekt emaks https://www.thefirstnews.com/tag/e-MaksPower  
 FB WUT drverless https://www.facebook.com/WUT.Driverless/
 CC 2019 https://meil.pw.edu.pl/eng/PAE2/Students/SRG-News/The-most-important-competition-for-a-Selfie-from-KNR-has-just-finished
