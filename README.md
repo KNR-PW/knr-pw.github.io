@@ -6,13 +6,15 @@ Repozytorium zawierające stronę Koła Naukowego Robotyków
 
 Strona jest budowana za pomocą statycznego generatora [Hugo](https://gohugo.io/) i hostowana z pomocą [GitHub Pages](https://pages.github.com/)
 
-Do wygodnej edycji strony lokalnie należy [zainstalować hugo](https://gohugo.io/installation/) (Np na linuxie `sudo apt install hugo`)
+Jest kilka sposobów pracy i edycji strony:
 
-Komenda `hugo server` uruchomi dynamiczny serwer z zawartością.
+- Do prostego edytowania zawartości poszczególnych stron można wykorzystać panel administracyjny: https://knr.edu.pl/admin/
+- Uruchomienie GitHubowego edytora w przeglądarce (GitHub Codespaces - zielony przycisk `Code` -> `Codespaces` na stronie repozytorium projektu)
+- Do wygodnej edycji strony można też lokalnie [zainstalować hugo](https://gohugo.io/installation/) (Np na linuxie `sudo apt install hugo`)
+
+Komenda `hugo server` w terminalu uruchomi dynamiczny serwer z zawartością.
 
 Do samodzielnego zbudowania samych plików wystarczy komenda `hugo`, która zbuduje witrynę w folderze `public`.
-
-DO prostego edytowania zawartości poszczególnych stron można wykorzystać panel administracyjny: https://knr.edu.pl/admin/
 
 ### Zawartość projektu
 
