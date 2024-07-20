@@ -9,7 +9,8 @@ Strona jest budowana za pomocą statycznego generatora [Hugo](https://gohugo.io/
 Jest kilka sposobów pracy i edycji strony:
 
 - Do prostego edytowania zawartości poszczególnych stron można wykorzystać panel administracyjny: https://knr.edu.pl/admin/
-- Uruchomienie GitHubowego edytora w przeglądarce (GitHub Codespaces - zielony przycisk `Code` -> `Codespaces` na stronie repozytorium projektu)
+- Uruchomienie GitHubowego edytora w przeglądarce (GitHub Codespaces - zielony przycisk `Code` -> `Codespaces` na stronie repozytorium projektu lub przycisk poniżej).  
+  [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/alltheplaces/alltheplaces)
 - Do wygodnej edycji strony można też lokalnie [zainstalować hugo](https://gohugo.io/installation/) (Np na linuxie `sudo apt install hugo`)
 
 Komenda `hugo server` w terminalu uruchomi dynamiczny serwer z zawartością.
