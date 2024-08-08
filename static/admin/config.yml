@@ -1,5 +1,5 @@
 # do testowania lokalnego
-# local_backend: true #https://decapcms.org/docs/beta-features/#working-with-a-local-git-repository
+local_backend: true #https://decapcms.org/docs/beta-features/#working-with-a-local-git-repository
 
 locale: "pl"
 
@@ -26,6 +26,13 @@ collections:
       - {label: "Data rozpoczęcia projektu", name: "start_date", widget: "string", required: false}
       - {label: "Data zakończenia projektu", name: "end_date", widget: "string", hint: "Wypełnij tylko, jeśli projekt jest już zakończony", required: false}
       - {label: "Body", name: "body", widget: "markdown", required: false}
+      - label: "Zdjęcia do galerii projektu"
+        name: "gallery_images"
+        widget: "list"
+        required: false
+        fields:
+          - {label: "Zdjęcie", name: "image", widget: "image", required: true}
+          - {label: "Opis zdjęcia", name: "description", widget: "string", required: false}
       #TODO dodać listę obrazków na główną
   - name: "article" # Used in routes, e.g., /admin/collections/blog
     label: "Artykuł" # Used in the UI
