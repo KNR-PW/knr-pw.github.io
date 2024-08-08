@@ -40,22 +40,22 @@
         <div class="project__descr">
           {{.Content}}
         </div>
-
-        <h2>Galeria</h2>
-        <div class="scroll-container" onclick="myFunction(this);">
-          <img src="/images/recruitment/1.jpg" alt="Cinque Terre" onclick="myFunction(this);">
-          <img src="/images/recruitment/2.jpg" alt="Forest" onclick="myFunction(this);">
-          <img src="/images/team_cut.jpg" alt="Northern Lights" onclick="myFunction(this);">
-        </div> 
-        
-        <!-- The expanding image mycontainer -->
-        <div class="expanded-img-container">
-          <!-- Expanded image -->
-          <img id="expanded-img">
-          <!-- Image text -->
-          <br>
-          <div id="imgtext" style="text-align:center"></div>
-        </div>
+        {{ if .Params.gallery_images }}
+          <h2>Galeria</h2>
+          <div class="scroll-container" onclick="myFunction(this);">
+            {{ range .Params.gallery_images }}
+              <img src="{{ .image }}" alt="{{ .description }}" onclick="myFunction(this);">
+            {{ end }}
+          </div> 
+          <!-- The expanding image mycontainer -->
+          <div class="expanded-img-container">
+            <!-- Expanded image -->
+            <img id="expanded-img">
+            <!-- Image text -->
+            <br>
+            <div id="imgtext" style="text-align:center"></div>
+          </div>
+        {{ end }}
       </div>
     </div>
   </div>
