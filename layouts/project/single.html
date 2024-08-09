@@ -44,7 +44,8 @@
           <h2>Galeria</h2>
           <div class="scroll-container" onclick="myFunction(this);">
             {{ range .Params.gallery_images }}
-              <img src="{{ .image }}" alt="{{ .description }}" onclick="myFunction(this);">
+              {{ $image := resources.GetMatch .image }}
+              <img src="{{ ( $image.Resize `x200 q75` ).RelPermalink }}" src_full_resolution="{{ .image }}" alt="{{ .description }}" onclick="myFunction(this);">
             {{ end }}
           </div> 
           <!-- The expanding image mycontainer -->
@@ -72,7 +73,8 @@
     // Get the image text
     var imgText = document.getElementById("imgtext");
     // Use the same src in the expanded image as the image being clicked on from the grid
-    expandImg.src = imgs.src;
+    expandImg.src = imgs.getAttribute("src_full_resolution");
+    console.log(expandImg.src);
     // Use the value of the alt attribute of the clickable image as text inside the expanded image
     imgText.innerHTML = imgs.alt;
     // Show the mycontainer element (hidden with CSS)
