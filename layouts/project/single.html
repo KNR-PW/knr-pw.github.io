@@ -1,5 +1,6 @@
 {{ partial "header.html" . }}
 
+<link rel="stylesheet" href="/css/gallery.css" />
 <section class="project-start">
   <div class="project-start__text">
     <div class="project-start__title">{{.Title}}</div>
@@ -39,10 +40,44 @@
         <div class="project__descr">
           {{.Content}}
         </div>
+        {{ if .Params.gallery_images }}
+          <h2>Galeria</h2>
+          <div class="scroll-container" onclick="myFunction(this);">
+            {{ range .Params.gallery_images }}
+              <img src="{{ .image }}" alt="{{ .description }}" onclick="myFunction(this);">
+            {{ end }}
+          </div> 
+          <!-- The expanding image mycontainer -->
+          <div class="expanded-img-container">
+            <!-- Expanded image -->
+            <img id="expanded-img">
+            <!-- Image text -->
+            <br>
+            <div id="imgtext" style="text-align:center"></div>
+          </div>
+        {{ end }}
       </div>
     </div>
   </div>
   <div class="square square-white"></div>
 </section>
+
+<script>
+  function myFunction(imgs) {
+    if (imgs.src === undefined) {
+      return;
+    }
+    // Get the expanded image
+    var expandImg = document.getElementById("expanded-img");
+    // Get the image text
+    var imgText = document.getElementById("imgtext");
+    // Use the same src in the expanded image as the image being clicked on from the grid
+    expandImg.src = imgs.src;
+    // Use the value of the alt attribute of the clickable image as text inside the expanded image
+    imgText.innerHTML = imgs.alt;
+    // Show the mycontainer element (hidden with CSS)
+    expandImg.parentElement.style.display = "block";
+  } 
+</script>
 
 {{ partial "footer.html" . }}</div>

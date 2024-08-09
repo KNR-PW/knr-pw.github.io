@@ -6,6 +6,17 @@ start_date: 2017.01
 end_date: 2022.09
 short_description:
   "Projekt poświęcony budowaniu samochodów autonomicznych w skali."
+gallery_images:
+  - image: "/images/selfie/SelfieV3_bez_pokrywy.jpg"
+    description: "Selfie V3 Bez pokrywy"
+  - image: "/images/selfie/SelfieV3_z_pokrywa.jpg"
+    description: "Selfie V3 z pokrywą"
+  - image: "/images/selfie/Zespol_F1.jpg"
+    description: "Zespół Selfie na zawodach F1 TENHT"
+  - image: "/images/selfie/SelfieCarolo2020FullSkład.png"
+    description: "Zespół Selfie biorący udział w zawodach CaroloCup 2020"
+  - image: "/images/selfie/ZespolCarolo2022.jpg"
+    description: "Zespół Selfie biorący udział w zawodach CaroloCup 2022"
 ---
 
 Projekt Selfie w ramach Koła Naukowego Robotyków został powołany do życia w 2017 roku. Jego zadaniem było rozwijanie rozwiązań wykorzystywanych do budowania samochodów autonomicznych. Był on skoncentrowany głównie na budowie pojazdów autonomicznych w skali przygotowywanych do międzynarodowych zawodów takich jak [Carolo Cup](https://www.tu-braunschweig.de/carolo-cup/) w Niemczech, czy [F1 TENTH](https://f1tenth.org/).
@@ -96,7 +107,7 @@ Mimo wymienionych wyzwań nasz zespół zdołał zająć 3. miejsce w zawodach C
 ## Wkład naukowy
 
 Poza doświadczeniami zdobytymi przez zespół projekt Selfie pozostawił po sobie trwały ślad. Jest to zarówno wkład naukowy na który składają się publikacje powstałe w związku z konferencjami, jak i kilka prac dyplomowych, które powstały przy okazji projektu. Inną trwałą pozostałością projektu jest ogólnodostępne repozytorium kodu dostępne na GitHubie. Znajduje się tam nie tylko kod, lecz także dokumentacja pozwalająca zrozumieć w jaki sposób zbudowano systemy samochodu.
-
+example
 Konferencje
 
 - [Localization-based software architecture for 1:10 scale autonomous car](https://ieeexplore.ieee.org/document/8755418), Adam Gotlib; Kornelia Łukojć; Mateusz Szczygielski
