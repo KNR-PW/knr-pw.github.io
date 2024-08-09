@@ -107,12 +107,10 @@ Mimo wymienionych wyzwań nasz zespół zdołał zająć 3. miejsce w zawodach C
 ## Wkład naukowy
 
 Poza doświadczeniami zdobytymi przez zespół projekt Selfie pozostawił po sobie trwały ślad. Jest to zarówno wkład naukowy na który składają się publikacje powstałe w związku z konferencjami, jak i kilka prac dyplomowych, które powstały przy okazji projektu. Inną trwałą pozostałością projektu jest ogólnodostępne repozytorium kodu dostępne na GitHubie. Znajduje się tam nie tylko kod, lecz także dokumentacja pozwalająca zrozumieć w jaki sposób zbudowano systemy samochodu.
-example
-Konferencje
+
+Konferencje:
 
 - [Localization-based software architecture for 1:10 scale autonomous car](https://ieeexplore.ieee.org/document/8755418), Adam Gotlib; Kornelia Łukojć; Mateusz Szczygielski
-
-Publikacje:
 
 Prace dyplomowe:
 
