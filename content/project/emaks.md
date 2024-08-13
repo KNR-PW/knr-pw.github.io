@@ -3,6 +3,7 @@ start_date: 2017
 end_date: 2019
 main_site: false
 main_project_image: /images/emaks/E-MAKS_0-Top-Banner-Logo.jpg
+archive_image: /images/emaks/E-MAKS_4.jpg
 title: e-MaksPower
 short_description: "Elektryczny bolid zaprojektowany i zbudowany dla chłopca z dystrofią mięśniową"
 ---
