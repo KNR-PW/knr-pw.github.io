@@ -46,7 +46,7 @@ Choć projekt nie został stworzony z myślą o konkursach studenckich to kilkuk
 
 Niedługo potem koledzy z innego zespołu, pracującego nad [samochodem autonomicznym SELFIE](/projects/selfie) zauważyli możliwość wykorzystania bolidu jako platforma jezdna, która może poruszać się autonomicznie. W ten sposób koledzy próbowali swoich sił w kwalifikacjach do pierwszej edycji konkursu studenckiego Indy Autonomous Challenge (IAC). W tym celu bolid wyposażono w dodatkowy komputer pokładowy stanowiący jednostkę liczącą, precyzyjny lidar, a także moduł radiowy. Dzięki temu pojazdem można było sterować zdalnie, a także udało się wykonać kilka autonomicznych przejazdów po płycie parkingu zgodnie z określoną trajektorią.
 
-<img src="/images/emaks/E-MAKS_6-AUTONOMIA.jpg" width="95%">
+<img src="/images/emaks/E-MAKS_6-AUTONOMIA.jpg" width="75%">
 
 ## Co dalej?
 
