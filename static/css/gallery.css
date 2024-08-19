@@ -24,6 +24,7 @@
   }
 
   .expanded-img-container img{
-    max-height:80%;
+    /* max 80% height of screen, not container */
+    max-height: 80vh;    
     max-width:100%;
   }
