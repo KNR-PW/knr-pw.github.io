@@ -50,9 +50,11 @@ Niedługo potem koledzy z innego zespołu, pracującego nad [samochodem autonomi
 
 ## Co dalej?
 
-Niestety nastała era pandemii koronawirusa, bolid przez dłuży czas był nieużywany, a potem musiał opuścić swoje miejsce na parkingu podziemnym CZIiTT. Od tamtej pory bolid znajduje się na prywatnym parkingu taty Maksa i kilka razy w sezonie wyjeżdża na tor… Tak jest! Bolid stanął kilkukrotnie na prawdziwym torze wyścigowym w Słomczynie oraz w Modlinie. Pojazd w dalszym ciągu jest używany przez młodego kierowcę i mamy nadzieję, że Maks będzie mógł się cieszyć z jazdy jak najdłużej. Poniżej znajdziecie kilka ujęć prosto z pętli wyścigowej.
+Niestety nastała era pandemii koronawirusa, bolid przez dłuży czas był nieużywany, a potem musiał opuścić swoje miejsce na parkingu podziemnym CZIiTT. Od tamtej pory bolid znajduje się na prywatnym parkingu taty Maksa i kilka razy w sezonie wyjeżdża na tor… Tak jest! Bolid stanął kilkukrotnie na prawdziwym torze wyścigowym w Słomczynie oraz w Modlinie. Pojazd w dalszym ciągu jest używany przez młodego kierowcę i mamy nadzieję, że Maks będzie mógł się cieszyć z jazdy jak najdłużej. W galerii znajdziecie kilka ujęć prosto z pętli wyścigowej.
 
-TODO dokończyć
+Jego konserwacją i utrzymaniem zajmuje się jeden z wcześniejszych członków zespoło, absolwent Politechniki Warszawskiej: Hubert Graczyk.
+
+![Hubert Graczyk wraz z Maksem na torze](/images/emaks/emaks_przejazd_z_Hubertem.jpeg)
 
 ### Więcej informacji i artykułów:
 
