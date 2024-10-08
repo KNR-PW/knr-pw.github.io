@@ -22,13 +22,13 @@ studiów, jak i poziomu doświadczenia, zapraszamy Cię do KNR!
 - Możliwość realizacji [pracy dyplomowej](https://wutwaw.sharepoint.com/:x:/s/KNR-ZarzdiAdministracja/ETzKfD24BONMn45mw1P1BwYBETGmjmPODO0Oa5qqkwOCHA?e=8V5hy8) w ramach koła naukowego.
 - Oferty pracy, stażów i pomniejszych płatnych projektów kierowane do członków koła przez zaprzyjaźnione firmy z branży
 - Poznanie wielu ciekawych i ambitnych ludzi
+<br></br>
 
-
-
-<h3> Proces rekrutacji w skrócie: </h3>
+<h2> Proces rekrutacji w skrócie: </h2>
 <p align="center">
 <img src="/images/recruitment/rekrutacja_2.png" alt="Proces rekrutacji KNR" style="max-width: 100%; height: auto;"/>
 </p>
+<br></br>
 <h2>  Jak wygląda projekt wstępny? </h2>
 <div style="text-align: justify"> 
 W trakcie rekrutacji będziesz miał/a do wykonania projekt wstępny. 
@@ -59,6 +59,7 @@ Dokładne (i aktualne) informacje o datach publikujemy na naszych socialach oraz
     <li> 16/10/2024  - Koniec przyjmowania zgłoszeń </li>
     <li> 20/10/2024  - Wybór projektów rekrutacyjnych </li>
     <li> 11/11/2024  - Tydzień obrony projektów wstępnych </li>
+<br></br>
 
 <h2> Jak przystąpić do rekrutacji? </h2>
 Poniżej znajdziesz link do formularza rekrutacyjnego. Jego poprawne wypełnienie da ci dostęp do Discorda dla kandydatów, gdzie publikowane będą najważniejsze informacje o dalszym przebiegu rekrutacji. Tam też będziesz miał okazję zadać pytania, spotkać się z nami i realizować swoje zadanie rekrutacyjne.
