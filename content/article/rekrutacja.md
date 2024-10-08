@@ -74,12 +74,12 @@ Poniżej znajdziesz link do formularza rekrutacyjnego. Jego poprawne wypełnieni
 <h2 align="center">FAQ</h2>
 <div>
 <details>
-  <summary>Czy muszę posiadać jakieś konkretne umiejętności, aby móc dołączyć do koła? </summary>
+<summary>Czy muszę posiadać jakieś konkretne umiejętności, aby móc dołączyć do koła? </summary>
 Nie, wszystkiego się nauczysz pracując z nami. Koło naukowe jest miejscem do którego przychodzisz zdobyć praktyczne umiejętności. Z tego powodu najważniejsza jest pasja oraz chęć do pracy.
 </details>
 
 <details>
-  <summary>Czy przyjmujecie członków z każdego wydziału? </summary>
+<summary>Czy przyjmujecie członków z każdego wydziału? </summary>
 Tak, przyjmujemy członków z każdego wydziału PW. Nasze sale znajdują się w budynkach ITC i ITLiMS, więc niedaleko Gmachu Głównego PW.
 </details>
 
