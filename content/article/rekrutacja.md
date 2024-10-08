@@ -88,7 +88,7 @@ Tak, przyjmujemy członków z każdego wydziału PW. Nasze sale znajdują się w
 <summary>Jak dołączyć do Discorda rekrutacyjnego?</summary>
 Dostęp do Discorda uzyskasz dopiero po wypełnieniu ankiety rekrutacyjnej. Po jej wypełnieniu powinien wyświetlić ci się link do dołączenia.
 </details>
-</div>
+
 
 <details>
 <summary>Czy w tym roku obowiązuje składka rekrutacyjna? </summary>
@@ -114,7 +114,6 @@ Rekrutacja odbywa się raz do roku, rozpoczyna się w październiku.
 <summary>Czym są KNR Pointsy i co mogę za nie kupić?</summary>
 Dowiesz się na spotkaniu rekrutacyjnym...
 </details>
-</div>
 
 <details>
 <summary>Czy mogę zapisać się do koła i nic nie robić?</summary>
