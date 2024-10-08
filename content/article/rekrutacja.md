@@ -75,21 +75,26 @@ Poniżej znajdziesz link do formularza rekrutacyjnego. Jego poprawne wypełnieni
 <div>
 <details>
   <summary>Czy muszę posiadać jakieś konkretne umiejętności, aby móc dołączyć do koła? </summary>
-  * Nie, wszytkiego się nauczysz pracując z nami. Koło naukowe jest miejscem do którego przychodzisz zdobyć praktyczne umiejętności. Z tego powodu najważniejsza jest pasja oraz chęć do pracy.
+Nie, wszytkiego się nauczysz pracując z nami. Koło naukowe jest miejscem do którego przychodzisz zdobyć praktyczne umiejętności. Z tego powodu najważniejsza jest pasja oraz chęć do pracy.
 </details>
 
 <details>
   <summary>Czy przyjmujecie członków z każdego wydziału? </summary>
-  * Tak, przyjmujemy członków z każdego wydziału PW. Nasze sale znajdują się w budynkach ITC i ITLiMS, więc niedaleko Gmachu Głównego PW.
+Tak, przyjmujemy członków z każdego wydziału PW. Nasze sale znajdują się w budynkach ITC i ITLiMS, więc niedaleko Gmachu Głównego PW.
 </details>
 
 <details>
 <summary>Czy w tym roku obowiązuje składka rekrutacyjna? </summary>
-  * Tak, wysokość składki rekrutacyjnej zostanie opublikowana na spotkaniu rekrutacyjnym. Składka ta pozwala kupić nam w sprawny sposób wszelkie rzeczy potrzebne do realizacji waszych projektów, i zapobiega dezorganizacji spowodowanej "niezdecydowanymi".
+Tak, wysokość składki rekrutacyjnej zostanie opublikowana na spotkaniu rekrutacyjnym. Składka ta pozwala kupić nam w sprawny sposób wszelkie rzeczy potrzebne do realizacji waszych projektów, i zapobiega dezorganizacji spowodowanej "niezdecydowanymi".
 </details>
 
 <details>
 <summary>Jak wygląda praca w kole?</summary>
-  * Sposób oraz organizacja pracy w kole zależy od projektu oraz zespołu w ramach którego pracujesz. Jeśli np. należysz do zespołu mechnaików pracujących nad łazikiem możecie mieć wspólne spotkania robocze co tydzień/dwa.
+Sposób oraz organizacja pracy w kole zależy od projektu oraz zespołu w ramach którego pracujesz. Jeśli np. należysz do zespołu mechnaików pracujących nad łazikiem możecie mieć wspólne spotkania robocze co tydzień/dwa.
+</details>
+
+<details>
+<summary>Czy mogę zapisać się do koła i nic nie robić?</summary>
+Nie :)
 </details>
 </div>
