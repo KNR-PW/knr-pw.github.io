@@ -1,5 +1,5 @@
 ---
-title: Rekrutacja
+title: Rekrutacja 2024Z
 url: /rekrutacja
 main_project_image: images/team_cut.jpg
 short_description: Czy marzysz o fascynującej przygodzie w świat robotyki i
@@ -55,19 +55,19 @@ Dokładne (i aktualne) informacje o datach publikujemy na naszych socialach oraz
 <div style="text-align: left; margin-left:0%"> 
     <li> 08/10/2024  - Start przyjmowania zgłoszeń </li>
     <li> 15/10/2024  - Spotkanie rekrutacyjne </li>
-    <li> 20/10/2024  - Koniec przyjmowania zgłoszeń </li>
-    <li> 01/11/2024  - Wybór projektów rekrutacyjnych </li>
+    <li> 16/10/2024  - Koniec przyjmowania zgłoszeń </li>
+    <li> 20/10/2024  - Wybór projektów rekrutacyjnych </li>
     <li> 11/11/2024  - Tydzień obrony projektów wstępnych </li>
 
 <h2> Jak przystąpić do rekrutacji? </h2>
-Poniżej znajdziesz link do formularza rekrutacyjnego. Jego poprawne wypełnienie da ci dostęp do discorda dla kandydatów, gdzie publikowane będą najważniejsze informacje o dalszym przebiegu rekrutacji. Tam też będziesz miał okazję zadać pytania, spotkać się z nami i realizować swoje zadanie rekrutacyjne.
+Poniżej znajdziesz link do formularza rekrutacyjnego. Jego poprawne wypełnienie da ci dostęp do Discorda dla kandydatów, gdzie publikowane będą najważniejsze informacje o dalszym przebiegu rekrutacji. Tam też będziesz miał okazję zadać pytania, spotkać się z nami i realizować swoje zadanie rekrutacyjne.
 </div>
 <br></br>
 <p align="center">
-  <img src="/images/recruitment/2.jpg"  width="25%" alt="KNR discord">
+  <img src="/images/recruitment/Ankieta2024Z_QR.png"  width="25%" alt="Ankieta Rekrutacyjna 2024Z">
 </p>
 <h2 style="text-align: center;">  
-    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Ankieta Rekrutacyjna </a>
+    <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=nCJQO3jNiEWbz5e3Yp4vD5kV5vM7VOJLgA6wZEtieX9UMDhGUktCTTRTUzVMUDVFQ1pWUlQ5QTg1OC4u">Ankieta Rekrutacyjna </a>
 </h2>
 <br></br>
 
@@ -96,8 +96,24 @@ Tak, wysokość składki rekrutacyjnej zostanie opublikowana na spotkaniu rekrut
 
 <details>
 <summary>Jak wygląda praca w kole?</summary>
-Sposób oraz organizacja pracy w kole zależy od projektu oraz zespołu w ramach którego pracujesz. Jeśli np. należysz do zespołu mechnaików pracujących nad łazikiem możecie mieć wspólne spotkania robocze co tydzień/dwa.
+Sposób oraz organizacja pracy w kole zależy od projektu oraz zespołu w ramach którego pracujesz. Jeśli np. należysz do zespołu mechnaników pracujących nad łazikiem możecie mieć wspólne spotkania robocze co tydzień/dwa.
 </details>
+
+<details>
+<summary>Czy muszę pojawić się na spotkaniu rekrutacyjnym?</summary>
+Nie, nie musisz pojawiać się na spotkaniu rekrutacyjnym jednak jest to bardzo wskazane. Podczas tego spotkania w szczegółach poznasz nasz zespół, projekty jakie realizujemy oraz dowiesz się dokładnie jak przebiega tegoroczna rekrutacja. Oprócz tego jest to okazja na zwiedzenie naszych warsztatów, zadania nurtujących cię pytań i integracji.
+</details>
+
+<details>
+<summary>Jak często odbywają się rekrutacje?</summary>
+Rekrutacja odbywa się raz do roku, rozpoczyna się w październiku. 
+</details>
+
+<details>
+<summary>Czym są KNR Pointsy i co mogę za nie kupić?</summary>
+Dowiesz się na spotkaniu rekrutacyjnym...
+</details>
+</div>
 
 <details>
 <summary>Czy mogę zapisać się do koła i nic nie robić?</summary>
