@@ -75,13 +75,19 @@ Poniżej znajdziesz link do formularza rekrutacyjnego. Jego poprawne wypełnieni
 <div>
 <details>
   <summary>Czy muszę posiadać jakieś konkretne umiejętności, aby móc dołączyć do koła? </summary>
-Nie, wszytkiego się nauczysz pracując z nami. Koło naukowe jest miejscem do którego przychodzisz zdobyć praktyczne umiejętności. Z tego powodu najważniejsza jest pasja oraz chęć do pracy.
+Nie, wszystkiego się nauczysz pracując z nami. Koło naukowe jest miejscem do którego przychodzisz zdobyć praktyczne umiejętności. Z tego powodu najważniejsza jest pasja oraz chęć do pracy.
 </details>
 
 <details>
   <summary>Czy przyjmujecie członków z każdego wydziału? </summary>
 Tak, przyjmujemy członków z każdego wydziału PW. Nasze sale znajdują się w budynkach ITC i ITLiMS, więc niedaleko Gmachu Głównego PW.
 </details>
+
+<details>
+<summary>Jak dołączyć do Discorda rekrutacyjnego?</summary>
+Dostęp do Discorda uzyskasz dopiero po wypełnieniu ankiety rekrutacyjnej. Po jej wypełnieniu powinien wyświetlić ci się link do dołączenia.
+</details>
+</div>
 
 <details>
 <summary>Czy w tym roku obowiązuje składka rekrutacyjna? </summary>
