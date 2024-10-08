@@ -19,7 +19,7 @@ studiów, jak i poziomu doświadczenia, zapraszamy Cię do KNR!
 - Zwiększona szansa na zdobycie stypendium rektora w wypadku, gdy bierzesz udział w projekcie, który będzie reprezentował uczelnię na zawodach
 - Możliwość zaliczenia przedmiotu działalnością w kole (w zależności od wydziału, zazwyczaj należy dogadać się z prowadzącym)
 - Dostęp do dobrze wyposażonego warsztatu
-- Możliwość realizacji [pracy dyplomowej](https://wutwaw.sharepoint.com/:x:/s/KNR-ZarzdiAdministracja/ETzKfD24BONMn45mw1P1BwYBETGmjmPODO0Oa5qqkwOCHA?e=4Gnjgb) w ramach koła naukowego.
+- Możliwość realizacji [pracy dyplomowej](https://wutwaw.sharepoint.com/:x:/s/KNR-ZarzdiAdministracja/ETzKfD24BONMn45mw1P1BwYBETGmjmPODO0Oa5qqkwOCHA?e=8V5hy8) w ramach koła naukowego.
 - Oferty pracy, stażów i pomniejszych płatnych projektów kierowane do członków koła przez zaprzyjaźnione firmy z branży
 - Poznanie wielu ciekawych i ambitnych ludzi
 
