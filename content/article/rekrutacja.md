@@ -41,14 +41,15 @@ Każdy projekt wstępny wymaga innych umiejętności, których nauczysz się pod
 <br></br>
 Każdy projekt wstępny będzie realizowany w ramach określonej sekcji koła, np. Okoń. Tak byś od razu po zrealizwaniu projektu wstępnego mógł/mogła dołączyć do danej sekcji. Będzie miał określony opis - wymagania co jest do zrobienia i ogólny zamysł. Również będzie sprecyzowane kryterium sukcesu - czyli co w naszych oczach kończy projekt.
 <br></br>
-Ale bez obaw, każdy z nas musiał też to przejść 😉.
+Ale bez obaw, każdy z nas musiał też to przejść. 😉
+<br></br>
 </div>
 <p align="center">
   <img src="/images/team_cut.jpg"  width="100%" alt="Projekt wstepny KNR">
 </p>
 <br></br>
 
-<h2> Orientacyjny Terminarz rekrutacji 2024Z </h2>
+<h2> Orientacyjny terminarz rekrutacji 2024Z </h2>
 Dokładne (i aktualne) informacje o datach publikujemy na naszych socialach oraz na discordzie dla kandydatów.
 <br></br>
 
@@ -119,4 +120,10 @@ Dowiesz się na spotkaniu rekrutacyjnym...
 <summary>Czy mogę zapisać się do koła i nic nie robić?</summary>
 Nie :)
 </details>
+
+<details>
+<summary>Jestem z przyszłości i chcę się rekrutować w 2025 roku</summary>
+Wszystkie powyższe informacje dotyczą rekrutacji rozpoczętej w październiku 2024 roku. O ile co roku rekrutacje przebiegają podobnie, dokładne informacje aktualizujemy na początku października każdego roku. Cierpliwości!
+</details>
 </div>
+
