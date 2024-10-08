@@ -54,10 +54,10 @@ Dokładne (i aktualne) informacje o datach publikujemy na naszych socialach oraz
 
 <div style="text-align: left; margin-left:0%"> 
     <li> 08/10/2024  - Start przyjmowania zgłoszeń </li>
-    <li> 15/10/2023  - Spotkanie rekrutacyjne </li>
-    <li> 20/10/2023  - Koniec przyjmowania zgłoszeń </li>
-    <li> 01/11/2023  - Wybór projektów rekrutacyjnych </li>
-    <li> 11/11/2023  - Tydzień obrony projektów wstępnych </li>
+    <li> 15/10/2024  - Spotkanie rekrutacyjne </li>
+    <li> 20/10/2024  - Koniec przyjmowania zgłoszeń </li>
+    <li> 01/11/2024  - Wybór projektów rekrutacyjnych </li>
+    <li> 11/11/2024  - Tydzień obrony projektów wstępnych </li>
 
 <h2> Jak przystąpić do rekrutacji? </h2>
 Poniżej znajdziesz link do formularza rekrutacyjnego. Jego poprawne wypełnienie da ci dostęp do discorda dla kandydatów, gdzie publikowane będą najważniejsze informacje o dalszym przebiegu rekrutacji. Tam też będziesz miał okazję zadać pytania, spotkać się z nami i realizować swoje zadanie rekrutacyjne.
