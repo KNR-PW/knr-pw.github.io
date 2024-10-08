@@ -27,7 +27,7 @@ studiów, jak i poziomu doświadczenia, zapraszamy Cię do KNR!
 
 <h3> Proces rekrutacji w skrócie: </h3>
 <p align="center">
-  <img src="/images/recruitment/1.jpg"  width="100%" alt="Proces rekrutacji KNR">
+  <img src="/images/recruitment/rekrutacja_2.png"  width="100%" alt="Proces rekrutacji KNR">
 </p>
 <h2>  Jak wygląda projekt wstępny? </h2>
 <div style="text-align: justify"> 
