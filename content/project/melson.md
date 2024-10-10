@@ -76,7 +76,10 @@ Można nas znaleźć na każdym kroku! Mamy za sobą wystąpienia na międzynaro
 <img src="/images/melson/3.jpg"  width="75%" alt="Jedno z wielu spotkań Melsona na szczycie">
 <br/>
 <img src="/images/melson/2.jpg"  width="75%" alt="">
-<br></br>
+
+{{< youtube S65AoNv2GI >}}
+{{< youtube 9VuL77J55t4 >}}
+<br><br>
 
 ## Dorobek naukowy
 
