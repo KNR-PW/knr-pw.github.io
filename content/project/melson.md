@@ -26,8 +26,21 @@ Jesteśmy sekcją zajmującą się robotami kroczącymi, czyli takimi konstrukcj
 <br></br>
 
 **Melania** – młodsza siostra Melsona – jest to robot której konstrukcja oparta jest na giętych blaszkach aluminiowych. Stanowi swego rodzaju ewolucję naszego pierwszego robota dzięki wytrzymalszej konstrukcji, mocniejszym napędom i mocniejszej jednostce obliczeniowej. Uzbrojona w kamerę do rozpoznawania twarzy potrafi rozpoznawać emocje człowieka na podstawie jego mimiki, jak i poprowadzić z nim konwersacje.
+<table style="margin: 0 auto;">
+  <tr>
+    <td>
+      <img src="/images/melson/Melman_Piknik_Naukowy.jpg"  
+           alt="Melania Piknik Naukowy"
+           style="width: 500px; height: 550px; object-fit: cover;">
+    </td>
+    <td>
+      <img src="/images/melson/Melania faceplant.gif" 
+           alt="Melania faceplant simulation"
+           style="width: 500px; height: 550px; object-fit: cover;">
+    </td>
+  </tr>
+</table>
 
-<img src="/images/melson/Melman_Piknik_Naukowy.jpg"  width="50%" alt="Melania">
 <br></br>
 
 **Melchior** – nasz nowy robot – od niedawna znajdujący się w przestrzeni koła humanoid o budowie podobnej do Melanii. W Swoich stopach posiada czujniki nacisku, dzięki którym nasz zespół bada różnego rodzaju chód uzyskany przez odwrotną kinematykę czy nawet uczenie maszynowe.
