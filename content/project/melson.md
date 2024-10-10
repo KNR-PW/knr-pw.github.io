@@ -65,7 +65,7 @@ Jesteśmy sekcją zajmującą się robotami kroczącymi, czyli takimi konstrukcj
     </td>
   </tr>
 </table>
-
+<br></br>
 <img src="/images/melson/Meldog V1 side corner.png"  width="100%" alt="Meldog V1 side corner">
 <br></br>
 
