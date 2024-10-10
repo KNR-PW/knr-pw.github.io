@@ -16,25 +16,29 @@ title: Zespół Robotów Kroczących
 short_description: Sekcja zajmująca się różnymi robotami kroczącymi
 ---
 Jesteśmy sekcją zajmującą się robotami kroczącymi, czyli takimi konstrukcjami które w wyglądzie i poruszaniu się przypominają człowieka. Nasz zespół składa się z ponad 20 studentów i studentek PW prężnie rozwijających równolegle 4 projekty konkurujące na międzynarodowych zawodach.
+<br></br>
 
 ## A kogo mamy na stanie? Poznajmy ich:
 
 **Melson** - najmniejszy z naszych robotów – powstał jako pierwsza konstrukcja naszego koła naukowego mając za zadanie przetarcie szlaków w dziedzinie humanoidalnych robotów kroczących. Konstrukcja z elementów wytworzonych na drukarkach 3D oraz 19 wysokiej klasy serwonapędów pozwala mu naśladować ruchy człowieka. Jako kołowy pionier w konkursach robotycznych stoczył niejeden pojedynek na ringu SUMO, jak i popisał się na zawodach "freestyle". Jako dojrzały projekt stanowi świetny wstęp dla aspirujących robotyków.
 
 <img src="/images/melson/4.jpg"  width="50%" alt="Melania">
+<br></br>
 
 **Melania** – młodsza siostra Melsona – jest to robot której konstrukcja oparta jest na giętych blaszkach aluminiowych. Stanowi swego rodzaju ewolucję naszego pierwszego robota dzięki wytrzymalszej konstrukcji, mocniejszym napędom i mocniejszej jednostce obliczeniowej. Uzbrojona w kamerę do rozpoznawania twarzy potrafi rozpoznawać emocje człowieka na podstawie jego mimiki, jak i poprowadzić z nim konwersacje.
 
 <img src="/images/melson/Melman_Piknik_Naukowy.jpg"  width="50%" alt="Melania">
+<br></br>
 
 **Melchior** – nasz nowy robot – od niedawna znajdujący się w przestrzeni koła humanoid o budowie podobnej do Melanii. W Swoich stopach posiada czujniki nacisku, dzięki którym nasz zespół bada różnego rodzaju chód uzyskany przez odwrotną kinematykę czy nawet uczenie maszynowe.
 
 <img src="/images/melson/melchior-pudlarz.png"  width="50%" alt="Melchior-pudlarz">
+<br></br>
 
 
 
 **Meldog** – najlepszy przyjaciel każdego humanoida – poszerzenie "repertuaru" naszego zespołu o roboty czteronożne, które od kilku lat cieszą się zainteresowaniem na zachodzie. Jest to nasz największy i najzuchwalszy do tej pory projekt. Konstrukcja robota w tej skali wymagała użycia autorskich jednostek napędowych opartych na silnikach BLDC i przekładniach planetarnych. W obecnej fazie dogłębnie testujemy pojedynczą kończynę robota, ale myślami jesteśmy już przy realizacji całego czteronoga.
-<table>
+<table style="margin: 0 auto;">
   <tr>
     <td>
       <img src="/images/melson/Power Unit V3 partial half section front.png"  
@@ -48,8 +52,9 @@ Jesteśmy sekcją zajmującą się robotami kroczącymi, czyli takimi konstrukcj
     </td>
   </tr>
 </table>
-<img src="/images/melson/Meldog V1 side corner.png"  width="100%" alt="Melchior-pudlarz">
 
+<img src="/images/melson/Meldog V1 side corner.png"  width="100%" alt="Meldog V1 side corner">
+<br></br>
 
 ## Gdzie można nas znaleźć
 
@@ -58,6 +63,7 @@ Można nas znaleźć na każdym kroku! Mamy za sobą wystąpienia na międzynaro
 <img src="/images/melson/3.jpg"  width="75%" alt="Jedno z wielu spotkań Melsona na szczycie">
 <br/>
 <img src="/images/melson/2.jpg"  width="75%" alt="">
+<br></br>
 
 ## Dorobek naukowy
 
