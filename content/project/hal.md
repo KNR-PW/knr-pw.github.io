@@ -27,7 +27,7 @@ short_description: Specjalny pojazd zaprojektowany do badania i eksploracji powi
 <br><br>
 
 W ramach projektu powstały 3 iteracje łazika.
-Obecnie w strukturach naszego zespołu zasiada łącznie 23 członków. W projekcie wyrózniamy 5 działów:
+Obecnie w strukturach naszego zespołu zasiada łącznie 25 członków. W projekcie wyrózniamy 5 działów:
 
 * ⚙️ mechaniczny
 * 🔌 elektryczno/elektroniczny
