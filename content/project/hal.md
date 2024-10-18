@@ -29,15 +29,17 @@ short_description: Specjalny pojazd zaprojektowany do badania i eksploracji powi
 W ramach projektu powstały 3 iteracje łazika.
 Obecnie w strukturach naszego zespołu zasiada łącznie 25 członków. W projekcie wyrózniamy 5 działów:
 
-* ⚙️ mechaniczny
-* 🔌 elektryczno/elektroniczny
-* 💻 programistyczny
-* 🤖 autonomiczny
-* 🛰️ naukowy
+* ⚙️ mechaniczny,
+* 🔌 elektryczno/elektroniczny,
+* 💻 programistyczny,
+* 🤖 autonomiczny,
+* 🛰️ naukowy.
 
 <br><br>
 
 <img src="/images/hal/4.jpg" width="65%" alt="Zespol lazika marsjanskiego na zawodach Univeristy Rover Challenge">
+
+<br><br>
 
 By sprostać wymaganiom konkursowym zaprojektowaliśmy wymienne moduły operacyjne, w tym: manipulator, stację odwiertową oraz stację badawczą. Również w tym roku pracujemy nad nowym, dodatkowym modułem - stacją lądowania dla drona ekspedycyjnego, również na potrzeby konkursowe.
 
@@ -49,21 +51,21 @@ By sprostać wymaganiom konkursowym zaprojektowaliśmy wymienne moduły operacyj
 
 ## Trochę historii
 
-W 2017 roku powstała sekcja astronomiczna KNR-u. Głównym celem nowo utworzonej sekcji było zbudowanie w pełni funkcjonalnego łazika marsjańskiego. Od czasu pomysłu, łazik zdobył niemałą rozpoznawalność w społeczności kół naukowych.
+W 2017 roku powstała sekcja astronomiczna KNR-u. Głównym celem nowo utworzonej sekcji było zbudowanie w pełni funkcjonalnego łazika marsjańskiego. Od czasu pomysłu, łazik zdobył niemałą rozpoznawalność w społeczności Kół Naukowych.
 
 <br><br>
 
 Nasz zespół Łazika "HAL-062" ma na swoim koncie takie sukcesy jak:
 
-* 14 miejsce na finale zawodów European Rover Challenge w Krakowie (2024)
-* Zakwalifikowanie się do finałów Anatolian Rover Challenge w Turcji (2023)
-* Zakwalifikowanie się do finałów European Rover Challenge w Kielcach (2023)
-* Zakwalifikowanie się do finałów European Rover Challenge w Kielcach (2022)
-* 9 miejsce na zawodach European Rover Challenge w Kielcach (2021)
-* Zakwalifikowanie się do finałów Univeristy Rover Challenge w USA (2020)
-* Uczestnictwo w finale zawodów European Rover Challenge (zdalnie!) (2020)
-* 7 miejsce na finale zawodów European Rover Challenge w Kielcach (2019)
-* 21 miejsce na finale zawodów Univeristy Rover Challenge w USA (2019)
+* 14 miejsce na finale zawodów European Rover Challenge w Krakowie (2024),
+* Zakwalifikowanie się do finałów Anatolian Rover Challenge w Turcji (2023),
+* Zakwalifikowanie się do finałów European Rover Challenge w Kielcach (2023),
+* Zakwalifikowanie się do finałów European Rover Challenge w Kielcach (2022),
+* 9 miejsce na zawodach European Rover Challenge w Kielcach (2021),
+* Zakwalifikowanie się do finałów Univeristy Rover Challenge w USA (2020),
+* Uczestnictwo w finale zawodów European Rover Challenge (zdalnie!) (2020),
+* 7 miejsce na finale zawodów European Rover Challenge w Kielcach (2019),
+* 21 miejsce na finale zawodów Univeristy Rover Challenge w USA (2019).
 
 <br><br>
 
@@ -71,14 +73,14 @@ Nasz zespół Łazika "HAL-062" ma na swoim koncie takie sukcesy jak:
 
 <br><br>
 
-Nasze koło również z dumą prezentuje łazika podczas różnych wydarzeń, m.in:
+Nasze Koło również z dumą prezentuje łazika podczas różnych wydarzeń, m.in:
 
-* [Noc w intytucie Lotnictwa](https://nocwinstytucielotnictwa.pl/start/)
-* Targach kół studenckich ["KONIK"](https://www.facebook.com/events/1130262391203772)
-* [Piknik Naukowy](https://pikniknaukowy.pl/)
-* Dni otwarte [PW](https://www.pw.edu.pl/) oraz [MEL-u](https://www.meil.pw.edu.pl/)
-* Ogólnopolski Zlot Łazików Marsjańskich
-* Otwarcie [Centralnego Domu Technologii](https://cdt.pl/)
+* [Nocy w Instytucie Lotnictwa,](https://nocwinstytucielotnictwa.pl/start/)
+* Targach Kół Naukowych i Organizacji Studenckich ["KONIK",](https://www.facebook.com/events/1130262391203772)
+* [Pikniku Naukowym,](https://pikniknaukowy.pl/)
+* Dniach Otwartych [PW](https://www.pw.edu.pl/) oraz [MEL-u,](https://www.meil.pw.edu.pl/)
+* Ogólnopolskim Zlocie Łazików Marsjańskich,
+* Otwarciu [Centralnego Domu Technologii.](https://cdt.pl/)
   <br><br>
   <br><br>
 
