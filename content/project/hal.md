@@ -21,13 +21,13 @@ short_description: Specjalny pojazd zaprojektowany do badania i eksploracji powi
  Manipulator o 6 stopniach swobody pozwala na precyzyjne manewrowanie obiektami trzymanymi w chwytaku. System kamer analogowych o dużym zasięgu pozwala na sterowanie
  łazikiem bez konieczności jego stałej obserwacji.
  Ponadto, łazik potrafi również poruszać się autonomicznie - dynamicznie podejmuje decyzje o swoich działaniach dzięki zaawansowanego systemu wizji,
- który bazuje na kamerze głębi. Wedle uznania można dołączć IMU oraz modułu GNSS aby system działał dokładniej.
+ który bazuje na kamerze głębi. Wedle uznania można dołączyć IMU oraz modułu GNSS, aby system działał dokładniej.
  Obecnie, w 2024 roku, cieszymy się z faktu, że już czwarta iteracja łazika "HAL-062" jest przygotowywana do udziału w kolejnych edycjach międzynarodowych konkursów.
 
 <br><br>
 
 W ramach projektu powstały 3 iteracje łazika.
-Obecnie w strukturach naszego zespołu zasiada łącznie 25 członków. W projekcie wyrózniamy 5 działów:
+Obecnie w strukturach naszego zespołu zasiada łącznie 25 członków. W projekcie wyróżniamy 5 działów:
 
 * ⚙️ mechaniczny,
 * 🔌 elektryczno/elektroniczny,
@@ -76,11 +76,11 @@ Nasz zespół Łazika "HAL-062" ma na swoim koncie takie sukcesy jak:
 Nasze Koło również z dumą prezentuje łazika podczas różnych wydarzeń, m.in:
 
 * [Nocy w Instytucie Lotnictwa,](https://nocwinstytucielotnictwa.pl/start/)
-* Targach Kół Naukowych i Organizacji Studenckich ["KONIK",](https://www.facebook.com/events/1130262391203772)
-* [Pikniku Naukowym,](https://pikniknaukowy.pl/)
-* Dniach Otwartych [PW](https://www.pw.edu.pl/) oraz [MEL-u,](https://www.meil.pw.edu.pl/)
-* Ogólnopolskim Zlocie Łazików Marsjańskich,
-* Otwarciu [Centralnego Domu Technologii.](https://cdt.pl/)
+* Targów Kół Naukowych i Organizacji Studenckich ["KONIK",](https://www.facebook.com/events/1130262391203772)
+* [Pikniku Naukowego,](https://pikniknaukowy.pl/)
+* Dni Otwartych [PW](https://www.pw.edu.pl/) oraz [MEL-u,](https://www.meil.pw.edu.pl/)
+* Ogólnopolskiego Zlocie Łazików Marsjańskich,
+* Otwarcia [Centralnego Domu Technologii.](https://cdt.pl/)
   <br><br>
   <br><br>
 
