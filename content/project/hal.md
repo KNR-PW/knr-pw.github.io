@@ -14,15 +14,7 @@ short_title: HAL-062
 title: Łazik HAL-062
 short_description: Specjalny pojazd zaprojektowany do badania i eksploracji powierzchni Marsa
 ---
-Łazik marsjański to specjalny pojazd zaprojektowany do badania i eksploracji powierzchni Marsa, a "HAL-062" jest efektem naszej wizji o eksploracji kosmosu.
- Ponadto "HAL-062" stanowi naszą odpowiedź na wyzwania stawiane przez prestiżowe zawody, takie jak [University Rover Challenge](https://urc.marssociety.org/),
- [European Rover Challenge](https://roverchallenge.eu/) oraz [Anatolian Rover Challenge](https://www.anatolianrover.space/). Dzięki swojej solidnej aluminiowej konstrukcji,
- zawieszeniu typu Rocker-Bogie oraz napędowi różnicowemu, łazik jest w stanie bez najmniejszego problemu poradzić sobie w trudnych terenowych warunkach.
- Manipulator o 6 stopniach swobody pozwala na precyzyjne manewrowanie obiektami trzymanymi w chwytaku. System kamer analogowych o dużym zasięgu pozwala na sterowanie
- łazikiem bez konieczności jego stałej obserwacji.
- Ponadto, łazik potrafi również poruszać się autonomicznie - dynamicznie podejmuje decyzje o swoich działaniach dzięki zaawansowanego systemu wizji,
- który bazuje na kamerze głębi. Wedle uznania można dołączyć IMU oraz modułu GNSS, aby system działał dokładniej.
- Obecnie, w 2024 roku, cieszymy się z faktu, że już czwarta iteracja łazika "HAL-062" jest przygotowywana do udziału w kolejnych edycjach międzynarodowych konkursów.
+Łazik marsjański to specjalny pojazd zaprojektowany do badania i eksploracji powierzchni Marsa, a "HAL-062" jest efektem naszej wizji eksploracji kosmosu. Ponadto "HAL-062" stanowi naszą odpowiedź na wyzwania stawiane przez prestiżowe zawody, takie jak [University Rover Challenge](https://urc.marssociety.org/), [European Rover Challenge](https://roverchallenge.eu/) oraz [Anatolian Rover Challenge](https://www.anatolianrover.space/). Dzięki swojej solidnej, aluminiowej konstrukcji, zawieszeniu typu Rocker-Bogie oraz napędowi różnicowemu, łazik jest w stanie bez najmniejszego problemu poradzić sobie w trudnych terenowych warunkach. Manipulator o 6 stopniach swobody pozwala na precyzyjne manewrowanie obiektami trzymanymi w chwytaku. System kamer analogowych o dużym zasięgu pozwala na sterowanie łazikiem bez konieczności jego stałej obserwacji. Ponadto, łazik potrafi również poruszać się autonomicznie - dynamicznie podejmuje decyzje o swoich działaniach dzięki zaawansowanego systemu wizji, który bazuje na kamerze głębi. Wedle uznania można dołączyć IMU oraz modułu GNSS, aby system działał dokładniej. Obecnie, w 2024 roku, cieszymy się z faktu, że już czwarta iteracja łazika "HAL-062" jest przygotowywana do udziału w kolejnych edycjach międzynarodowych konkursów.
 
 <br><br>
 
@@ -41,7 +33,7 @@ Obecnie w strukturach naszego zespołu zasiada łącznie 25 członków. W projek
 
 <br><br>
 
-By sprostać wymaganiom konkursowym zaprojektowaliśmy wymienne moduły operacyjne, w tym: manipulator, stację odwiertową oraz stację badawczą. Również w tym roku pracujemy nad nowym, dodatkowym modułem - stacją lądowania dla drona ekspedycyjnego, również na potrzeby konkursowe.
+By sprostać wymaganiom konkursowym zaprojektowaliśmy wymienne moduły operacyjne, w tym: manipulator, stację odwiertową oraz stację badawczą.W tym roku pracujemy również nad nowym, dodatkowym modułem - stacją lądowania dla drona ekspedycyjnego, także na potrzeby konkursowe.
 
 <br><br>
 
@@ -79,7 +71,7 @@ Nasze Koło również z dumą prezentuje łazika podczas różnych wydarzeń, m.
 * Targów Kół Naukowych i Organizacji Studenckich ["KONIK",](https://www.facebook.com/events/1130262391203772)
 * [Pikniku Naukowego,](https://pikniknaukowy.pl/)
 * Dni Otwartych [PW](https://www.pw.edu.pl/) oraz [MEL-u,](https://www.meil.pw.edu.pl/)
-* Ogólnopolskiego Zlocie Łazików Marsjańskich,
+* Ogólnopolskiego Zlotu Łazików Marsjańskich,
 * Otwarcia [Centralnego Domu Technologii.](https://cdt.pl/)
   <br><br>
   <br><br>
