@@ -33,7 +33,7 @@ Obecnie w strukturach naszego zespołu zasiada łącznie 25 członków. W projek
 
 <br><br>
 
-By sprostać wymaganiom konkursowym zaprojektowaliśmy wymienne moduły operacyjne, w tym: manipulator, stację odwiertową oraz stację badawczą.W tym roku pracujemy również nad nowym, dodatkowym modułem - stacją lądowania dla drona ekspedycyjnego, także na potrzeby konkursowe.
+By sprostać wymaganiom konkursowym zaprojektowaliśmy wymienne moduły operacyjne, w tym: manipulator, stację odwiertową oraz stację badawczą. W tym roku pracujemy również nad nowym, dodatkowym modułem - stacją lądowania dla drona ekspedycyjnego, także na potrzeby konkursowe.
 
 <br><br>
 
