@@ -703,7 +703,8 @@ div details ul {
 }
 .about__descr{
     text-align:center;
-    font-size:20px
+    font-size:20px;
+    text-align: justify
 }
 .project__block:last-child{
     width:100%;
