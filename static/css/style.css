@@ -702,9 +702,9 @@ div details ul {
     margin-bottom:30px
 }
 .about__descr{
-    text-align:center;
+    text-align: justify;
     font-size:20px;
-    text-align: justify
+    hyphens: auto;
 }
 .project__block:last-child{
     width:100%;
