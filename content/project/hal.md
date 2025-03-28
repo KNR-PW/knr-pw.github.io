@@ -9,8 +9,8 @@ gallery_images:
   - image: /images/4.jpg
   - image: /images/6.jpg
   - image: /images/dsc01959.jpg
-    description: Mieliśmy możliwość wystąpić w reklamie z okazji [20 lat Polski w
-      UE!](https://youtu.be/0VqTy_p8GBc?si=1g9czoOrlBQZ8kik)
+    description: Mieliśmy możliwość wystąpić w reklamie z okazji 20 lat Polski w UE!
+      - https://youtu.be/0VqTy_p8GBc?si=1g9czoOrlBQZ8kik
   - image: /images/8.jpg
 main_site: true
 main_project_image: /images/hal/5.jpg
