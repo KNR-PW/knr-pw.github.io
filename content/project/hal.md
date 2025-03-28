@@ -2,9 +2,18 @@
 main_site_item_descr: HAL-062 to innowacyjny projekt kołowego łazika
   marsjańskiego przygotowanego specjalnie na zawody ...
 start_date: 2017
+end_date: null
+gallery_images:
+  - image: /images/1.jpg
+  - image: /images/2.jpg
+  - image: /images/4.jpg
+  - image: /images/6.jpg
+  - image: /images/dsc01959.jpg
+    description: Mieliśmy możliwość wystąpić w reklamie z okazji [20 lat Polski w
+      UE!](https://youtu.be/0VqTy_p8GBc?si=1g9czoOrlBQZ8kik)
+  - image: /images/8.jpg
 main_site: true
 main_project_image: /images/hal/5.jpg
-end_date: null
 main_site_item_images:
   - 1.jpg
   - 2.jpg
