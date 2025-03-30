@@ -85,6 +85,7 @@ Drugie wystąpienie na CaroloCup 2019 w kategorii podstawowej zaowocowało zaję
 
 {{< youtube ogprpJ1HzBE >}}
 
+<!-- Kiedy użyto selfie V3? I jak było z zawodami F1-->
 
 W roku 2020 ukończono prace nad kolejną iteracją pojazdu określoną mianem Selfie V3. Charakteryzował się on poprawionymi własnościami jezdnymi, posiadał 2 skrętne osie oraz mocniejszy komputer. Samochód ten został wystawiony na zawodach CaroloCup 2020, gdzie zajął 2. miejsce w kategorii podstawowej.
 
@@ -103,6 +104,19 @@ Mimo wymienionych wyzwań nasz zespół zdołał zająć 3. miejsce w zawodach C
 
 
 <!-- TODO reszta historii -->
+
+
+<!--  Żródła:
+https://www.facebook.com/eMaksPower
+Projekt emaks https://www.thefirstnews.com/tag/e-MaksPower  
+FB WUT drverless https://www.facebook.com/WUT.Driverless/
+CC 2019 https://meil.pw.edu.pl/eng/PAE2/Students/SRG-News/The-most-important-competition-for-a-Selfie-from-KNR-has-just-finished
+Selfie wiki https://github.com/KNR-Selfie/selfie_wiki/wiki
+https://www.indyautonomouschallenge.com/warsaw-university-of-technology
+https://www.robotcompetition.ca/iarrc2018/
+https://www.pw.edu.pl/engpw%C3%A2%E2%82%AC%C5%BD/Research/Business-Innovations-Technology-BIT-of-WUT/Selfie-project
+EMAKSPOWER https://www.pw.edu.pl/Aktualnosci/Rok-od-premiery-elektrycznego-bolidu-dla-Maksa
+ -->
 
 ## Wkład naukowy
 
