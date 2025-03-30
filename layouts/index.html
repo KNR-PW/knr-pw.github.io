@@ -28,8 +28,8 @@
       </div>
       <div class="container">
         <div class="about__wrapper">
-          <div class="about__block" data-aos="fade-up">
-            <img class="about__image" src="/images/knr-walne-zdjęcie-2024.png" alt="hal" />
+          <div class="about__block aos-init aos-animate" data-aos="fade-up">
+            <img class="about__image" src="/images/knr-walne-zdjecie-2024.png" alt="hal" />
           </div>
         </div>
         <div class="about__block">
@@ -253,36 +253,68 @@
     <section class="sponsors" id="sponsors" data-section="sponsors">
       <div class="container">
         <div data-aos="fade-up" class="sponsors__title">Wspierają nas</div>
+    
+        <!-- Sekcja sponsorów -->
         <div data-aos="fade-up" data-aos-delay="300" class="sponsors__block">
-	  <a href="https://www.prusa3d.com/" target="_blank">
-            <img src="/images/prusaresearch-logo-rgb-black.png" alt="sponsors image" />
+          
+          <div class="sponsor_row">
+          <a href="https://meil.pw.edu.pl/" target="_blank" class="sponsor sponsor--main">
+            <img src="/images/meil_pw_sygnet_pl_czarny_rgb.png" alt="Wydział MEiL PW logo" />
           </a>
-          <a href="https://botland.com.pl/pl/" target="_blank">
-            <img src="/images/botland.png" alt="sponsors image" />
-          </a>
-          <a href="https://dps-software.pl/" target="_blank">
-            <img src="/images/dps-software-logo.png" alt="sponsors image" />
+          
+          <a href="https://www.gov.pl/web/nauka" target="_blank" class="sponsor sponsor--main">
+            <img src="/images/05_znak_-siatka_uproszczony_kolor_biale_tlo.png" alt="Ministerstwo Edukacji i Nauki logo" />
           </a>
 
-          <a href="http://www.addit.pl/" target="_blank">
-            <img src="/images/addit.png" alt="sponsors image" />
+        </div>
+        <div class="sponsor_row" data-aos="fade-up" data-aos-delay="300" >
+          <a href="https://www.prusa3d.com/" target="_blank" class="sponsor sponsor--big">
+            <img src="/images/prusaresearch-logo-rgb-black.png" alt="Prusa Research logo" />
           </a>
-          <a href="https://www.st.com/content/st_com/en.html" target="_blank">
-            <img src="/images/stm.png" alt="sponsors image" />
-          </a>
-	  <a href="https://www.altium.com/" target="_blank">
-            <img src="/images/thumbnail_altium_logo_blk.png" alt="sponsors image" />
-          </a>
-	  <a href="https://symkom.pl/" target="_blank">
-            <img src="/images/symkon-logo-420x280.png" alt="sponsors image" />
-          </a>
-	  <a href="https://meil.pw.edu.pl/" target="_blank">
-            <img src="/images/meil_pw_sygnet_pl_czarny_rgb.png" alt="sponsors image" />
-          </a>
- 	  <a href="https://www.gov.pl/web/nauka" target="_blank">
-            <img src="/images/05_znak_-siatka_uproszczony_kolor_biale_tlo.png" alt="sponsors image" />
+         
+          <a href="https://www.maxongroup.com/en" target="_blank" class=" sponsor sponsor--big">
+            <img src="/images/Maxon_logo.png" alt="Addit logo" />
           </a>
         </div>
+        
+
+        <div class="sponsor_row" data-aos="fade-up" data-aos-delay="300" >
+       
+          <a href="http://www.addit.pl/" target="_blank" class=" sponsor sponsor--medium">
+            <img src="/images/addit.png" alt="Addit logo" />
+          </a>
+          <a href="https://www.st.com/content/st_com/en.html" target="_blank" class=" sponsor sponsor--medium">
+            <img src="/images/stm.png" alt="ST Microelectronics logo" />
+          </a>
+          <a href="https://dps-software.pl/" target="_blank" class=" sponsor sponsor--medium">
+            <img src="/images/dps-software-logo.png" alt="DPS Software logo" />
+          </a>
+        </div>
+
+
+        <div class="sponsor_row" data-aos="fade-up" data-aos-delay="300" >
+          <a href="https://botland.com.pl/pl/" target="_blank" class="sponsor sponsor--small">
+            <img src="/images/botland.png" alt="Botland logo" />
+          </a>
+          <a href="https://www.altium.com/" target="_blank" class="sponsor sponsor--small">
+            <img src="/images/thumbnail_altium_logo_blk.png" alt="Altium logo" />
+          </a>
+          <a href="https://tme.eu/" target="_blank" class="sponsor sponsor--small">
+            <img src="/images/tme_logo.png" alt="TME logo" />
+          </a>
+          <a href="https://symkom.pl/" target="_blank" class="sponsor sponsor--small">
+            <img src="/images/symkon-logo-420x280.png" alt="Symkom logo" />
+          </a>
+        </div>
+        <div class="sponsors__contact">
+          <p>Chcesz z nami współpracować? Napisz do nas na mail: 
+              <a href="mailto:knr@pw.edu.pl">knr@pw.edu.pl</a>
+          </p>
       </div>
+        </div>
+    
+       
+      </div>
+      
     </section>
 {{ partial "footer.html" . }}

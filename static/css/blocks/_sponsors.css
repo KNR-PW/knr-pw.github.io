@@ -3,8 +3,76 @@
   font-size: 60px;
   line-height: 68px;
   margin-bottom: 30px;
+  text-align: center;
+  
 }
-.sponsors__slider img {
+
+
+.sponsors__block {
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+  gap: 30px;
+
+}
+
+.sponsor_row{
+  
+  justify-content: space-between;;
+  align-items: center;
+  gap: 60px;
+  max-width: 100%;
+  
+  }
+
+.sponsor img {
+  height: auto;
+  max-width: 100%;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 20px;
+  transition: transform 0.3s ease-in-out;
+  
+}
+
+
+
+
+/* Skalowanie logotypów wg ważności */
+.sponsor--main img {
+  width: 400px;
+  
+}
+
+.sponsor--big img {
   width: 300px;
-  height: 200px;
+}
+
+.sponsor--medium img {
+  width: 200px;
+}
+
+.sponsor--small img {
+  width: 150px;
+}
+
+/* Efekt hover */
+.sponsor:hover img {
+  transform: scale(1.05);
+  
+}
+
+.sponsors__contact {
+  text-align: center; /* Wyśrodkowanie tekstu */
+  margin-top: 40px; /* Dystans od sponsorów */
+  font-size: 25px;
+  }
+
+.sponsors__contact a {
+  color: #292929; /* Kolor linku, możesz zmienić */
+  text-decoration: none;
+}
+
+.sponsors__contact a:hover {
+  text-decoration: underline;
 }
