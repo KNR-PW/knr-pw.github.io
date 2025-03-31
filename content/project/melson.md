@@ -11,9 +11,10 @@ main_site_item_images:
   - 1.jpg
   - 2.jpg
   - 3.jpg
-  - 4.jpg
+  
 title: Zespół Robotów Kroczących
 short_description: Sekcja zajmująca się różnymi robotami kroczącymi
+short_title: Roboty Kroczące
 ---
 Jesteśmy sekcją zajmującą się robotami kroczącymi, czyli takimi konstrukcjami które w wyglądzie i poruszaniu się przypominają człowieka. Nasz zespół składa się z ponad 20 studentów i studentek PW prężnie rozwijających równolegle 4 projekty konkurujące na międzynarodowych zawodach.
 <br></br>
