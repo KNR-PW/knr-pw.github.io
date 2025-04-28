@@ -1,13 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-  })(window,document,'script','dataLayer','GTM-TW835VT8');</script>
-  <!-- End Google Tag Manager -->
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -39,37 +32,7 @@
     <link rel="stylesheet" href="/css/aos.css" />
     <link rel="stylesheet" href="/css/style.css" />
     <link rel="stylesheet" href="/css/blocks/_sponsors.css" />
-    <div id="cookie-banner" style="position:fixed;bottom:0;width:100%;background:black;color:white;padding:20px;text-align:center;z-index:1000;">
-      Ta strona używa plików cookie do analizy ruchu i poprawy działania serwisu. <a href="/polityka-prywatnosci.html" style="color:lightblue;">Dowiedz się więcej</a>.
-      <button onclick="acceptCookies();" style="margin-left:20px;padding:10px 20px;background:lightblue;color:black;border:none;border-radius:5px;">Akceptuję</button>
-    </div>
-    
-    <script>
-      function acceptCookies() {
-        document.getElementById('cookie-banner').style.display = 'none';
-        // Zapisz zgodę w localStorage, aby nie pokazywać banera za każdym razem
-        localStorage.setItem('cookies_accepted', 'true');
-        // Załaduj Google Analytics, dopiero po zgodzie
-        loadGoogleAnalytics();
-      }
-    
-      // Sprawdzanie, czy zgoda została już wyrażona
-      if (localStorage.getItem('cookies_accepted') === 'true') {
-        loadGoogleAnalytics();
-        document.getElementById('cookie-banner').style.display = 'none';
-      }
-    
-      function loadGoogleAnalytics() {
-        // Załaduj skrypt Google Analytics
-        var script = document.createElement('script');
-        script.async = true;
-        script.src = 'https://www.googletagmanager.com/gtag/js?id=UA-XXXXXXX-X';
-        document.head.appendChild(script);
-        script.onload = function() {
-          gtag('config', 'UA-XXXXXXX-X');
-        };
-      }
-    </script>
+
     <!-- Zdjęcia podglądów dla social mediów -->
     {{ if .Params.archive_image }}
       {{ $image := resources.GetMatch .Params.archive_image }}
@@ -108,20 +71,9 @@
     <title>
       
     </title>
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-XXXXXXX-X"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-XXXXXXX-X');
-</script>
+    
   </head>
     <body>
-      <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TW835VT8"
-  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-  <!-- End Google Tag Manager (noscript) -->
     <header id="header" class="header">
       <div class="container">
         <div class="header__wrapper">

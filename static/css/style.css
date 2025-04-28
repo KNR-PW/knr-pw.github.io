@@ -1523,15 +1523,12 @@ div details ul {
     flex-wrap:wrap
 }
 .sponsors__block a{
-    width:20%;
+    width:30%;
     margin-bottom:10px
 }
 .sponsors__block img{
     width:100%
 }
-
-
-
 .sponsors .slick-dots li button:before{
     opacity:0.35;
     color:rgb(136,136,136)
