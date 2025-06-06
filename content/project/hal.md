@@ -4,22 +4,27 @@ main_site_item_descr: HAL-062 to innowacyjny projekt kołowego łazika
 start_date: 2017
 end_date: null
 gallery_images:
-  - image: /images/1.jpg
-  - image: /images/2.jpg
-  - image: /images/4.jpg
-  - image: /images/6.jpg
-  - image: /images/dsc01959.jpg
-    description: Mieliśmy możliwość wystąpić w reklamie z okazji 20 lat Polski w UE!
-      - https://youtu.be/0VqTy_p8GBc?si=1g9czoOrlBQZ8kik
-  - image: /images/8.jpg
+ - image: /images/hal/URC1.jpg
+ - image: /images/hal/URC2.jpg
+ - image: /images/hal/URC3.jpg
+ - image: /images/hal/URC4.jpg
+ - image: /images/hal/ERC1.jpg
+ - image: /images/hal/ERC2.jpg
+ - image: /images/hal/ERC4.jpg
+ - image: /images/hal/mnisw.jpg
+   description: Mieliśmy możliwość wystąpić w reklamie z okazji 20 lat Polski w UE!
+        - https://youtu.be/0VqTy_p8GBc?si=1g9czoOrlBQZ8kik
 main_site: true
-main_project_image: /images/hal/5.jpg
+main_project_image: /images/hal/URC1.jpg
 main_site_item_images:
-  - 1.jpg
-  - 2.jpg
-  - 3.jpg
-  - 4.jpg
-  - 7.jpg
+  - URC1.jpg
+  - URC2.jpg
+  - URC3.jpg
+  - URC4.jpg
+  - ERC1.jpg
+  - ERC2.jpg
+  - ERC4.jpg
+  - Z1.jpg
 short_title: HAL-062
 title: Łazik HAL-062
 short_description: Specjalny pojazd zaprojektowany do badania i eksploracji powierzchni Marsa
@@ -29,7 +34,7 @@ short_description: Specjalny pojazd zaprojektowany do badania i eksploracji powi
 <br><br>
 
 W ramach projektu powstały 3 iteracje łazika.
-Obecnie w strukturach naszego zespołu zasiada łącznie 25 członków. W projekcie wyróżniamy 5 działów:
+Obecnie w strukturach naszego zespołu zasiada łącznie 35 członków. W projekcie wyróżniamy 5 działów:
 
 * ⚙️ mechaniczny,
 * 🔌 elektryczno/elektroniczny,
@@ -39,7 +44,7 @@ Obecnie w strukturach naszego zespołu zasiada łącznie 25 członków. W projek
 
 <br><br>
 
-<img src="/images/hal/4.jpg" width="65%" alt="Zespol lazika marsjanskiego na zawodach Univeristy Rover Challenge">
+<img src="/images/hal/URC2.jpg" width="65%" alt="Zespół łazika marsjanskiego na zawodach Univeristy Rover Challenge">
 
 <br><br>
 
@@ -47,7 +52,7 @@ By sprostać wymaganiom konkursowym zaprojektowaliśmy wymienne moduły operacyj
 
 <br><br>
 
-{{< youtube uIncSf6KHa0 >}}
+{{< youtube iI1e1XqFULk >}}
 
 <br><br>
 
@@ -58,16 +63,15 @@ W 2017 roku powstała sekcja astronomiczna KNR-u. Głównym celem nowo utworzone
 <br><br>
 
 Nasz zespół Łazika "HAL-062" ma na swoim koncie takie sukcesy jak:
-
-* 14 miejsce na finale zawodów European Rover Challenge w Krakowie (2024),
-* Zakwalifikowanie się do finałów Anatolian Rover Challenge w Turcji (2023),
-* Zakwalifikowanie się do finałów European Rover Challenge w Kielcach (2023),
-* Zakwalifikowanie się do finałów European Rover Challenge w Kielcach (2022),
-* 9 miejsce na zawodach European Rover Challenge w Kielcach (2021),
+* 28. miejsce na 114 drużyn w finale zawodów University Rover Challenge w USA (2025),
+* 14. miejsce na 69 drużyn w finale zawodów European Rover Challenge w Krakowie (2024),
+* Zakwalifikowanie się do finałów Anatolian Rover Challenge w Turcji (2023, 2024, 2025),
+* Zakwalifikowanie się do finałów European Rover Challenge w Kielcach (2022, 2023, 2024),
+* 9. miejsce na zawodach European Rover Challenge w Kielcach (2021),
 * Zakwalifikowanie się do finałów Univeristy Rover Challenge w USA (2020),
 * Uczestnictwo w finale zawodów European Rover Challenge (zdalnie!) (2020),
-* 7 miejsce na finale zawodów European Rover Challenge w Kielcach (2019),
-* 21 miejsce na finale zawodów Univeristy Rover Challenge w USA (2019).
+* 7. miejsce na finale zawodów European Rover Challenge w Kielcach (2019),
+* 21. miejsce na finale zawodów Univeristy Rover Challenge w USA (2019).
 
 <br><br>
 
