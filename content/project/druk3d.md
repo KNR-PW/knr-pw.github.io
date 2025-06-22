@@ -18,3 +18,7 @@ Projekt drukarki 5D to odpowiedź Sekcji Druku 3D na rosnące potrzeby w zakresi
 W odróżnieniu od klasycznych drukarek 3D, nowa drukarka będzie wyposażone w obrotową głowicę oraz zmienną płaszczyznę roboczą, co pozwoli na nakładanie warstw pod różnymi kątami, a także na nanoszenie dodatkowych warstw wzmacniających na istniejące wydruki. Drukarka powstaje z myślą o pracy z zaawansowanymi filamentami, takimi jak nylon PA12, PETG+CF czy PA12+CF. Jej konstrukcja wymaga zastosowania precyzyjnych mechanizmów odpornych na wysokie temperatury, jak również specjalistycznego systemu chłodzenia cieczą dla zmniejszenia masy głowicy.
 
 Urządzenie będzie oparte na kinematyce CoreXY, co – w przeciwieństwie do popularnych układów kartezjańskich z obrotowym stołem – pozwoli na znaczne zwiększenie powierzchni roboczej. Planowany jest również modułowy system montażu stołu, umożliwiający łatwe przejście między trybem standardowego druku a trybem wzmacniania gotowych elementów.
+
+
+
+![](/images/zbigniew.gif)
