@@ -9,8 +9,6 @@ end_date: null
 ---
 Sekcja Druku 3D w naszym Kole Naukowym to miejsce, gdzie realizujemy naszą pasję do technologii druku trójwymiarowego. Nasz zespół składa się z dwóch niezwykle zaangażowanych osób, które poświęcają wiele godzin na rozwijanie tej fascynującej dziedziny. Nasze drukarki to jedna markowa Prusa MK3s+ oraz dwie drukarki DIY, które dostosowaliśmy do naszych potrzeb.
 
-<img src="/images/druk3d/team3d.jpg" width="60%" alt="Zespół druku 3D">
-
 Jednym z naszych największych osiągnięć jest stworzenie systemu do zdalnego zarządzania naszymi drukarkami 3D. Dzięki niemu możemy włączyć drukarki, monitorować postęp drukowania oraz kontrolować proces z dowolnego miejsca, co znacznie ułatwia nam pracę i pozwala efektywniej wykorzystywać nasze urządzenia.
 
 <img src="/images/druk3d/drukarka.jpg" width="60%" alt="Jedna ze zbudowanych przez nas drukarek 3D.">
