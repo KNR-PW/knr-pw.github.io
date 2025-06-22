@@ -5,7 +5,7 @@ start_date: "2021"
 main_site: false
 main_project_image: /images/druk3d/wydruki.jpg
 title: Sekcja druku 3D
-short_description: Zespół poświęcony drukowi 3D.
+short_description: false
 end_date: null
 archive_image: /images/druk3d/wydruki.jpg
 ---
