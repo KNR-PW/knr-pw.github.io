@@ -1,11 +1,13 @@
 ---
-title: Sekcja druku 3D
-main_project_image: /images/druk3d/wydruki.jpg
-archive_image: /images/druk3d/wydruki.jpg
+main_site_item_descr: "Zespół odpowiedzialny za druk 3D w kole. Aktualnie
+  rozwijający drukarkę o 5 stopniach swobody "
+start_date: ""
 main_site: false
+main_project_image: /images/druk3d/wydruki.jpg
+title: Sekcja druku 3D
 short_description: Zespół poświęcony drukowi 3D.
-start_date: null
 end_date: null
+archive_image: /images/druk3d/wydruki.jpg
 ---
 Sekcja Druku 3D zajmuje się projektowaniem, budową oraz rozwojem drukarek 3D. Zespół jest odpowiedzialny za wszystkie drukarki w kole. Obecnie w naszym warsztacie znajduje się pięć drukarek FDM.
 
