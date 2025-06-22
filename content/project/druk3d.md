@@ -5,13 +5,15 @@ start_date: "2021"
 main_site: false
 main_project_image: /images/druk3d/wydruki.jpg
 title: Sekcja druku 3D
-short_description: false
+short_description: true
 end_date: null
 archive_image: /images/druk3d/wydruki.jpg
 ---
 Sekcja Druku 3D zajmuje się projektowaniem, budową oraz rozwojem drukarek 3D. Zespół jest odpowiedzialny za wszystkie drukarki w kole. Obecnie w naszym warsztacie znajduje się pięć drukarek FDM.
 
 Jednym z naszych największych osiągnięć jest stworzenie systemu do zdalnego zarządzania naszymi drukarkami 3D. Dzięki niemu możemy włączyć drukarki, monitorować postęp drukowania oraz kontrolować proces z dowolnego miejsca, co znacznie ułatwia nam pracę i pozwala efektywniej wykorzystywać nasze urządzenia.
+
+
 
 ### Projekt Zbigniew - Drukarka o 5 stopniach swobody
 
