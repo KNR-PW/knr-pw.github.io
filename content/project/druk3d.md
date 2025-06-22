@@ -7,10 +7,14 @@ short_description: Zespół poświęcony drukowi 3D.
 start_date: null
 end_date: null
 ---
-Sekcja Druku 3D w naszym Kole Naukowym to miejsce, gdzie realizujemy naszą pasję do technologii druku trójwymiarowego. Nasz zespół składa się z dwóch niezwykle zaangażowanych osób, które poświęcają wiele godzin na rozwijanie tej fascynującej dziedziny. Nasze drukarki to jedna markowa Prusa MK3s+ oraz dwie drukarki DIY, które dostosowaliśmy do naszych potrzeb.
+Sekcja Druku 3D zajmuje się projektowaniem, budową oraz rozwojem drukarek 3D. Zespół jest odpowiedzialny za wszystkie drukarki w kole. Obecnie w naszym warsztacie znajduje się pięć drukarek FDM.
 
 Jednym z naszych największych osiągnięć jest stworzenie systemu do zdalnego zarządzania naszymi drukarkami 3D. Dzięki niemu możemy włączyć drukarki, monitorować postęp drukowania oraz kontrolować proces z dowolnego miejsca, co znacznie ułatwia nam pracę i pozwala efektywniej wykorzystywać nasze urządzenia.
 
-<img src="/images/druk3d/drukarka.jpg" width="60%" alt="Jedna ze zbudowanych przez nas drukarek 3D.">
+### Projekt Zbigniew - Drukarka o 5 stopniach swobody
 
-Nasza sekcja Druku 3D aktywnie uczestniczy w życiu społeczności uczelni i lokalnej społeczności. W ubiegłym roku mieliśmy przyjemność wspierać kiermasz świąteczny naszej uczelni, tworząc ozdoby i dekoracje przy użyciu naszych drukarek 3D.  Dodatkowo, sekcja Druku 3D regularnie drukuje części dla innych projektów w naszym Kole Naukowym. To pomaga w szybkim testowaniu prototypów oraz produkcji nietypowych części, co stanowi istotne wsparcie dla innych działów i projektów w ramach naszej organizacji.
+Projekt drukarki 5D to odpowiedź Sekcji Druku 3D na rosnące potrzeby w zakresie tworzenia wytrzymałych, złożonych geometrycznie komponentów z filamentów technicznych. Celem jest opracowanie autorskiej konstrukcji umożliwiającej drukowanie w pięciu osiach, co znacząco poprawia właściwości mechaniczne powstających elementów – szczególnie odporność na siły ścinające pomiędzy warstwami.
+
+W odróżnieniu od klasycznych drukarek 3D, nowa drukarka będzie wyposażone w obrotową głowicę oraz zmienną płaszczyznę roboczą, co pozwoli na nakładanie warstw pod różnymi kątami, a także na nanoszenie dodatkowych warstw wzmacniających na istniejące wydruki. Drukarka powstaje z myślą o pracy z zaawansowanymi filamentami, takimi jak nylon PA12, PETG+CF czy PA12+CF. Jej konstrukcja wymaga zastosowania precyzyjnych mechanizmów odpornych na wysokie temperatury, jak również specjalistycznego systemu chłodzenia cieczą dla zmniejszenia masy głowicy.
+
+Urządzenie będzie oparte na kinematyce CoreXY, co – w przeciwieństwie do popularnych układów kartezjańskich z obrotowym stołem – pozwoli na znaczne zwiększenie powierzchni roboczej. Planowany jest również modułowy system montażu stołu, umożliwiający łatwe przejście między trybem standardowego druku a trybem wzmacniania gotowych elementów.
