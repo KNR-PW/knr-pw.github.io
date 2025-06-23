@@ -22,6 +22,7 @@ collections:
     fields: # The fields for each document, usually in front matter desccriptions: https://decapcms.org/docs/widgets/
       - {label: "Title", name: "title", widget: "string", required: true, hint: "Nazwa projektu"}
       - {label: "Pokaż na głównej", name: "short_description", widget: "boolean", required: true, hint: "Czy pokazać projekt na stronie głównej koła", default: false}
+      - {label: "Priorytet na głównej stronie", name: "main_site_priority", widget: "number", default: 10, value_type: "int", min: 1, max: 100, step: 1, required: false, hint: "1 = pierwszy od góry"}
       - {label: "Opis na głównej stronie", name: "main_site_item_descr", widget: "text", hint: "Krótki opis projektu, który pojawi się na stronie głównej koła (o się tam znajdzie)", required: false}
       - {label: "Data rozpoczęcia projektu", name: "start_date", widget: "string", required: false}
       - {label: "Data zakończenia projektu", name: "end_date", widget: "string", hint: "Wypełnij tylko, jeśli projekt jest już zakończony", required: false}
@@ -29,10 +30,19 @@ collections:
       - label: "Zdjęcia do galerii projektu"
         name: "gallery_images"
         widget: "list"
+        summary: "{{image}}"
         required: false
         fields:
           - {label: "Zdjęcie", name: "image", widget: "image", required: true}
           - {label: "Opis zdjęcia", name: "description", widget: "string", required: false}
+
+      - label: "Zdjęcia wyświetlane na głównej stronie"
+        name: "main_site_item_images"
+        widget: "list"
+        required: true
+        summary: "{{image}}"
+        fields:
+          -  {label: "Zdjęcie", name: "image", widget: "image", required: true, choose_url: true}
       #TODO dodać listę obrazków na główną
   - name: "article" # Used in routes, e.g., /admin/collections/blog
     label: "Artykuł" # Used in the UI

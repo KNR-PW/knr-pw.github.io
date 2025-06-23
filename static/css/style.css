@@ -690,6 +690,11 @@ div details ul {
     line-height:68px;
     margin-bottom:30px
 }
+.about section{
+
+    position: relative;
+    margin-top: -1px; /* ważne: usuwa szparę wynikającą z subpikseli */
+}   
 .project__dates{
     margin-bottom: 20px;
     margin-right: 0px;
@@ -740,12 +745,27 @@ div details ul {
     margin-bottom:20px
 }
 .about__wave{
-    position:absolute;
-    top:0;
-    left:0;
-    width:100%;
-    overflow:hidden;
-    line-height:0
+  position: absolute;
+  bottom: -10px; 
+  left: 0;
+  width: 100%;
+  height: auto;
+  pointer-events: none;
+  
+}
+.about__wave_down {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: auto;
+  line-height: 0;
+  z-index: 1;
+  pointer-events: none;
+    
+}
+.about__wave_down svg {
+  display: block;
 }
 @media (max-width:1200px){
     .about__image{

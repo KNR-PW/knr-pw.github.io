@@ -4,6 +4,7 @@ main_site_item_descr: Projekt KNR Drone zajmuje się rozwojem innowacyjnych
   autonomicznych systemach przygotowywanych pod zawody oraz projekty badawcze.
 start_date: "2023"
 end_date: null
+main_site_priority: 4
 gallery_images: []
 main_site: true
 main_project_image: /images/knrdron/dron_na_tle.jpg

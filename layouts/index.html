@@ -1,354 +1,368 @@
 {{ partial "header.html" . }}
 
-    <section class="start" id="start" data-section="start">
-      <div class="container">
-        <div class="start__wrapper">
-          <div data-aos="fade-up" class="start__block">
-            <!-- <img class="start__image akso" src="/images/akso.jpg" alt="akso"> -->
-            <img class="start__image hal" src="/images/znak.png" alt="hal" />
-          </div>
-          <div class="start__block">
-            <!-- <div data-aos="fade-up" class="start__title">KNR</div> -->
-            <div data-aos="fade-up" class="start__title">
-              <span>K</span>oło <span>N</span>aukowe <span>R</span>obotyków
-            </div>
+<section class="start" id="start" data-section="start" style="position: relative; overflow: hidden;">
+  <section class="main_video">
+    <video autoplay muted loop playsinline style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;
+            object-fit: cover; z-index: 0;">
+      <source src="/images/Main_video.mp4" type="video/mp4" />
+      Twoja przeglądarka nie obsługuje video w tle :).
+    </video>
+    <div class="video-overlay" style="
+      position: absolute;
+      top: 0; left: 0;
+      width: 100%; height: 100%;
+      background: rgba(0, 0, 0, 0.6); /*przyciemnienie*/
+      z-index: 1;">
+    </div>
+    <div class="container" style="position: relative; z-index: 2;">
+      <div class="start__wrapper">
+        <div data-aos="fade-up" class="start__block">
+          <!-- <img class="start__image akso" src="/images/akso.jpg" alt="akso"> -->
+          <img class="start__image hal" src="/images/znak.png" alt="hal" />
+        </div>
+        <div class="start__block">
+          <!-- <div data-aos="fade-up" class="start__title">KNR</div> -->
+          <div data-aos="fade-up" class="start__title">
+            <span>K</span>oło <span>N</span>aukowe <span>R</span>obotyków
           </div>
         </div>
       </div>
-      <div class="square"></div>
-      <div class="square square-left"></div>
-    </section>
-    <section class="about" id="about" data-section="about">
-      <div class="about__wave">
-        <svg viewBox="0 0 1200 120" preserveAspectRatio="none">
-          <path
-            d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z"
-          ></path>
-        </svg>
+    </div>
+    <div class="square"></div>
+    <div class="square square-left"></div>
+  </section>
+
+  <div class="about__wave">
+    <svg viewBox="0 0 1200 50" preserveAspectRatio="none">
+      <path
+        d="M 618.37947,0.00228347 C 576.25375,0.07641047 534.11198,1.9523286 492.82439,5.4913632 434.85439,10.457017 378.56667,18.643892 320.4363,23.211612 A 601.56141,254.08767 0 0 1 -4.6875e-6,11.122422 V 50 H 1200 V 40.020603 C 1132.2904,49.617891 1056.0593,46.401518 986.20183,38.617368 907.0343,29.799413 823.95649,12.442445 743.83683,5.3262825 702.61439,1.6560149 660.50519,-0.07180467 618.37947,0.00228347 Z">
+      </path>
+    </svg>
+  </div>
+</section>
+
+
+<section class="about" id="about" data-section="about">
+  <div class="about__wave_down">
+    <svg viewBox="0 0 1200 80" preserveAspectRatio="none">
+      <path
+        d="M 7.4999998e-6,6.715441e-7 V 80 C 140.17125,60.247848 249.82243,3.6814572 686.71096,39.654297 747.32104,44.644851 1023.4708,79.450284 1200,75.743685 V 6.715441e-7 Z">
+      </path>
+    </svg>
+  </div>
+  <div class="container">
+    <div class="about__wrapper">
+      <div class="about__block aos-init aos-animate" data-aos="fade-up">
+        <img class="about__image" src="/images/knr-walne-zdjecie-2024.png" alt="hal" />
       </div>
-      <div class="container">
-        <div class="about__wrapper">
-          <div class="about__block aos-init aos-animate" data-aos="fade-up">
-            <img class="about__image" src="/images/knr-walne-zdjecie-2024.png" alt="hal" />
-          </div>
+    </div>
+    <div class="about__block">
+      <div data-aos="fade-up" class="about__title">O nas</div>
+      <div data-aos="fade-up" data-aos-delay="300" class="about__descr">
+        Koło Naukowe Robotyków KNR działające przy Wydziale Mechanicznym
+        Energetyki i Lotnictwa Politechniki Warszawskiej. Skupia w swoich
+        szeregach pasjonatów robotyki, którzy rozwijają swoją wiedzę i
+        umiejętności. Działalność członków Koła nie ogranicza się do
+        jednej tylko dziedziny robotyki - członkowie są zaangażowani w
+        projekty dotyczące samochodów autonomicznych, wizji maszynowej,
+        łazików marsjańskich, manipulatorów. Członkowie koła zajmują się
+        także budową robotów humanoidalnych, mobilnych, podwodnych, a
+        nawet latających. Dodatkowo, studenci Koła wraz z swoimi
+        konstrukcjami uczestniczą w ogólnopolskich i międzynarodowych
+        zawodach robotycznych, prezentują swoje dokonania na
+        międzynarodowych konferencjach oraz biorą udział w profesjonalnych
+        szkoleniach. Działalność popularyzacji nauki skupia się na
+        wystawianiu swoich konstrukcji oraz prezentacji ich na różnych
+        wydarzeniach poświęconych nauce, jak np. Piknik Naukowy Polskiego
+        Radia i Centrum Nauki Kopernik, czy podczas Nocy w Instytucie
+        Lotnictwa.
+      </div>
+    </div>
+  </div>
+  <div class="square square-white"></div>
+</section>
+<section class="projects" id="projects" data-section="projects">
+  <div class="projects__wave">
+    <svg viewBox="0 0 1200 120" preserveAspectRatio="none">
+      <path
+        d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z">
+      </path>
+    </svg>
+  </div>
+  <div class="projects__wrapper">
+    <div data-aos="fade-up" class="projects__title">Projekty</div>
+    {{ $counter := 0 }}
+    {{ range sort .Site.RegularPages "Params.main_site_priority" }}
+    {{ if (eq .Params.main_site true)}}
+    {{ $url := .Params.url }}
+    {{ $img_folder := .File.BaseFileName }}
+    {{ $counter = add $counter 1 }}
+    {{ if mod $counter 2 | eq 0 }}
+    <div class="projects__item projects__item-grey projects__item-reverse">
+      <div class="projects__item-block">
+        <div data-aos="fade-up" class="projects__item-title">
+          {{ .Params.title }}
         </div>
-        <div class="about__block">
-          <div data-aos="fade-up" class="about__title">O nas</div>
-          <div data-aos="fade-up" data-aos-delay="300" class="about__descr">
-            Koło Naukowe Robotyków KNR działające przy Wydziale Mechanicznym
-            Energetyki i Lotnictwa Politechniki Warszawskiej. Skupia w swoich
-            szeregach pasjonatów robotyki, którzy rozwijają swoją wiedzę i
-            umiejętności. Działalność członków Koła nie ogranicza się do
-            jednej tylko dziedziny robotyki - członkowie są zaangażowani w
-            projekty dotyczące samochodów autonomicznych, wizji maszynowej,
-            łazików marsjańskich, manipulatorów. Członkowie koła zajmują się
-            także budową robotów humanoidalnych, mobilnych, podwodnych, a
-            nawet latających. Dodatkowo, studenci Koła wraz z swoimi
-            konstrukcjami uczestniczą w ogólnopolskich i międzynarodowych
-            zawodach robotycznych, prezentują swoje dokonania na
-            międzynarodowych konferencjach oraz biorą udział w profesjonalnych
-            szkoleniach. Działalność popularyzacji nauki skupia się na
-            wystawianiu swoich konstrukcji oraz prezentacji ich na różnych
-            wydarzeniach poświęconych nauce, jak np. Piknik Naukowy Polskiego
-            Radia i Centrum Nauki Kopernik, czy podczas Nocy w Instytucie
-            Lotnictwa.
-          </div>
+        <div data-aos="fade-up" class="projects__item-descr">
+          {{ .Params.main_site_item_descr }}
+        </div>
+        <div data-aos="fade-up">
+          <a href="{{ .Permalink }}" class="projects__item-btn"> Więcej ... </a>
         </div>
       </div>
-      <div class="square square-white"></div>
-    </section>
-    <section class="projects" id="projects" data-section="projects">
-      <div class="projects__wave">
-        <svg viewBox="0 0 1200 120" preserveAspectRatio="none">
-          <path
-            d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z"
-          ></path>
-        </svg>
-      </div>
-      <div class="projects__wrapper">
-        <div data-aos="fade-up" class="projects__title">Projekty</div>
-          {{ $counter := 0 }} 
-          {{ range sort .Site.RegularPages "Params.start_date" }}
-            {{ if (eq .Params.main_site true)}}
-              {{ $url := .Params.url }}
-              {{ $img_folder := .File.BaseFileName }}
-              {{ $counter = add $counter 1 }}
-              {{ if mod $counter 2 | eq 0 }}
-                <div class="projects__item projects__item-grey projects__item-reverse">
-                  <div class="projects__item-block">
-                    <div data-aos="fade-up" class="projects__item-title">
-                      {{ .Params.title }}
-                    </div>
-                    <div data-aos="fade-up" class="projects__item-descr">
-                      {{ .Params.main_site_item_descr }}
-                    </div>
-                    <div data-aos="fade-up">
-                      <a href="{{ .Permalink }}" class="projects__item-btn"> Więcej ... </a>
-                    </div>
-                  </div>
-                  <div data-aos="fade-up" class="projects__item-block">
-                    <div class="projects__item-slider">
-                      {{ range .Params.main_site_item_images }}
-                        {{ $image_path := printf "/images/%s/%s" $img_folder . }}
-                        {{ $image := resources.GetMatch $image_path }}
-                        <img src="{{ ( $image.Fit `800x600 q75` ).RelPermalink }}" alt="{{ $image_path }}" />
-                      {{ end }}
-                    </div>
-                  </div>
-                    <div class="projects__item-wave">
-                      <svg viewBox="0 0 1200 120" preserveAspectRatio="none">
-                        <path
-                        d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z"
-                        ></path>
-                      </svg>
-                    </div>
-                </div>
-              {{ else }}
-                <div class="projects__item">
-                  <div data-aos="fade-up" class="projects__item-block">
-                    <div class="projects__item-slider">
-                      {{ range .Params.main_site_item_images }}
-                        {{ $image_path := printf "/images/%s/%s" $img_folder . }}
-                        {{ $image := resources.GetMatch $image_path }}
-                        <img src="{{ ( $image.Fit `800x600 q75` ).RelPermalink }}" alt="{{ $image_path }}" />
-                      {{ end }}
-                    </div>
-                  </div>
-                  <div class="projects__item-block">
-                    <div data-aos="fade-up" class="projects__item-title">
-                      {{ .Params.title }}
-                    </div>
-                    <div data-aos="fade-up" class="projects__item-descr">
-                      {{ .Params.main_site_item_descr }}
-                    </div>
-                    <div data-aos="fade-up">
-                      <a href="{{ .Permalink }}" class="projects__item-btn"> Więcej ... </a>
-                    </div>
-                  </div>
-                  {{ if (gt $counter 1) }}
-                    <div class="projects__item-wave projects__item-wave-grey">
-                      <svg viewBox="0 0 1200 120" preserveAspectRatio="none">
-                        <path
-                          d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z"
-                        ></path>
-                      </svg>
-                    </div>
-                  {{ end }}
-                </div>
-              {{ end }}
-            {{ end }}
+      <div data-aos="fade-up" class="projects__item-block">
+        <div class="projects__item-slider">
+          {{ range .Params.main_site_item_images }}
+          {{ $image_path := printf "/images/%s/%s" $img_folder . }}
+          {{ $image := resources.GetMatch $image_path }}
+          <img src="{{ ( $image.Fit `800x600 q75` ).RelPermalink }}" alt="{{ $image_path }}" />
           {{ end }}
-      </div>
-    </section>
-    <section class="projects archive__section" id="archive" data-section="archive">
-      <div>
-        <svg {{ if mod $counter 2 | eq 0 }} class="archive__wave-grey" {{ else }} class="archive__wave" {{ end }} viewBox="0 0 1200 120" preserveAspectRatio="none">
-          <path d="M0,0V15.81C13,36.92,27.64,56.86,47.69,72.05,99.41,111.27,165,111,224.58,91.58c31.15-10.15,60.09-26.07,89.67-39.8,40.92-19,84.73-46,130.83-49.67,36.26-2.85,70.9,9.42,98.6,31.56,31.77,25.39,62.32,62,103.63,73,40.44,10.79,81.35-6.69,119.13-24.28s75.16-39,116.92-43.05c59.73-5.85,113.28,22.88,168.9,38.84,30.2,8.66,59,6.17,87.09-7.5,22.43-10.89,48-26.93,60.65-49.24V0Z"
-            opacity=".5"></path>
-          <path d="M0,0V46.29c47.79,22.2,103.59,32.17,158,28,70.36-5.37,136.33-33.31,206.8-37.5C438.64,32.43,512.34,53.67,583,72.05c69.27,18,138.3,24.88,209.4,13.08,36.15-6,69.85-17.84,104.45-29.34C989.49,25,1113-14.29,1200,52.47V0Z"
-            opacity=".25"></path>
-          <path d="M0,0V5.63C149.93,59,314.09,71.32,475.83,42.57c43-7.64,84.23-20.12,127.61-26.46,59-8.63,112.48,12.24,165.56,35.4C827.93,77.22,886,95.24,951.2,90c86.53-7,172.46-45.71,248.8-84.81V0Z"></path>
-        </svg>
-      </div>
-      <div class="projects__wrapper">
-        <div class="projects__item">
-          <div class="archive__item-block">
-            <div data-aos="fade-up" class="archive__item-title">
-              Archiwum projektów
-            </div>
-            <div data-aos="fade-up" class="archive__item-descr">
-              Jeśli jesteś ciekawy innych naszych projektów możesz zajrzeć do naszego archiwum. 
-            </div>
-            <div data-aos="fade-up">
-              <a href="/project" class="archive__item-btn"> 
-                Więcej ... 
-              </a>
-            </div>
-          </div>
         </div>
       </div>
-    </section>
-    <section class="authorities" id="authorities" data-section="authorities">
       <div class="projects__item-wave">
-        <svg
-          data-name="Layer 1"
-          xmlns="http://www.w3.org/2000/svg"
-          viewBox="0 0 1200 120"
-          preserveAspectRatio="none"
-        >
+        <svg viewBox="0 0 1200 120" preserveAspectRatio="none">
           <path
-            d="M0,0V15.81C13,36.92,27.64,56.86,47.69,72.05,99.41,111.27,165,111,224.58,91.58c31.15-10.15,60.09-26.07,89.67-39.8,40.92-19,84.73-46,130.83-49.67,36.26-2.85,70.9,9.42,98.6,31.56,31.77,25.39,62.32,62,103.63,73,40.44,10.79,81.35-6.69,119.13-24.28s75.16-39,116.92-43.05c59.73-5.85,113.28,22.88,168.9,38.84,30.2,8.66,59,6.17,87.09-7.5,22.43-10.89,48-26.93,60.65-49.24V0Z"
-            opacity=".5"
-          ></path>
-          <path
-            d="M0,0V46.29c47.79,22.2,103.59,32.17,158,28,70.36-5.37,136.33-33.31,206.8-37.5C438.64,32.43,512.34,53.67,583,72.05c69.27,18,138.3,24.88,209.4,13.08,36.15-6,69.85-17.84,104.45-29.34C989.49,25,1113-14.29,1200,52.47V0Z"
-            opacity=".25"
-          ></path>
-          <path
-            d="M0,0V5.63C149.93,59,314.09,71.32,475.83,42.57c43-7.64,84.23-20.12,127.61-26.46,59-8.63,112.48,12.24,165.56,35.4C827.93,77.22,886,95.24,951.2,90c86.53-7,172.46-45.71,248.8-84.81V0Z"
-          ></path>
+            d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z">
+          </path>
         </svg>
       </div>
-      <div class="container">
-        <div class="authorities__wrapper">
-          <div data-aos="fade-up" class="authorities__title">Zarząd</div>
-          <div class="authorities__content">
-            <div class="authorities__content-block">
-              <div data-aos="fade-up" class="authorities__position">Prezes</div>
-              <div
-                data-aos="fade-up"
-                data-aos-delay="100"
-                class="authorities__name"
-              >
-                Dominik Chmielak
-              </div>
-              <div data-aos="fade-up" data-aos-delay="200">
-                <a
-                  href="mailto:dominik.chmielak.stud@pw.edu.pl"
-                  class="authorities__contacts-item"
-                >
-                  <i class="far fa-envelope"></i>
-                  <p>dominik.chmielak.stud@pw.edu.pl</p>
-                </a>
-              </div>
-            </div>
-            <div class="authorities__content-block">
-              <div data-aos="fade-up" class="authorities__position">
-                Wiceprezes ds. Infrastruktury
-              </div>
-              <div
-                data-aos="fade-up"
-                data-aos-delay="100"
-                class="authorities__name"
-              >
-                Błażej Osmałek
-              </div>
-              <div data-aos="fade-up" data-aos-delay="200">
-                <a
-                  href="mailto:blazej.osmalek.stud@pw.edu.pl"
-                  class="authorities__contacts-item"
-                >
-                  <i class="far fa-envelope"></i>
-                  <p>blazej.osmalek.stud@pw.edu.pl</p>
-                </a>
-              </div>
-            
-            </div>
-            <div class="authorities__content-block">
-              <div data-aos="fade-up" class="authorities__position">
-                Wiceprezes ds. Finansów
-              </div>
-              <div
-                data-aos="fade-up"
-                data-aos-delay="100"
-                class="authorities__name"
-              >
-                Olgierd Iwaniuk
-              </div>
-            </div>
+    </div>
+    {{ else }}
+    <div class="projects__item">
+      <div data-aos="fade-up" class="projects__item-block">
+        <div class="projects__item-slider">
+          {{ range .Params.main_site_item_images }}
+          {{ $image_path := printf "/images/%s/%s" $img_folder . }}
+          {{ $image := resources.GetMatch $image_path }}
+          {{ if strings.HasSuffix $image_path ".gif" }}
+          <img src="{{ $image.RelPermalink }}" alt="{{ $image_path }}" />
+          {{ else }}
+          <img src="{{ ($image.Fit " 800x600 q75").RelPermalink }}" alt="{{ $image_path }}" />
+          {{ end }}
+
+          <!-- {{ $image := resources.GetMatch $image_path }}
+                        <img src="{{ ( $image.Fit `800x600 q75` ).RelPermalink }}" alt="{{ $image_path }}" /-->
+          {{ end }}
+        </div>
+      </div>
+      <div class="projects__item-block">
+        <div data-aos="fade-up" class="projects__item-title">
+          {{ .Params.title }}
+        </div>
+        <div data-aos="fade-up" class="projects__item-descr">
+          {{ .Params.main_site_item_descr }}
+        </div>
+        <div data-aos="fade-up">
+          <a href="{{ .Permalink }}" class="projects__item-btn"> Więcej ... </a>
+        </div>
+      </div>
+      {{ if (gt $counter 1) }}
+      <div class="projects__item-wave projects__item-wave-grey">
+        <svg viewBox="0 0 1200 120" preserveAspectRatio="none">
+          <path
+            d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z">
+          </path>
+        </svg>
+      </div>
+      {{ end }}
+    </div>
+    {{ end }}
+    {{ end }}
+    {{ end }}
+  </div>
+</section>
+<section class="projects archive__section" id="archive" data-section="archive">
+  <div>
+    <svg {{ if mod $counter 2 | eq 0 }} class="archive__wave-grey" {{ else }} class="archive__wave" {{ end }}
+      viewBox="0 0 1200 120" preserveAspectRatio="none">
+      <path
+        d="M0,0V15.81C13,36.92,27.64,56.86,47.69,72.05,99.41,111.27,165,111,224.58,91.58c31.15-10.15,60.09-26.07,89.67-39.8,40.92-19,84.73-46,130.83-49.67,36.26-2.85,70.9,9.42,98.6,31.56,31.77,25.39,62.32,62,103.63,73,40.44,10.79,81.35-6.69,119.13-24.28s75.16-39,116.92-43.05c59.73-5.85,113.28,22.88,168.9,38.84,30.2,8.66,59,6.17,87.09-7.5,22.43-10.89,48-26.93,60.65-49.24V0Z"
+        opacity=".5"></path>
+      <path
+        d="M0,0V46.29c47.79,22.2,103.59,32.17,158,28,70.36-5.37,136.33-33.31,206.8-37.5C438.64,32.43,512.34,53.67,583,72.05c69.27,18,138.3,24.88,209.4,13.08,36.15-6,69.85-17.84,104.45-29.34C989.49,25,1113-14.29,1200,52.47V0Z"
+        opacity=".25"></path>
+      <path
+        d="M0,0V5.63C149.93,59,314.09,71.32,475.83,42.57c43-7.64,84.23-20.12,127.61-26.46,59-8.63,112.48,12.24,165.56,35.4C827.93,77.22,886,95.24,951.2,90c86.53-7,172.46-45.71,248.8-84.81V0Z">
+      </path>
+    </svg>
+  </div>
+  <div class="projects__wrapper">
+    <div class="projects__item">
+      <div class="archive__item-block">
+        <div data-aos="fade-up" class="archive__item-title">
+          Archiwum projektów
+        </div>
+        <div data-aos="fade-up" class="archive__item-descr">
+          Jeśli jesteś ciekawy innych naszych projektów możesz zajrzeć do naszego archiwum.
+        </div>
+        <div data-aos="fade-up">
+          <a href="/project" class="archive__item-btn">
+            Więcej ...
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="authorities" id="authorities" data-section="authorities">
+  <div class="projects__item-wave">
+    <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
+      <path
+        d="M0,0V15.81C13,36.92,27.64,56.86,47.69,72.05,99.41,111.27,165,111,224.58,91.58c31.15-10.15,60.09-26.07,89.67-39.8,40.92-19,84.73-46,130.83-49.67,36.26-2.85,70.9,9.42,98.6,31.56,31.77,25.39,62.32,62,103.63,73,40.44,10.79,81.35-6.69,119.13-24.28s75.16-39,116.92-43.05c59.73-5.85,113.28,22.88,168.9,38.84,30.2,8.66,59,6.17,87.09-7.5,22.43-10.89,48-26.93,60.65-49.24V0Z"
+        opacity=".5"></path>
+      <path
+        d="M0,0V46.29c47.79,22.2,103.59,32.17,158,28,70.36-5.37,136.33-33.31,206.8-37.5C438.64,32.43,512.34,53.67,583,72.05c69.27,18,138.3,24.88,209.4,13.08,36.15-6,69.85-17.84,104.45-29.34C989.49,25,1113-14.29,1200,52.47V0Z"
+        opacity=".25"></path>
+      <path
+        d="M0,0V5.63C149.93,59,314.09,71.32,475.83,42.57c43-7.64,84.23-20.12,127.61-26.46,59-8.63,112.48,12.24,165.56,35.4C827.93,77.22,886,95.24,951.2,90c86.53-7,172.46-45.71,248.8-84.81V0Z">
+      </path>
+    </svg>
+  </div>
+  <div class="container">
+    <div class="authorities__wrapper">
+      <div data-aos="fade-up" class="authorities__title">Zarząd</div>
+      <div class="authorities__content">
+        <div class="authorities__content-block">
+          <div data-aos="fade-up" class="authorities__position">Prezes</div>
+          <div data-aos="fade-up" data-aos-delay="100" class="authorities__name">
+            Dominik Chmielak
+          </div>
+          <div data-aos="fade-up" data-aos-delay="200">
+            <a href="mailto:dominik.chmielak.stud@pw.edu.pl" class="authorities__contacts-item">
+              <i class="far fa-envelope"></i>
+              <p>dominik.chmielak.stud@pw.edu.pl</p>
+            </a>
+          </div>
+        </div>
+        <div class="authorities__content-block">
+          <div data-aos="fade-up" class="authorities__position">
+            Wiceprezes ds. Infrastruktury
+          </div>
+          <div data-aos="fade-up" data-aos-delay="100" class="authorities__name">
+            Błażej Osmałek
+          </div>
+          <div data-aos="fade-up" data-aos-delay="200">
+            <a href="mailto:blazej.osmalek.stud@pw.edu.pl" class="authorities__contacts-item">
+              <i class="far fa-envelope"></i>
+              <p>blazej.osmalek.stud@pw.edu.pl</p>
+            </a>
+          </div>
+
+        </div>
+        <div class="authorities__content-block">
+          <div data-aos="fade-up" class="authorities__position">
+            Wiceprezes ds. Finansów
+          </div>
+          <div data-aos="fade-up" data-aos-delay="100" class="authorities__name">
+            Olgierd Iwaniuk
           </div>
         </div>
       </div>
-      <div class="square square-white"></div>
-    </section>
-    <section class="sponsors" id="sponsors" data-section="sponsors">
-      <div class="container">
-        <div data-aos="fade-up" class="sponsors__title">Wspierają nas</div>
-    
-        <!-- Sekcja sponsorów -->
-        <div data-aos="fade-up" data-aos-delay="300" class="sponsors__block">
-          
-          <div class="sponsor_row">
-          <a href="https://meil.pw.edu.pl/" target="_blank" class="sponsor sponsor--main">
-            <img src="/images/sponsorzy/mel.png" alt="Wydział MEiL PW logo" />
-          </a>
-          
-          <a href="https://www.gov.pl/web/nauka" target="_blank" class="sponsor sponsor--main">
-            <img src="/images/05_znak_-siatka_uproszczony_kolor_biale_tlo.png" alt="Ministerstwo Edukacji i Nauki logo" />
-          </a>
+    </div>
+  </div>
+  <div class="square square-white"></div>
+</section>
+<section class="sponsors" id="sponsors" data-section="sponsors">
+  <div class="container">
+    <div data-aos="fade-up" class="sponsors__title">Wspierają nas</div>
 
-        </div>
-        <div class="sponsor_row" data-aos="fade-up" data-aos-delay="150" >
-          <a href="https://www.vwfs.pl" target="_blank" class="sponsor sponsor--big">
-            <img src="/images/sponsorzy/vwfs.png" alt="VWFS logo" />
-          </a>
-          <a href="http://fedex.com/" target="_blank" class="sponsor sponsor--big">
-            <img src="/images/sponsorzy/collective_eng_2c_pos_rgb.png" alt="FedEx logo" />
-          </a>
-          <a href="https://piap.lukasiewicz.gov.pl/" target="_blank" class="sponsor sponsor--big">
-            <img src="/images/sponsorzy/lukasiewicz_PIAP_dop_pelna.png" alt="PIAP logo" />
-          </a>
-         
-        
-          <a href="https://www.prusa3d.com/" target="_blank" class="sponsor sponsor--big">
-            <img src="/images/sponsorzy/prusa.png" alt="Prusa Research logo" />
-          </a>
-            </div>
+    <!-- Sekcja sponsorów -->
+    <div data-aos="fade-up" data-aos-delay="300" class="sponsors__block">
 
-          <div class="sponsor_row" data-aos="fade-up" data-aos-delay="150" >
-          <a href="https://www.mchtr.pw.edu.pl/" target="_blank" class="sponsor sponsor--big">
-            <img src="/images/sponsorzy/WMchtr_PW_sygnet_PL_czarny.png" alt="Wydzial Mechatroniki logo" />
-          </a>
+      <div class="sponsor_row">
+        <a href="https://meil.pw.edu.pl/" target="_blank" class="sponsor sponsor--main">
+          <img src="/images/sponsorzy/mel.png" alt="Wydział MEiL PW logo" />
+        </a>
 
-          <a href="https://ww2.mini.pw.edu.pl/" target="_blank" class="sponsor sponsor--big">
-            <img src="/images/sponsorzy/MiNI_PW_sygnet_PL_czarny_RGB.png" alt="Wydzial MINI logo" />
-          </a>
-          
-         
-        </div>
-        
+        <a href="https://www.gov.pl/web/nauka" target="_blank" class="sponsor sponsor--main">
+          <img src="/images/05_znak_-siatka_uproszczony_kolor_biale_tlo.png" alt="Ministerstwo Edukacji i Nauki logo" />
+        </a>
 
-        <div class="sponsor_row" data-aos="fade-up" data-aos-delay="150" >
-          
-          <a href="https://astronika.pl/" target="_blank" class=" sponsor sponsor--small">
-            <img src="/images/sponsorzy/Astronika-logo-RGB.png" alt="Astronika logo" />
-          </a>
-          <a href="https://pcosa.com.pl/pl" target="_blank" class=" sponsor sponsor--small">
-            <img src="/images/sponsorzy/PCO-logo-RGB.png" alt="PCO logo" />
-          </a>
-          <a href="https://addit.pl/pl/" target="_blank" class=" sponsor sponsor--small">
-            <img src="/images/addit.png" alt="Addit logo" />
-          </a>
-          <a href="https://www.maxongroup.com/en" target="_blank" class=" sponsor sponsor--small">
-            <img src="/images/Maxon_logo.png" alt="maxon logo" />
-          </a>
-          <a href="https://www.elka.pw.edu.pl/" target="_blank" class="sponsor sponsor--medium">
-            <img src="/images/sponsorzy/WEiTI_PW_sygnet_PL_czarny.png" alt="Wydzial WEITI logo" />
-          </a>
-        </div>
-        <div class="sponsor_row" data-aos="fade-up" data-aos-delay="300" >
-       
-          <a href="https://www.st.com/content/st_com/en.html" target="_blank" class=" sponsor sponsor--small">
-            <img src="/images/stm.png" alt="ST Microelectronics logo" />
-          </a>
-          <a href="https://dps-software.pl/" target="_blank" class=" sponsor sponsor--small">
-            <img src="/images/dps-software-logo.png" alt="DPS Software logo" />
-          </a>
-        </div>
-          
-        <div class="sponsor_row" data-aos="fade-up" data-aos-delay="300" >
-          <a href="https://botland.com.pl/pl/" target="_blank" class="sponsor sponsor--small">
-            <img src="/images/botland.png" alt="Botland logo" />
-          </a>
-          <a href="https://www.altium.com/" target="_blank" class="sponsor sponsor--small">
-            <img src="/images/thumbnail_altium_logo_blk.png" alt="Altium logo" />
-          </a>
-          <a href="https://tme.eu/" target="_blank" class="sponsor sponsor--small">
-            <img src="/images/tme_logo.png" alt="TME logo" />
-          </a>
-          <a href="https://symkom.pl/" target="_blank" class="sponsor sponsor--small">
-            <img src="/images/symkon-logo-420x280.png" alt="Symkom logo" />
-          </a>
-        </div>
-        <div class="sponsors__contact">
-          <p>Chcesz z nami współpracować? Napisz do nas na mail: 
-              <a href="mailto:knr@pw.edu.pl">knr@pw.edu.pl</a>
-          </p>
       </div>
-        </div>
-    
-       
+      <div class="sponsor_row" data-aos="fade-up" data-aos-delay="150">
+        <a href="https://www.vwfs.pl" target="_blank" class="sponsor sponsor--big">
+          <img src="/images/sponsorzy/vwfs.png" alt="VWFS logo" />
+        </a>
+        <a href="http://fedex.com/" target="_blank" class="sponsor sponsor--big">
+          <img src="/images/sponsorzy/collective_eng_2c_pos_rgb.png" alt="FedEx logo" />
+        </a>
+        <a href="https://piap.lukasiewicz.gov.pl/" target="_blank" class="sponsor sponsor--big">
+          <img src="/images/sponsorzy/lukasiewicz_PIAP_dop_pelna.png" alt="PIAP logo" />
+        </a>
+
+
+        <a href="https://www.prusa3d.com/" target="_blank" class="sponsor sponsor--big">
+          <img src="/images/sponsorzy/prusa.png" alt="Prusa Research logo" />
+        </a>
       </div>
-      
-    </section>
+
+      <div class="sponsor_row" data-aos="fade-up" data-aos-delay="150">
+        <a href="https://www.mchtr.pw.edu.pl/" target="_blank" class="sponsor sponsor--big">
+          <img src="/images/sponsorzy/WMchtr_PW_sygnet_PL_czarny.png" alt="Wydzial Mechatroniki logo" />
+        </a>
+
+        <a href="https://ww2.mini.pw.edu.pl/" target="_blank" class="sponsor sponsor--big">
+          <img src="/images/sponsorzy/MiNI_PW_sygnet_PL_czarny_RGB.png" alt="Wydzial MINI logo" />
+        </a>
+
+
+      </div>
+
+
+      <div class="sponsor_row" data-aos="fade-up" data-aos-delay="150">
+
+        <a href="https://astronika.pl/" target="_blank" class=" sponsor sponsor--small">
+          <img src="/images/sponsorzy/Astronika-logo-RGB.png" alt="Astronika logo" />
+        </a>
+        <a href="https://fundacjappl.pl/" target="_blank" class=" sponsor sponsor--medium">
+          <img src="/images/sponsorzy/ppl.png" alt="PPL logo" />
+        </a>
+        <a href="https://pcosa.com.pl/pl" target="_blank" class=" sponsor sponsor--small">
+          <img src="/images/sponsorzy/PCO-logo-RGB.png" alt="PCO logo" />
+        </a>
+        <a href="https://addit.pl/pl/" target="_blank" class=" sponsor sponsor--small">
+          <img src="/images/addit.png" alt="Addit logo" />
+        </a>
+        <a href="https://www.maxongroup.com/en" target="_blank" class=" sponsor sponsor--small">
+          <img src="/images/Maxon_logo.png" alt="maxon logo" />
+        </a>
+        <a href="https://www.elka.pw.edu.pl/" target="_blank" class="sponsor sponsor--medium">
+          <img src="/images/sponsorzy/WEiTI_PW_sygnet_PL_czarny.png" alt="Wydzial WEITI logo" />
+        </a>
+      </div>
+      <div class="sponsor_row" data-aos="fade-up" data-aos-delay="300">
+
+        <a href="https://www.st.com/content/st_com/en.html" target="_blank" class=" sponsor sponsor--small">
+          <img src="/images/stm.png" alt="ST Microelectronics logo" />
+        </a>
+        <a href="https://dps-software.pl/" target="_blank" class=" sponsor sponsor--small">
+          <img src="/images/dps-software-logo.png" alt="DPS Software logo" />
+        </a>
+      </div>
+
+      <div class="sponsor_row" data-aos="fade-up" data-aos-delay="300">
+        <a href="https://botland.com.pl/pl/" target="_blank" class="sponsor sponsor--small">
+          <img src="/images/botland.png" alt="Botland logo" />
+        </a>
+        <a href="https://www.altium.com/" target="_blank" class="sponsor sponsor--small">
+          <img src="/images/thumbnail_altium_logo_blk.png" alt="Altium logo" />
+        </a>
+        <a href="https://tme.eu/" target="_blank" class="sponsor sponsor--small">
+          <img src="/images/tme_logo.png" alt="TME logo" />
+        </a>
+        <a href="https://symkom.pl/" target="_blank" class="sponsor sponsor--small">
+          <img src="/images/symkon-logo-420x280.png" alt="Symkom logo" />
+        </a>
+      </div>
+      <div class="sponsors__contact">
+        <p>Chcesz z nami współpracować? Napisz do nas na mail:
+          <a href="mailto:knr@pw.edu.pl">knr@pw.edu.pl</a>
+        </p>
+      </div>
+    </div>
+
+
+  </div>
+
+</section>
 {{ partial "footer.html" . }}

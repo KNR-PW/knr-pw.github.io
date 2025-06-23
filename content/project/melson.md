@@ -4,6 +4,7 @@ main_site_item_descr: Projekt "Melson" zajmuje się szeroko pojętymi robotami
   czteronożne.
 start_date: 2014
 main_site: true
+main_site_priority: 2
 main_project_image: /images/melson/Humanoidy_KNR.jpg
 end_date: null
 main_site_item_images:

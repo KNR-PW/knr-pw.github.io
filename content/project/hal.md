@@ -3,6 +3,7 @@ main_site_item_descr: HAL-062 to innowacyjny projekt kołowego łazika
   marsjańskiego przygotowanego specjalnie na zawody ...
 start_date: 2017
 end_date: null
+main_site_priority: 1
 gallery_images:
  - image: /images/hal/URC1.jpg
  - image: /images/hal/URC2.jpg
