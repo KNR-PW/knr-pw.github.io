@@ -239,6 +239,8 @@ window.addEventListener('DOMContentLoaded', function() {
     // });
 });
 
+
+
 $(document).ready(function(){
     $('.projects__item-slider').slick({
         dots: true,

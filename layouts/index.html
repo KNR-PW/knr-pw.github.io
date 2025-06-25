@@ -98,8 +98,9 @@
           <a href="{{ .Permalink }}" class="projects__item-btn"> Więcej ... </a>
         </div>
       </div>
+      
       <div data-aos="fade-up" class="projects__item-block">
-        <div class="projects__item-slider">
+        <div class="projects__item-slider" data-slider="true">
           {{ range .Params.main_site_item_images }}
           {{ $image_path := printf "/images/%s/%s" $img_folder . }}
           {{ $image := resources.GetMatch $image_path }}
@@ -220,6 +221,10 @@
               <i class="far fa-envelope"></i>
               <p>dominik.chmielak.stud@pw.edu.pl</p>
             </a>
+            <a href="https://www.linkedin.com/in/dominik-chmielak-b395b4198/" target="_blank" class="authorities__contacts-item">
+            <i class="fab fa-linkedin"></i>
+            <p>LinkedIn</p>
+          </a>
           </div>
         </div>
         <div class="authorities__content-block">
