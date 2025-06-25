@@ -96,7 +96,7 @@
                 <li><a class="navbar-link">Projekty <i class="fa fa-chevron-circle-right"></i></a>
                   <ul>
                     <li><a class="navbar-link" href="/project/">Archiwum</a></li>
-                    {{ range .Site.RegularPages }}
+                      {{ range sort (where .Site.RegularPages "Params.main_site" true) "Params.main_site_priority" }}
                       {{ if (eq .Params.main_site true)}}
                         <li><a class="navbar-link" href="{{ .Permalink }}">
                           {{ if .Params.short_title }}
