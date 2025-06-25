@@ -1,6 +1,6 @@
 ---
-main_site_item_descr: HAL-062 to innowacyjny projekt kołowego łazika
-  marsjańskiego przygotowanego specjalnie na zawody ...
+main_site_item_descr: Nasz zespół odpowiedzialny jest za budowę robota HAL-062.
+  Łazika marsjańskiego przygotowanego specjalnie na zawody ...
 start_date: 2017
 end_date: null
 main_site_priority: 1
@@ -26,8 +26,8 @@ main_site_item_images:
   - ERC2.jpg
   - ERC4.jpg
   - Z1.jpg
-short_title: HAL-062
-title: Łazik HAL-062
+short_title: Rover Team
+title: KNR Rover Team
 short_description: Specjalny pojazd zaprojektowany do badania i eksploracji powierzchni Marsa
 ---
 Łazik marsjański to specjalny pojazd zaprojektowany do badania i eksploracji powierzchni Marsa, a "HAL-062" jest efektem naszej wizji eksploracji kosmosu. Ponadto "HAL-062" stanowi naszą odpowiedź na wyzwania stawiane przez prestiżowe zawody, takie jak [University Rover Challenge](https://urc.marssociety.org/), [European Rover Challenge](https://roverchallenge.eu/) oraz [Anatolian Rover Challenge](https://www.anatolianrover.space/). Dzięki swojej solidnej, aluminiowej konstrukcji, zawieszeniu typu Rocker-Bogie oraz napędowi różnicowemu, łazik jest w stanie bez najmniejszego problemu poradzić sobie w trudnych terenowych warunkach. Manipulator o 6 stopniach swobody pozwala na precyzyjne manewrowanie obiektami trzymanymi w chwytaku. System kamer analogowych o dużym zasięgu pozwala na sterowanie łazikiem bez konieczności jego stałej obserwacji. Ponadto, łazik potrafi również poruszać się autonomicznie - dynamicznie podejmuje decyzje o swoich działaniach dzięki zaawansowanego systemu wizji, który bazuje na kamerze głębi. Wedle uznania można dołączyć IMU oraz modułu GNSS, aby system działał dokładniej. Obecnie, w 2024 roku, cieszymy się z faktu, że już czwarta iteracja łazika "HAL-062" jest przygotowywana do udziału w kolejnych edycjach międzynarodowych konkursów.
