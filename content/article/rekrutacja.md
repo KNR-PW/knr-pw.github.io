@@ -7,6 +7,14 @@ short_description: Czy marzysz o fascynującej przygodzie w świat robotyki i
 ---
 <h1 style="text-align: center;">Jak do nas dołączyć?</h1>
 
+
+
+
+
+**Poniższy artykuł dotyczy rekrutacji w 2024 roku, następna odbędzie się w październiku 2025. Chcesz do nas dołączyć? Obserwuj naszego [fanpage na Facebook](https://www.facebook.com/kolo.naukowe.robotykow.knr), niedługo więcej informacji!**
+
+
+
 Czy marzysz o fascynującej przygodzie w świat robotyki i nowoczesnych
 technologii? Chcesz zacząć tworzyć przyszłość już dzisiaj? Rozwijać
 ciekawe projekty i urozmaicić swoje studenckie życie? Jeśli tak, to
@@ -14,15 +22,17 @@ jesteś we właściwym miejscu! Koło Naukowe Robotyków to miejsce, gdzie
 pasjonaci inżynierii spotykają się, by razem rozwiązywać problemy,
 tworzyć innowacje i wspólnie się rozwijać. Niezależnie od kierunku
 studiów, jak i poziomu doświadczenia, zapraszamy Cię do KNR!
+
 ### Zalety bycia w kole naukowym:
-- Możliwość nabycia praktycznych umiejętności, przydatnych w dalszej karierze zawodowej
-- Zwiększona szansa na zdobycie stypendium rektora w wypadku, gdy bierzesz udział w projekcie, który będzie reprezentował uczelnię na zawodach
-- Możliwość zaliczenia przedmiotu działalnością w kole (w zależności od wydziału, zazwyczaj należy dogadać się z prowadzącym)
-- Dostęp do dobrze wyposażonego warsztatu
-- Możliwość realizacji [pracy dyplomowej](https://wutwaw.sharepoint.com/:x:/s/KNR-ZarzdiAdministracja/ETzKfD24BONMn45mw1P1BwYBETGmjmPODO0Oa5qqkwOCHA?e=8V5hy8) w ramach koła naukowego.
-- Oferty pracy, stażów i pomniejszych płatnych projektów kierowane do członków koła przez zaprzyjaźnione firmy z branży
-- Poznanie wielu ciekawych i ambitnych ludzi
-<br></br>
+
+* Możliwość nabycia praktycznych umiejętności, przydatnych w dalszej karierze zawodowej
+* Zwiększona szansa na zdobycie stypendium rektora w wypadku, gdy bierzesz udział w projekcie, który będzie reprezentował uczelnię na zawodach
+* Możliwość zaliczenia przedmiotu działalnością w kole (w zależności od wydziału, zazwyczaj należy dogadać się z prowadzącym)
+* Dostęp do dobrze wyposażonego warsztatu
+* Możliwość realizacji [pracy dyplomowej](https://wutwaw.sharepoint.com/:x:/s/KNR-ZarzdiAdministracja/ETzKfD24BONMn45mw1P1BwYBETGmjmPODO0Oa5qqkwOCHA?e=8V5hy8) w ramach koła naukowego.
+* Oferty pracy, stażów i pomniejszych płatnych projektów kierowane do członków koła przez zaprzyjaźnione firmy z branży
+* Poznanie wielu ciekawych i ambitnych ludzi
+  <br></br>
 
 <h2> Proces rekrutacji w skrócie: </h2>
 <p align="center">
@@ -90,7 +100,6 @@ Tak, przyjmujemy członków z każdego wydziału PW. Nasze sale znajdują się w
 Dostęp do Discorda uzyskasz dopiero po wypełnieniu ankiety rekrutacyjnej. Po jej wypełnieniu powinien wyświetlić ci się link do dołączenia.
 </details>
 
-
 <details>
 <summary>Czy w tym roku obowiązuje składka rekrutacyjna? </summary>
 Tak, wysokość składki rekrutacyjnej zostanie opublikowana na spotkaniu rekrutacyjnym. Składka ta pozwala kupić nam w sprawny sposób wszelkie rzeczy potrzebne do realizacji waszych projektów, i zapobiega dezorganizacji spowodowanej "niezdecydowanymi".
@@ -126,4 +135,3 @@ Nie :)
 Wszystkie powyższe informacje dotyczą rekrutacji rozpoczętej w październiku 2024 roku. O ile co roku rekrutacje przebiegają podobnie, dokładne informacje aktualizujemy na początku października każdego roku. Cierpliwości!
 </details>
 </div>
-
