@@ -64,13 +64,15 @@ W 2017 roku powstała sekcja astronomiczna KNR-u. Głównym celem nowo utworzone
 <br><br>
 
 Nasz zespół Łazika "HAL-062" ma na swoim koncie takie sukcesy jak:
+* 9. miejsce na 102 zespoływ finale zawodów European Rover Challenge w Krakowie (2025),
+* Wygrana w konkurencji Probing w finale zawodów European Rover Challenge w Krakowie (2025),
 * 28. miejsce na 114 drużyn w finale zawodów University Rover Challenge w USA (2025),
 * 14. miejsce na 69 drużyn w finale zawodów European Rover Challenge w Krakowie (2024),
 * Zakwalifikowanie się do finałów Anatolian Rover Challenge w Turcji (2023, 2024, 2025),
 * Zakwalifikowanie się do finałów European Rover Challenge w Kielcach (2022, 2023, 2024),
 * 9. miejsce na zawodach European Rover Challenge w Kielcach (2021),
 * Zakwalifikowanie się do finałów Univeristy Rover Challenge w USA (2020),
-* Uczestnictwo w finale zawodów European Rover Challenge (zdalnie!) (2020),
+* Uczestnictwo w finale zawodów European Rover Challenge (zdalnie) (2020),
 * 7. miejsce na finale zawodów European Rover Challenge w Kielcach (2019),
 * 21. miejsce na finale zawodów Univeristy Rover Challenge w USA (2019).
 
@@ -92,3 +94,8 @@ Nasze Koło również z dumą prezentuje łazika podczas różnych wydarzeń, m.
   <br><br>
 
 <img src="/images/hal/6.svg"  width="100%" alt="Logo Lazika HAL-062 KNR" >
+
+
+<br><br>
+Projekt HAL-062 realizowany jest we współpracy z Ministerstwem Nauki i Szkolnictwa Wyższego w ramach programu "Studenckie koła naukowe tworzą innowacje" - "Projekt zwrotnej terenowej autonomicznej platformy mobilnej HAL-062".
+<img src="/images/sponsorzy/mein_studenckie_kola_naukowe_tworza_innowacje_logo.jpg"  width="50%"  >
