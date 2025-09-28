@@ -14,7 +14,7 @@ gallery_images:
  - image: /images/hal/ERC4.jpg
  - image: /images/hal/mnisw.jpg
    description: Mieliśmy możliwość wystąpić w reklamie z okazji 20 lat Polski w UE!
-        - https://youtu.be/0VqTy_p8GBc?si=1g9czoOrlBQZ8kik
+        - https://youtu.be/0VqTy_p8GBc?si=1g9czoOrlBQZ8kik 
 main_site: true
 main_project_image: /images/hal/URC1.jpg
 main_site_item_images:
@@ -78,10 +78,6 @@ Nasz zespół Łazika "HAL-062" ma na swoim koncie takie sukcesy jak:
 
 <br><br>
 
-<img src="/images/hal_film.jpg"  width="85%" alt="Lazik marsjanski podczas testów terenowych">
-
-<br><br>
-
 Nasze Koło również z dumą prezentuje łazika podczas różnych wydarzeń, m.in:
 
 * [Nocy w Instytucie Lotnictwa,](https://nocwinstytucielotnictwa.pl/start/)
@@ -93,7 +89,7 @@ Nasze Koło również z dumą prezentuje łazika podczas różnych wydarzeń, m.
   <br><br>
   <br><br>
 
-<img src="/images/hal/6.svg"  width="100%" alt="Logo Lazika HAL-062 KNR" >
+<img src="/images/hal/6.svg"  width="60%" alt="Logo Lazika HAL-062 KNR" >
 
 
 <br><br>
