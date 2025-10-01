@@ -8,8 +8,10 @@ main_site_priority: 2
 main_project_image: /images/melson/Humanoidy_KNR.jpg
 end_date: null
 main_site_item_images:
+  - meldog1.JPEG
   - Humanoidy_KNR.jpg
   - 1.jpg
+  - meldog2.jpg
   - 2.jpg
   - 3.jpg
   
