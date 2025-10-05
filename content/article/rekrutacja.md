@@ -52,3 +52,159 @@ Więcej szczegółów oraz odpowiedzi na pytania będzie można uzyskać na spot
 * 26.10 – Zakończenie rozmów w ramach rekrutacji przyspieszonej i na stanowiska nietechniczne
 * 27.10 – Zapisy na projekt rekrutacyjny
 * 07.01 – Obrony projektów
+
+<h2 align="center">FAQ</h2>
+
+
+
+<div>
+
+
+<details>
+
+
+<summary>Czy muszę posiadać jakieś konkretne umiejętności, aby móc dołączyć do koła? </summary>
+
+
+Nie, wszystkiego się nauczysz pracując z nami. Koło naukowe jest miejscem do którego przychodzisz zdobyć praktyczne umiejętności. Z tego powodu najważniejsza jest pasja oraz chęć do pracy.
+
+
+</details>
+
+
+
+
+
+<details>
+
+
+<summary>Czy przyjmujecie członków z każdego wydziału? </summary>
+
+
+Tak, przyjmujemy członków z każdego wydziału PW. Nasze sale znajdują się w budynkach ITC i ITLiMS, więc niedaleko Gmachu Głównego PW.
+
+
+</details>
+
+
+
+
+
+<details>
+
+
+<summary>Jak dołączyć do Discorda rekrutacyjnego?</summary>
+
+
+Dostęp do Discorda uzyskasz dopiero po wypełnieniu ankiety rekrutacyjnej. Po jej wypełnieniu powinien wyświetlić ci się link do dołączenia.
+
+
+</details>
+
+
+
+
+
+<details>
+
+
+<summary>Czy w tym roku obowiązuje składka rekrutacyjna? </summary>
+
+
+Tak, wysokość składki rekrutacyjnej zostanie opublikowana na spotkaniu rekrutacyjnym. Składka ta pozwala kupić nam w sprawny sposób wszelkie rzeczy potrzebne do realizacji waszych projektów, i zapobiega dezorganizacji spowodowanej "niezdecydowanymi".
+
+
+</details>
+
+
+
+
+
+<details>
+
+
+<summary>Jak wygląda praca w kole?</summary>
+
+
+Sposób oraz organizacja pracy w kole zależy od projektu oraz zespołu w ramach którego pracujesz. Jeśli np. należysz do zespołu mechnaników pracujących nad łazikiem możecie mieć wspólne spotkania robocze co tydzień/dwa.
+
+
+</details>
+
+
+
+
+
+<details>
+
+
+<summary>Czy muszę pojawić się na spotkaniu rekrutacyjnym?</summary>
+
+
+Nie, nie musisz pojawiać się na spotkaniu rekrutacyjnym jednak jest to bardzo wskazane. Podczas tego spotkania w szczegółach poznasz nasz zespół, projekty jakie realizujemy oraz dowiesz się dokładnie jak przebiega tegoroczna rekrutacja. Oprócz tego jest to okazja na zwiedzenie naszych warsztatów, zadania nurtujących cię pytań i integracji.
+
+
+</details>
+
+
+
+
+
+<details>
+
+
+<summary>Jak często odbywają się rekrutacje?</summary>
+
+
+Rekrutacja odbywa się raz do roku, rozpoczyna się w październiku. 
+
+
+</details>
+
+
+
+
+
+<details>
+
+
+<summary>Czym są KNR Pointsy i co mogę za nie kupić?</summary>
+
+
+Dowiesz się na spotkaniu rekrutacyjnym...
+
+
+</details>
+
+
+
+
+
+<details>
+
+
+<summary>Czy mogę zapisać się do koła i nic nie robić?</summary>
+
+
+Nie :)
+
+
+</details>
+
+
+
+
+
+<details>
+
+
+<summary>Jestem z przyszłości i chcę się rekrutować w 2025 roku</summary>
+
+
+Wszystkie powyższe informacje dotyczą rekrutacji rozpoczętej w październiku 2024 roku. O ile co roku rekrutacje przebiegają podobnie, dokładne informacje aktualizujemy na początku października każdego roku. Cierpliwości!
+
+
+</details>
+
+
+</div>
