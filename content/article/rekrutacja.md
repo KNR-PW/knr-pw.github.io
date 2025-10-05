@@ -59,7 +59,7 @@ Więcej szczegółów oraz odpowiedzi na pytania będzie można uzyskać na spot
 ## [Link do formularza zgłoszeniowego](https://wutwaw.sharepoint.com/:x:/s/KNR-ZarzdiAdministracja/ETzKfD24BONMn45mw1P1BwYBETGmjmPODO0Oa5qqkwOCHA?e=8V5hy8)
 [Klinkij tutaj albo zeskanuj kod QR](https://wutwaw.sharepoint.com/:x:/s/KNR-ZarzdiAdministracja/ETzKfD24BONMn45mw1P1BwYBETGmjmPODO0Oa5qqkwOCHA?e=8V5hy8)
 
-![](static/images/djhhbb8m.jpg)
+![](images/djhhbb8m.jpg)
 
 Nie możesz się pojawić na spotkaniu? Zajrzyj do FAQ 
 <br></br>
