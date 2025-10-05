@@ -1,7 +1,7 @@
 ---
 title: Rekrutacja 2025Z
 url: /rekrutacja
-main_project_image: "/images/team_cut.jpg"
+main_project_image: /images/team_cut.jpg
 short_description: Czy marzysz o fascynującej przygodzie w świat robotyki i
   nowoczesnych technologii?
 ---
@@ -55,6 +55,11 @@ Więcej szczegółów oraz odpowiedzi na pytania będzie można uzyskać na spot
 * 27.10 – Zapisy na projekt rekrutacyjny
 * 07.01 – Obrony projektów
 <br></br>
+
+## [Link do formularza zgłoszeniowego](https://wutwaw.sharepoint.com/:x:/s/KNR-ZarzdiAdministracja/ETzKfD24BONMn45mw1P1BwYBETGmjmPODO0Oa5qqkwOCHA?e=8V5hy8)
+[Klinkij tutaj albo zeskanuj kod QR](https://wutwaw.sharepoint.com/:x:/s/KNR-ZarzdiAdministracja/ETzKfD24BONMn45mw1P1BwYBETGmjmPODO0Oa5qqkwOCHA?e=8V5hy8)
+
+![](static/images/djhhbb8m.jpg)
 
 Nie możesz się pojawić na spotkaniu? Zajrzyj do FAQ 
 <br></br>
