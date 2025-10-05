@@ -20,9 +20,8 @@ Jesteśmy kołem naukowym działającym od prawie 30 lat na Wydziale Mechaniczny
 
 W każdej z tych sekcji możesz zdobyć wiedzę z zakresu mechaniki, elektroniki, programowania i wielu innych dziedzin. Odnajdą się u nas nie tylko osoby o zainteresowaniach technicznych, lecz także ci, którzy pasjonują się fotografią, grafiką czy innymi dziedzinami nietechnicznymi.
 
-Posiadamy też projekty, które zostały wstrzymane ze względu na pandemię, jak np. [autonomiczne pojazdy](https://knr.edu.pl/project/selfie/), czy [łodzie podwodne](https://knr.edu.pl/project/okon/). Z chęcią wesprzemy w reaktywacji tych projektów :) 
+Posiadamy też projekty, które zostały wstrzymane ze względu na pandemię, jak np. [autonomiczne pojazdy](https://knr.edu.pl/project/selfie/), czy [łodzie podwodne](https://knr.edu.pl/project/okon/). Z chęcią wesprzemy w reaktywacji tych projektów :)
 
-<br></br>
 ## Jak do nas dołączyć?
 
 Aby zostać członkiem KNR, można wybrać jedną z trzech ścieżek rekrutacji:
@@ -55,7 +54,9 @@ Więcej szczegółów oraz odpowiedzi na pytania będzie można uzyskać na spot
 * 26.10 – Zakończenie rozmów w ramach rekrutacji przyspieszonej i na stanowiska nietechniczne
 * 27.10 – Zapisy na projekt rekrutacyjny
 * 07.01 – Obrony projektów
+<br></br>
 
+Nie możesz się pojawić na spotkaniu? Zajrzyj do FAQ 
 <br></br>
 
 ### Zalety bycia w kole naukowym:
@@ -68,7 +69,6 @@ Więcej szczegółów oraz odpowiedzi na pytania będzie można uzyskać na spot
 - Poznanie wielu ciekawych i ambitnych ludzi.
   <br></br>
 
-<br></br>
 <h2 align="center">FAQ</h2>
 
 
@@ -159,7 +159,7 @@ Sposób oraz organizacja pracy w kole zależy od projektu oraz zespołu w ramach
 
 Nie, nie musisz pojawiać się na spotkaniu rekrutacyjnym jednak jest to bardzo wskazane. Podczas tego spotkania w szczegółach poznasz nasz zespół, projekty jakie realizujemy oraz dowiesz się dokładnie jak przebiega tegoroczna rekrutacja. Oprócz tego jest to okazja na zwiedzenie naszych warsztatów, zadania nurtujących cię pytań i integracji.
 
-
+Wszystkie najważniejsze informacje będą wrzucane na naszego Facebooka oraz tutaj :) 
 </details>
 
 
