@@ -1,25 +1,28 @@
 ---
 title: Rekrutacja 2025Z
 url: /rekrutacja
-main_project_image: images/team_cut.jpg
+main_project_image: "/images/team_cut.jpg"
 short_description: Czy marzysz o fascynującej przygodzie w świat robotyki i
   nowoczesnych technologii?
 ---
-# REKRUTACJA 2025
+# Rekrutacja 2025
 
 Czy chcesz się na studiach nauczyć więcej, zdobyć doświadczenie, a przy tym mieć poczucie, że Twoja praca nie idzie na marne?
-
+<br></br>
 ## Dołącz do KNR!
 
-Jesteśmy kołem naukowym działającym od prawie 30 lat na Wydziale Mechanicznym Energetyki i Lotnictwa. Obecnie zrzeszamy ponad 100 członków i prowadzimy cztery sekcje:
+Jesteśmy kołem naukowym działającym od prawie 30 lat na Wydziale Mechanicznym Energetyki i Lotnictwa. Obecnie zrzeszamy ponad 100 członków i prowadzimy cztery główne projekty:
 
-* KNR Rover Team
-* KNR Drone
-* Sekcja Druku 3D
-* Sekcja Robotów Kroczących
+* Łaziki marsjańskie
+* Drony
+* Druk 3D
+* Roboty Kroczące
 
 W każdej z tych sekcji możesz zdobyć wiedzę z zakresu mechaniki, elektroniki, programowania i wielu innych dziedzin. Odnajdą się u nas nie tylko osoby o zainteresowaniach technicznych, lecz także ci, którzy pasjonują się fotografią, grafiką czy innymi dziedzinami nietechnicznymi.
 
+Posiadamy też projekty, które zostały wstrzymane ze względu na pandemię, jak np. [autonomiczne pojazdy](https://knr.edu.pl/project/selfie/), czy [łodzie podwodne](https://knr.edu.pl/project/okon/). Z chęcią wesprzemy w reaktywacji tych projektów :) 
+
+<br></br>
 ## Jak do nas dołączyć?
 
 Aby zostać członkiem KNR, można wybrać jedną z trzech ścieżek rekrutacji:
@@ -27,23 +30,23 @@ Aby zostać członkiem KNR, można wybrać jedną z trzech ścieżek rekrutacji:
 * Rekrutacja standardowa
 * Rekrutacja przyspieszona na stanowisko techniczne
 * Rekrutacja na stanowisko nietechniczne
-
+<br></br>
 ## Rekrutacja standardowa
 
 Skierowana głównie do osób, które dopiero rozpoczynają swoją przygodę z inżynierią. Kandydat otrzymuje projekt rekrutacyjny oraz opiekuna. Podczas pracy nad projektem rekrut zdobywa podstawowe umiejętności potrzebne do działania w kole. W styczniu odbywają się obrony wszystkich projektów, po których podejmowana jest decyzja dotycząca każdego kandydata.
-
+<br></br>
 ## Rekrutacja przyspieszona
 
-Skierowana do osób posiadających doświadczenie inżynieryjne – np. studentów po pierwszym lub drugim roku studiów albo osób, które tworzyły projekty już w szkole średniej. W tej rekrutacji pomijany jest projekt rekrutacyjny; zamiast obron odbywa się rozmowa. Kandydat musi przedstawić swoje wcześniejsze dokonania potwierdzające wystarczającą wiedzę. W celu usprawnienia rozmowy wymagane jest przesłanie krótkiego CV, z którym członkowie KNR zapoznają się wcześniej.
-
+Skierowana do osób posiadających doświadczenie inżynieryjne – np. studentów po pierwszym lub drugim roku studiów albo osób, które tworzyły projekty już w szkole średniej. W tej rekrutacji pomijany jest projekt rekrutacyjny - zamiast obron odbywa się rozmowa. Kandydat musi przedstawić swoje wcześniejsze dokonania potwierdzające wystarczającą wiedzę. W celu usprawnienia rozmowy wymagane jest przesłanie krótkiego CV, z którym członkowie KNR zapoznają się wcześniej.
+<br></br>
 ## Rekrutacja na stanowisko nietechniczne
 
 Przeznaczona dla osób, które zamiast rozwijać się w dziedzinach takich jak robotyka wolą zajmować się np. grafiką, prowadzeniem social mediów czy fotografią. Podobnie jak w rekrutacji przyspieszonej, nie ma tu projektu rekrutacyjnego – odbywa się rozmowa oraz wymagane jest przesłanie krótkiego CV lub portfolio, które członkowie KNR analizują wcześniej, aby skrócić czas rozmowy.
-
+<br></br>
 ## Spotkanie rekrutacyjne
 
 Więcej szczegółów oraz odpowiedzi na pytania będzie można uzyskać na spotkaniu rekrutacyjnym, które odbędzie się **16 października o godzinie 18:00 w auli A0 w budynku Instytutu Techniki Lotniczej i Mechaniki Stosowanej (ITLiMS)**.
-
+<br></br>
 ## Harmonogram
 
 * 16.10 – Spotkanie rekrutacyjne
@@ -53,6 +56,19 @@ Więcej szczegółów oraz odpowiedzi na pytania będzie można uzyskać na spot
 * 27.10 – Zapisy na projekt rekrutacyjny
 * 07.01 – Obrony projektów
 
+<br></br>
+
+### Zalety bycia w kole naukowym:
+- Możliwość nabycia praktycznych umiejętności, przydatnych w dalszej karierze zawodowej,
+- Zwiększona szansa na zdobycie stypendium rektora,
+- Możliwość zaliczenia przedmiotu działalnością w kole,
+- Dostęp do wyposażonego warsztatu
+- Możliwość realizacji [pracy dyplomowej](https://wutwaw.sharepoint.com/:x:/s/KNR-ZarzdiAdministracja/ETzKfD24BONMn45mw1P1BwYBETGmjmPODO0Oa5qqkwOCHA?e=8V5hy8) w ramach koła naukowego, w tym pozyskania na nią środków,
+- Oferty pracy, stażów i pomniejszych płatnych projektów kierowane do członków koła przez zaprzyjaźnione firmy z branży,
+- Poznanie wielu ciekawych i ambitnych ludzi.
+  <br></br>
+
+<br></br>
 <h2 align="center">FAQ</h2>
 
 
@@ -66,7 +82,7 @@ Więcej szczegółów oraz odpowiedzi na pytania będzie można uzyskać na spot
 <summary>Czy muszę posiadać jakieś konkretne umiejętności, aby móc dołączyć do koła? </summary>
 
 
-Nie, wszystkiego się nauczysz pracując z nami. Koło naukowe jest miejscem do którego przychodzisz zdobyć praktyczne umiejętności. Z tego powodu najważniejsza jest pasja oraz chęć do pracy.
+Nie, wszystkiego się nauczysz pracując z nami. Koło naukowe jest miejscem do którego przychodzisz zdobyć praktyczne umiejęszkotności. Z tego powodu najważniejsza jest pasja oraz chęć do pracy.
 
 
 </details>
@@ -198,10 +214,10 @@ Nie :)
 <details>
 
 
-<summary>Jestem z przyszłości i chcę się rekrutować w 2025 roku</summary>
+<summary>Jestem z przyszłości i chcę się rekrutować w 2026 roku</summary>
 
 
-Wszystkie powyższe informacje dotyczą rekrutacji rozpoczętej w październiku 2024 roku. O ile co roku rekrutacje przebiegają podobnie, dokładne informacje aktualizujemy na początku października każdego roku. Cierpliwości!
+Wszystkie powyższe informacje dotyczą rekrutacji rozpoczętej w październiku 2025 roku. O ile co roku rekrutacje przebiegają podobnie, dokładne informacje aktualizujemy na początku października każdego roku. Cierpliwości!
 
 
 </details>
