@@ -56,8 +56,8 @@ Więcej szczegółów oraz odpowiedzi na pytania będzie można uzyskać na spot
 * 07.01 – Obrony projektów
 <br></br>
 
-## [Link do formularza zgłoszeniowego](https://wutwaw.sharepoint.com/:x:/s/KNR-ZarzdiAdministracja/ETzKfD24BONMn45mw1P1BwYBETGmjmPODO0Oa5qqkwOCHA?e=8V5hy8)
-[Klinkij tutaj albo zeskanuj kod QR](https://wutwaw.sharepoint.com/:x:/s/KNR-ZarzdiAdministracja/ETzKfD24BONMn45mw1P1BwYBETGmjmPODO0Oa5qqkwOCHA?e=8V5hy8)
+## [Link do formularza zgłoszeniowego](https://forms.cloud.microsoft/e/8U745dR8t1?origin=lprLink)
+[Klinkij tutaj albo zeskanuj kod QR](https://forms.cloud.microsoft/e/8U745dR8t1?origin=lprLink)
 
 ![](/images/djhhbb8m.jpg)
 
