@@ -44,6 +44,10 @@
   
 }
 
+.sponsor--huge img {
+  width: 370px;
+  
+}
 .sponsor--big img {
   width: 370px;
 }
@@ -64,7 +68,7 @@
 
 .sponsors__contact {
   text-align: center; /* Wyśrodkowanie tekstu */
-  margin-top: 40px; /* Dystans od sponsorów */
+  margin-top: 50px; /* Dystans od sponsorów */
   font-size: 25px;
   }
 
