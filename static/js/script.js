@@ -253,15 +253,30 @@ $(document).ready(function(){
         adaptiveHeight: true
     });
     $('.sponsors__slider').slick({
-        dots: true,
-        arrows: false,
-        speed: 500,
-        fade: true,
-        cssEase: 'linear',
-        autoplay: true,
-        autoplaySpeed: 3000,
-        adaptiveHeight: true
-    });
+        dots: true, // Włącza kropki nawigacyjne
+        arrows: false, // Wyłącza strzałki
+        infinite: true, // Nieskończone przewijanie
+        slidesToShow: 4, // Liczba widocznych slajdów
+        slidesToScroll: 4, // Liczba przewijanych slajdów na raz
+        autoplay: true, // Automatyczne przewijanie
+        autoplaySpeed: 3000, // Czas między przewijaniem (w ms)
+        responsive: [
+          {
+            breakpoint: 1000, // Dla ekranów poniżej 1000px
+            settings: {
+              slidesToShow: 3,
+              slidesToScroll: 3, // Liczba widocznych slajdów
+            },
+          },
+          {
+            breakpoint: 480, // Dla ekranów poniżej 480px
+            settings: {
+              slidesToShow: 2,
+              slidesToScroll: 2, // Liczba widocznych slajdów
+            },
+          },
+        ],
+      });
     $('.project-start__slider').slick({
         arrows: false,
         speed: 1000,
