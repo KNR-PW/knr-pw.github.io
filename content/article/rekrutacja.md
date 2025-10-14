@@ -44,7 +44,7 @@ Przeznaczona dla osób, które zamiast rozwijać się w dziedzinach takich jak r
 <br></br>
 ## Spotkanie rekrutacyjne
 
-Więcej szczegółów oraz odpowiedzi na pytania będzie można uzyskać na spotkaniu rekrutacyjnym, które odbędzie się **16 października o godzinie 18:00 w auli A0 w budynku Instytutu Techniki Lotniczej i Mechaniki Stosowanej (ITLiMS)**.
+Więcej szczegółów oraz odpowiedzi na pytania będzie można uzyskać na spotkaniu rekrutacyjnym, które odbędzie się **16 października o godzinie 19:15 w auli A0 w budynku Instytutu Techniki Lotniczej i Mechaniki Stosowanej (ITLiMS)**.
 <br></br>
 ## Harmonogram
 
