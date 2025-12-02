@@ -9,6 +9,7 @@ gallery_images:
  - image: /images/hal/URC2.jpg
  - image: /images/hal/URC3.jpg
  - image: /images/hal/URC4.jpg
+ - image: /images/hal/URC5.jpg
  - image: /images/hal/ERC1.jpg
  - image: /images/hal/ERC2.jpg
  - image: /images/hal/ERC4.jpg
@@ -22,6 +23,7 @@ main_site_item_images:
   - URC2.jpg
   - URC3.jpg
   - URC4.jpg
+  - URC5.jpg
   - ERC1.jpg
   - ERC2.jpg
   - ERC4.jpg
