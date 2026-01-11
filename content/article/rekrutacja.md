@@ -87,7 +87,7 @@ Nie możesz się pojawić na spotkaniu? Zajrzyj do FAQ
 <summary>Czy muszę posiadać jakieś konkretne umiejętności, aby móc dołączyć do koła? </summary>
 
 
-Nie, wszystkiego się nauczysz pracując z nami. Koło naukowe jest miejscem do którego przychodzisz zdobyć praktyczne umiejęszkotności. Z tego powodu najważniejsza jest pasja oraz chęć do pracy.
+Nie, wszystkiego się nauczysz pracując z nami. Koło naukowe jest miejscem do którego przychodzisz zdobyć praktyczne umiejętności. Z tego powodu najważniejsza jest pasja oraz chęć do pracy.
 
 
 </details>
@@ -133,7 +133,7 @@ Dostęp do Discorda uzyskasz dopiero po wypełnieniu ankiety rekrutacyjnej. Po j
 
 
 Tak, wysokość składki rekrutacyjnej zostanie opublikowana na spotkaniu rekrutacyjnym. Składka ta pozwala kupić nam w sprawny sposób wszelkie rzeczy potrzebne do realizacji waszych projektów, i zapobiega dezorganizacji spowodowanej "niezdecydowanymi".
-
+Zazwyczaj jest to kwota zwykłego wyjścia na maczka :P 
 
 </details>
 
@@ -154,7 +154,25 @@ Sposób oraz organizacja pracy w kole zależy od projektu oraz zespołu w ramach
 
 
 
+<details>
 
+
+<summary>Nie potrafię w inżynierskie rzeczy, czy potrzebujecie osób zajmujących się innymi rzeczami niż roboty? </summary>
+
+Tak! Jesteśmy jednym z największych kół na Politechnice i do sprawnego działania nie wystarczą tylko inżynierowie. Potrzebujemy także osób, które pomogą nam w logistyce, zarządzaniu zespołem, finansach, a także przy promocji koła. 
+
+</details>
+
+<details>
+
+
+<summary>Projekt wygląda na skończony, czy jest sens tam dołączać? </summary>
+
+
+Tak, nasze projekty są bez przerwy rozwijane o ile istnieje zespół z takimi chęciami. Coś wygląda na skończone? Spokojnie, zaraz zaczniemy kolejną wersję :)
+
+
+</details>
 
 <details>
 
@@ -178,7 +196,7 @@ Wszystkie najważniejsze informacje będą wrzucane na naszego Facebooka oraz tu
 
 
 Rekrutacja odbywa się raz do roku, rozpoczyna się w październiku. 
-
+Natomiast osoby z doświadczeniem przyjmujemy cały rok - wystarczy do nas napisać na knr@pw.edu.pl :)
 
 </details>
 
@@ -197,8 +215,26 @@ Dowiesz się na spotkaniu rekrutacyjnym...
 
 </details>
 
+<details>
 
 
+<summary>Mam pomysł na projekt, czy otworzycie dla mnie specjalną sekcję?</summary>
+
+
+Tak, ale najpierw musisz dołączyć i pokazać, że warto :P  
+
+
+</details>
+
+<details>
+
+
+<summary>Jestem doktorantem, czy mogę do was dołączyć?</summary>
+
+Tak! W naszym zespole znajdują się osoby na studiach 3 stopnia. Dołączając do naszego zespołu możesz prowadzić własne projekty, pozyskiwać dofinansowania na badania i wyjazdy na konferencje lub zawody międzynarodowe.
+
+
+</details>
 
 
 <details>
@@ -207,7 +243,7 @@ Dowiesz się na spotkaniu rekrutacyjnym...
 <summary>Czy mogę zapisać się do koła i nic nie robić?</summary>
 
 
-Nie :)
+Nie :(
 
 
 </details>
@@ -223,6 +259,8 @@ Nie :)
 
 
 Wszystkie powyższe informacje dotyczą rekrutacji rozpoczętej w październiku 2025 roku. O ile co roku rekrutacje przebiegają podobnie, dokładne informacje aktualizujemy na początku października każdego roku. Cierpliwości!
+
+Natomiast osoby z doświadczeniem przyjmujemy cały rok - wystarczy do nas napisać na knr@pw.edu.pl :)
 
 
 </details>
