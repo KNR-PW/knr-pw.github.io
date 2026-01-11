@@ -102,7 +102,9 @@ Nie, wszystkiego się nauczysz pracując z nami. Koło naukowe jest miejscem do 
 <summary>Czy przyjmujecie członków z każdego wydziału? </summary>
 
 
-Tak, przyjmujemy członków z każdego wydziału PW. Nasze sale znajdują się w budynkach ITC i ITLiMS, więc niedaleko Gmachu Głównego PW.
+Tak, przyjmujemy członków z każdego wydziału PW. Nasz zespół tworzą osoby z wielu różnych kierunków, co pozwala nam łączyć różne kompetencje i realizować interdyscyplinarne projekty.
+
+Nasze sale znajdują się w budynkach ITC i ITLiMS, więc niedaleko Gmachu Głównego PW.
 
 
 </details>
@@ -143,6 +145,7 @@ Dostęp do Discorda uzyskasz dopiero po wypełnieniu ankiety rekrutacyjnej. Po j
 
 
 Tak, wysokość składki rekrutacyjnej zostanie opublikowana na spotkaniu rekrutacyjnym. Składka ta pozwala kupić nam w sprawny sposób wszelkie rzeczy potrzebne do realizacji waszych projektów, i zapobiega dezorganizacji spowodowanej "niezdecydowanymi".
+
 Zazwyczaj jest to kwota zwykłego wyjścia na maczka :P 
 
 </details>
@@ -206,6 +209,7 @@ Wszystkie najważniejsze informacje będą wrzucane na naszego Facebooka oraz tu
 
 
 Rekrutacja odbywa się raz do roku, rozpoczyna się w październiku. 
+
 Natomiast osoby z doświadczeniem przyjmujemy cały rok - wystarczy do nas napisać na knr@pw.edu.pl :)
 
 </details>
