@@ -107,7 +107,17 @@ Tak, przyjmujemy członków z każdego wydziału PW. Nasze sale znajdują się w
 
 </details>
 
+<details>
 
+
+<summary>Czy muszę znać się na robotyce, żeby dołączyć?</summary>
+
+Nie. Robotyka to szeroka i interdyscyplinarna dziedzina — w naszych projektach potrzebni są nie tylko konstruktorzy, programiści, czy elektronicy, ale także osoby zajmujące się organizacją pracy zespołu, logistyką, finansami, promocją oraz wieloma innymi obszarami.
+
+Nie musisz budować robotów, aby rozwijać się w naszym kole. Realizujemy również projekty niezwiązane bezpośrednio z robotyką, takie jak laboratorium chemiczne w łaziku, wystawy w Centrum Sztuki Nowoczesnej, a nawet występujemy w filmach.
+
+Jeśli masz pomysły, umiejętności albo po prostu ciekawość — na pewno znajdzie się dla Ciebie miejsce.
+</details>
 
 
 
