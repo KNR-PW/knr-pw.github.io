@@ -55,6 +55,8 @@ Więcej szczegółów oraz odpowiedzi na pytania będzie można uzyskać na spot
 * 27.10 – Zapisy na projekt rekrutacyjny
 * 07.01 – Obrony projektów
 <br></br>
+*Po terminie rekrutacji? Spokojnie — zobacz FAQ poniżej :)*
+<br></br>
 
 ## [Link do formularza zgłoszeniowego](https://forms.cloud.microsoft/e/8U745dR8t1?origin=lprLink)
 [Klinkij tutaj albo zeskanuj kod QR](https://forms.cloud.microsoft/e/8U745dR8t1?origin=lprLink)
@@ -134,8 +136,23 @@ Dostęp do Discorda uzyskasz dopiero po wypełnieniu ankiety rekrutacyjnej. Po j
 
 </details>
 
+<details>
 
+<summary>Czy muszę czekać do października?</summary>
 
+Nie do końca. Główna rekrutacja do KNR odbywa się raz w roku i rozpoczyna się w październiku. Wynika to z faktu, że co roku zgłasza się do nas bardzo duża liczba kandydatów — często ponad 100 osób. Przeprowadzenie jednej, skoordynowanej rekrutacji pozwala nam sprawnie zorganizować cały proces, zapewnić kandydatom opiekunów oraz równe warunki udziału.
+
+Jednocześnie przez cały rok pozostajemy otwarci na osoby posiadające konkretne, przydatne dla nas umiejętności lub doświadczenie. Jeśli dobrze odnajdujesz się w takich obszarach jak druk 3D, projektowanie i utrzymanie stron internetowych, grafika, montaż wideo, obróbka drewna czy inne specjalistyczne dziedziny, nic nie stoi na przeszkodzie, aby odezwać się do nas również poza standardowym terminem rekrutacji.
+
+Dodatkowo zdarza się, że organizujemy mniejsze, uzupełniające rekrutacje w trakcie roku akademickiego — zwłaszcza dla osób, które chcą rozpocząć naukę od podstaw, ale nie mogły dołączyć jesienią.
+
+Jeśli uważasz, że możesz wnieść coś wartościowego do naszych zespołów, po prostu napisz do nas na knr@pw.edu.pl
+
+Zawsze chętnie odpowiemy i sprawdzimy, czy znajdzie się dla Ciebie miejsce.
+
+Nieszablonowe umiejętności i zaangażowanie są u nas zawsze mile widziane.
+
+</details>
 
 
 <details>
