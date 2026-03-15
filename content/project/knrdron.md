@@ -10,7 +10,7 @@ gallery_images:
  - image: /images/knrdron/IMG_20260115_191102800_HDR.jpg
  - image: /images/knrdron/vtol_stoi.jpg
  - image: /images/knrdron/received_987560246979077.jpg.jpg
- - image: /images/hal/ERC4.jpg
+ - image: /images/knrdron/kokos1.jpg 
  - image: /images/hal/mnisw.jpg
 main_site: true
 main_project_image: /images/knrdron/orzel1.jpg
@@ -80,8 +80,6 @@ Najstarsza jednostka latająca w naszym projekcie, zbudowana w styczniu 2024 rok
 
 <img src="/images/knrdron/orzel1.jpg" width="auto">
 
-
-<img src="/images/knrdron/kokos1.jpg" width="auto">
 
 
 # Sparrow
