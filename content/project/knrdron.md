@@ -33,7 +33,7 @@ Sekcja software odpowiada za rozwój oprogramowania sterującego dronem oraz sys
 Zespół pracuje nad algorytmami autonomicznej nawigacji, planowania trajektorii oraz integracją danych pochodzących z różnych sensorów. Ważnym obszarem jest również rozwój systemów wizji komputerowej wykorzystujących metody sztucznej inteligencji do wykrywania i klasyfikacji obiektów  z kamer pokładowych.
 
 Istotnym elementem prac jest także środowisko symulacyjne pozwalające na testowanie i rozwijanie algorytmów przed ich implementacją na rzeczywistych platformach UAV. Dzięki temu możliwe jest bezpieczne i efektywne rozwijanie systemów autonomicznych.
-<img src="/images/knrdron/soft.jpg" width="auto"> 
+<img src="/images/knrdron/soft2.jpg" width="auto"> 
 # Elektronika 
 
 Sekcja elektroniki zajmuje się przede wszystkim zapewnieniem funkcjonowania wszystkich elementów elektronicznych drona i ich współdziałania z mechaniką i softwarem. 
