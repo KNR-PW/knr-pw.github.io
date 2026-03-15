@@ -9,7 +9,7 @@ gallery_images:
  - image: /images/knrdron/dron_testy.png
  - image: /images/knrdron/IMG_20260115_191102800_HDR.jpg
  - image: /images/knrdron/vtol_stoi.jpg
- - image: /images/knrdron/received_987560246979077.jpg.jpg
+ - image: /images/knrdron/received_987560246979077.jpg
  - image: /images/knrdron/kokos1.jpg 
  - image: /images/hal/mnisw.jpg
 main_site: true
