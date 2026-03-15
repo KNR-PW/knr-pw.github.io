@@ -28,6 +28,7 @@ Celem projektu jest tworzenie w pełni zintegrowanych platform BSP zdolnych do r
 
 <img src="/images/knrdron/IMG_3111.jpg" width="auto"> 
 
+<br><br>
 
 ## Software
 
@@ -42,19 +43,23 @@ Istotnym elementem prac jest także środowisko symulacyjne pozwalające na test
 
 <img src="/images/knrdron/soft3.jpg" width="auto"> 
 
+<br><br>
+
 ## Elektronika
 
 
 Sekcja elektroniki zajmuje się przede wszystkim zapewnieniem funkcjonowania wszystkich elementów elektronicznych dronów i ich współdziałania z mechaniką i softwarem.
 
 
-Dużą częścią pracy tej sekcji jest zapewnienie optymalnej pracy całej telemetrii na dronie, czyli wszystkich jego czujników. Następnymi ważnymi zadaniami jest praca nad zasilaniem i niskopoziomym programowaniem mikrokontrolerów obsługujących różne typy sensorów.
+Dużą częścią pracy tej sekcji jest zapewnienie optymalnej pracy całej telemetrii na dronie, czyli wszystkich jego czujników. Następnymi ważnymi zadaniami jest praca nad zasilaniem i niskopoziomowym programowaniem mikrokontrolerów obsługujących różne typy sensorów.
 
 
 Sekcja ta ma też duży kontakt z oprogramowaniem do sterowania dronem i jest niezbędna przy dodawaniu nowych funkcjonalności do dronów.
 
 
 <img src="/images/knrdron/elektronika.jpg" width="auto">
+
+<br><br>
 
 ## Mechanika
 
@@ -70,8 +75,9 @@ W konstrukcji naszych dronów wykorzystujemy przede wszystkim włókno węglowe,
 
 <img src="/images/knrdron/mechanika.jpg" width="auto">
 
+<br><br>
 
-Nasze drony:
+# Nasze drony:
 
 
 ## Orzeł 1
@@ -87,8 +93,9 @@ Nasze drony:
 Najstarsza jednostka latająca w naszym projekcie, zbudowana w styczniu 2024 roku. Został zbudowany w odpowiedzi na zawody Droniada 2024. Startował w konkurencjach „Sztafeta” oraz „Kopalnie marsjańskie”. W 2025 roku jednostka wykorzystana została na Droniadzie w konkurencji „Inspekcja”, dodatkowo pierwszy raz nasza sekcja brała udział w konkursie KOKOS, na którym zaprezentowano rozwiązanie pobierania próbek wody za pomocą ww. jednostki, dzięki czemu zajęliśmy 1 miejsce w kategorii „Ecology”.
 
 
-<img src="/images/knrdron/orzel1.jpg" width="auto">
+<img src="/images/knrdron/orzel1_przyciety.jpg" width="auto">
 
+<br><br>
 
 ## Sparrow
 
@@ -105,6 +112,7 @@ Jednostka latająca zbudowana w celu testowania algorytmów wizyjnych i autonomi
 
 <img src="/images/knrdron/sparrow.jpg" width="auto">
 
+<br><br>
 
 ## Czarna Mamba
 
@@ -121,6 +129,7 @@ Jednostka latająca zbudowana w maju 2025 roku. Zbudowana w ramach projektu nauk
 
 <img src="/images/knrdron/mamba.jpg" width="auto">
 
+<br><br>
 
 ## TR1 Stork
 
@@ -136,12 +145,12 @@ Konstrukcja rozwijana jest z myślą o zaawansowanych autonomicznych misjach ora
 
 Nasz zespół KNR Drone ma na swoim koncie m.in.:
 
-* 4. miejsce w zawodach Droniada (2024),
+* 4 miejsce w zawodach Droniada (2024) w konkurencji sztafeta,
 * Wyróżnienie za najlepszy system programistyczny w zawodach Droniada (2025),
-* 1. miejsce w kategorii „Ecology” w konkursie KOKOS,
+* 1 miejsce w kategorii „Ecology” w konkursie KOKOS,
 * Uczestnictwo w targach XXXIV Międzynarodowy Salon Przemysłu Obronnego,
 * Wygrana 3 członków zespołu w hackathonie StarUPHACK.
 * Projekt naukowy w ramach programu „Studenckie Koła Naukowe Tworzą Innowacje” 2025 i 2026
-* Dofinansowanie z programu grantowego TURBOgrant 2025/2026 ORLEN
+* Dofinansowanie z programu grantowego TURBOgrant 2025/2026 fundacji ORLEN
 
 <br><br>
