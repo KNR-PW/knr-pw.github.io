@@ -20,38 +20,61 @@ short_title: KNR Dron
 title: KNR Drone
 short_description: Autonomiczny dron przygotowywany pod zawody Droniada 2024
 ---
- Projekt KNR Dron realizowany w Kole Naukowym Robotyków KNR koncentruje się na projektowaniu i budowie bezzałogowych statków powietrznych zdolnych do autonomicznego wykonywania złożonych misji. Zespół rozwija zarówno konstrukcję mechaniczną drona, jego i systemy elektroniczne oraz oprogramowanie odpowiedzialne za autonomię oraz przetwarzanie danych. Wiele komponentów powstaje przy wykorzystaniu technologii druku 3D, co umożliwia szybkie prototypowanie i dostosowywanie konstrukcji do wymagań konkretnych misji.
+ Projekt KNR Dron realizowany w Kole Naukowym Robotyków koncentruje się na projektowaniu i budowie bezzałogowych statków powietrznych (BSP) zdolnych do autonomicznego wykonywania złożonych misji. Zespół rozwija zarówno konstrukcję mechaniczną dronów, ich systemy elektroniczne oraz oprogramowanie odpowiedzialne za autonomię oraz przetwarzanie danych. Wiele komponentów powstaje przy wykorzystaniu technologii druku 3D, co umożliwia szybkie prototypowanie i dostosowywanie konstrukcji do wymagań konkretnych misji.
 
-Celem projektu jest stworzenie w pełni zintegrowanej platformy UAV zdolnej do realizacji zadań takich jak obserwacja terenu, analiza obrazu z powietrza czy autonomiczne wykonywanie zaplanowanych misji. Projekt łączy wiedzę z zakresu robotyki, systemów wbudowanych, mechaniki, elektroniki oraz sztucznej inteligencji. Obecnie zespół rozwija trzy platformy dronowe oraz pracuje nad najnowszą konstrukcją typu VTOL w konfiguracji tilt-rotor, łączącą możliwość pionowego startu z efektywnym lotem poziomym
+
+Celem projektu jest tworzenie w pełni zintegrowanych platform BSP zdolnych do realizacji zadań takich jak obserwacja terenu, analiza obrazu z powietrza czy autonomiczne wykonywanie zaplanowanych misji. Projekt łączy wiedzę z zakresu robotyki, systemów wbudowanych, mechaniki, elektroniki oraz sztucznej inteligencji. Obecnie zespół rozwija trzy platformy dronowe oraz pracuje nad najnowszą konstrukcją typu VTOL w konfiguracji tilt-rotor, łączącą możliwość pionowego startu z efektywnym lotem poziomym.
+
+
 <img src="/images/knrdron/IMG_3111.jpg" width="auto"> 
 
-Działamy w 3 podsekcjach:
-# Software
 
-Sekcja software odpowiada za rozwój oprogramowania sterującego dronem oraz systemów autonomii. Kluczowym elementem jest integracja systemu sterowania lotem z architekturą robotyczną opartą o ROS 2, która umożliwia modularne rozwijanie funkcjonalności systemu oraz komunikację pomiędzy poszczególnymi komponentami oprogramowania.
+## Software
 
-Zespół pracuje nad algorytmami autonomicznej nawigacji, planowania trajektorii oraz integracją danych pochodzących z różnych sensorów. Ważnym obszarem jest również rozwój systemów wizji komputerowej wykorzystujących metody sztucznej inteligencji do wykrywania i klasyfikacji obiektów  z kamer pokładowych.
+Sekcja software odpowiada za rozwój oprogramowania sterującego dronami oraz systemów autonomii. Kluczowym elementem jest integracja systemu sterowania lotem z architekturą robotyczną opartą na ROS 2, która umożliwia modularne rozwijanie funkcjonalności oraz komunikację pomiędzy poszczególnymi komponentami oprogramowania.
 
-Istotnym elementem prac jest także środowisko symulacyjne pozwalające na testowanie i rozwijanie algorytmów przed ich implementacją na rzeczywistych platformach UAV. Dzięki temu możliwe jest bezpieczne i efektywne rozwijanie systemów autonomicznych.
-<img src="/images/knrdron/soft2.jpg" width="auto"> 
-# Elektronika 
 
-Sekcja elektroniki zajmuje się przede wszystkim zapewnieniem funkcjonowania wszystkich elementów elektronicznych drona i ich współdziałania z mechaniką i softwarem. 
+Zespół pracuje nad algorytmami autonomicznej nawigacji, planowania trajektorii oraz integracją danych pochodzących z różnych sensorów. Ważnym obszarem jest również rozwój systemów wizji komputerowej wykorzystujących metody sztucznej inteligencji do wykrywania i klasyfikacji obiektów z kamer pokładowych.
 
-Dużą częścią pracy tej sekcji jest zapewnienie optymalnej pracy całej telemetrii na dronie, czyli wszystkich jego czujników. Następnymi ważnymi zadaniami jest praca nad zasilaniem i niskopoziomym programowaniem mikrokontrolerów do różnej maści czujników.
+
+Istotnym elementem prac jest także środowisko symulacyjne pozwalające na testowanie i rozwijanie algorytmów przed ich implementacją na rzeczywistych platformach BSP. Dzięki temu możliwe jest bezpieczne i efektywne rozwijanie systemów autonomicznych.
+
+
+<img src="/images/knrdron/soft3.jpg" width="auto"> 
+
+## Elektronika
+
+
+Sekcja elektroniki zajmuje się przede wszystkim zapewnieniem funkcjonowania wszystkich elementów elektronicznych dronów i ich współdziałania z mechaniką i softwarem.
+
+
+Dużą częścią pracy tej sekcji jest zapewnienie optymalnej pracy całej telemetrii na dronie, czyli wszystkich jego czujników. Następnymi ważnymi zadaniami jest praca nad zasilaniem i niskopoziomym programowaniem mikrokontrolerów obsługujących różne typy sensorów.
+
 
 Sekcja ta ma też duży kontakt z oprogramowaniem do sterowania dronem i jest niezbędna przy dodawaniu nowych funkcjonalności do dronów.
+
+
 <img src="/images/knrdron/elektronika.jpg" width="auto">
-# Mechanika 
+
+## Mechanika
+
 
 Sekcja mechaniczna odpowiada za projektowanie konstrukcji dronów oraz ich elementów strukturalnych. Obejmuje to projektowanie ram, elementów montażowych dla elektroniki oraz integrację układu napędowego i komponentów aerodynamicznych.
-Zajmuje się również przeprowadzaniem symulacji przepływu i wytrzymałościowych w zaawansowanych programach symulacyjnych takich jak Anysy Mechanical, Ansys Fluent oraz FlightStream firmy Altair. Regularnie korzystamy również z tuneli aerodynamicznych znajdujących się na Wydziale MEiL PW.
 
-W ramach prac rozwijane są również elementy konstrukcyjne wykonywane przy użyciu druku 3D, co pozwala na szybkie tworzenie prototypów oraz testowanie nowych rozwiązań konstrukcyjnych. Dzięki temu możliwe jest optymalizowanie masy, wytrzymałości oraz funkcjonalności platformy.
+
+Zajmuje się również przeprowadzaniem symulacji przepływu i wytrzymałościowych w zaawansowanych programach symulacyjnych takich jak Ansys Mechanical, Ansys Fluent oraz FlightStream firmy Altair. Regularnie korzystamy również z tuneli aerodynamicznych znajdujących się na Wydziale MEiL Politechniki Warszawskiej.
+
+
+W konstrukcji naszych dronów wykorzystujemy przede wszystkim włókno węglowe, które dzięki wysokiej wytrzymałości i niskiej masie spełnia wymagania nowoczesnych konstrukcji lotniczych. Dodatkowo stosujemy zaawansowane filamenty do druku 3D, umożliwiające optymalizację geometrii oraz szybkie prototypowanie elementów konstrukcyjnych.
+
+
 <img src="/images/knrdron/mechanika.jpg" width="auto">
+
+
 Nasze drony:
 
-# Orzeł 1
+
+## Orzeł 1
 
 
 * Masa: 2 kg
@@ -61,28 +84,13 @@ Nasze drony:
 
 
 
-
-
-Najstarsza jednostka latająca w naszym projekcie, zbudowana w styczniu 2024 roku. Zadaniem drona jest budowa rozwiązań na zawody. W 2024 roku startował w Droniadzie w konkurencjach ,,Sztafeta'' oraz ,,Kopalnie marsjańskie''. W 2025 roku jednostka wykorzystana została na Droniadzie w konkurencji ,,Inspekcja'', dodatkowo pierwszy raz nasza sekcja brała udział w konkursie KOKOS, na którym zaprezentowano rozwiązanie pobierania próbek wody za pomocą ww. jednostki, dzięki czemu zajęliśmy 1 miejsce w kategorii ,,Ecology".
-
-
-
-
-
-
-
-
-
-
-
-
+Najstarsza jednostka latająca w naszym projekcie, zbudowana w styczniu 2024 roku. Został zbudowany w odpowiedzi na zawody Droniada 2024. Startował w konkurencjach „Sztafeta” oraz „Kopalnie marsjańskie”. W 2025 roku jednostka wykorzystana została na Droniadzie w konkurencji „Inspekcja”, dodatkowo pierwszy raz nasza sekcja brała udział w konkursie KOKOS, na którym zaprezentowano rozwiązanie pobierania próbek wody za pomocą ww. jednostki, dzięki czemu zajęliśmy 1 miejsce w kategorii „Ecology”.
 
 
 <img src="/images/knrdron/orzel1.jpg" width="auto">
 
 
-
-# Sparrow
+## Sparrow
 
 
 * Masa: 0,7 kg
@@ -92,39 +100,13 @@ Najstarsza jednostka latająca w naszym projekcie, zbudowana w styczniu 2024 rok
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Jednostka latająca zbudowana w celu testowania algorytmów autonomii wizji i poruszania. Zbudowana na początku 2025 roku. Budowa drona jest prosta, odporna na zniszczenia oraz łatwa w naprawie, dzięki czemu możemy bezpiecznie testować rozwiązania działające w symulacji, nie ryzykując zniszczenia większych jednostek.
-
-
-
-
-
-
-
-
-
-
-
-
+Jednostka latająca zbudowana w celu testowania algorytmów wizyjnych i autonomii poruszania. Zbudowana na początku 2025 roku. Budowa drona jest prosta, odporna na zniszczenia oraz łatwa w naprawie, dzięki czemu możemy bezpiecznie testować rozwiązania działające w symulacji, nie ryzykując zniszczenia większych jednostek.
 
 
 <img src="/images/knrdron/sparrow.jpg" width="auto">
 
 
-# Czarna Mamba
+## Czarna Mamba
 
 
 * Masa: 5 kg
@@ -134,41 +116,32 @@ Jednostka latająca zbudowana w celu testowania algorytmów autonomii wizji i po
 
 
 
+Jednostka latająca zbudowana w maju 2025 roku. Zbudowana w ramach projektu naukowego, gdzie była odpowiedzialna za wykonywanie nalotów fotogrametrycznych i koordynowanie działań jednostek naziemnych. Została wykorzystana w konkurencji „Sztafeta” podczas konkursu Droniada 2025.
 
 
+<img src="/images/knrdron/mamba.jpg" width="auto">
 
 
+## TR1 Stork
 
 
-Najnowsza i największa jednostka latająca zbudowana w maju 2025 roku. Zbudowana w celu integracji systemu wizyjnego fotogrametrycznego z systemem roju łazików. Została wykorzystana w konkurencji ,,Sztafeta'' podczas konkursu Droniada 2025.
+Najnowsza konstrukcja w stajni sekcji. Praca koncepcyjna nad projektem zaczęła się w maju 2025 roku. Jest to konstrukcja typu VTOL tilt-rotor, co oznacza, że dron może latać zarówno w formie quadrokoptera, jak i płatowca. To najbardziej złożony technicznie BSP w naszej sekcji. Łączy on wiele aspektów technicznych, takich jak: aerodynamika, wytrzymałość konstrukcji, analiza drgań, algorytmy wizyjne, sztuczna inteligencja, symulacje robotyczne oraz wykorzystanie zaawansowanych komponentów pokładowych, tj. LiDAR, GPS RTK, komputer pokładowy NVIDIA Jetson oraz kamery fotogrametryczne i wizyjne.
 
 
+Konstrukcja rozwijana jest z myślą o zaawansowanych autonomicznych misjach oraz udziale w międzynarodowych zawodach dronowych, m.in. SUAS 2026.
 
+<br><br>
 
+## Osiągnięcia
 
+Nasz zespół KNR Drone ma na swoim koncie m.in.:
 
+* 4. miejsce w zawodach Droniada (2024),
+* Wyróżnienie za najlepszy system programistyczny w zawodach Droniada (2025),
+* 1. miejsce w kategorii „Ecology” w konkursie KOKOS,
+* Uczestnictwo w targach XXXIV Międzynarodowy Salon Przemysłu Obronnego,
+* Wygrana 3 członków zespołu w hackathonie StarUPHACK.
+* Projekt naukowy w ramach programu „Studenckie Koła Naukowe Tworzą Innowacje” 2025 i 2026
+* Dofinansowanie z programu grantowego TURBOgrant 2025/2026 ORLEN
 
-
-
-
-
-
-
-
-<img src="/images/knrdron/mamba1.jpg" width="auto">
-
-
-# TR1 Stork
-
-
-Najnowsza konstrukcja w stajni sekcji. Praca koncepcyjna nad projektem zaczęła się w maju 2025 roku. Pierwsze testy w trybie automatycznym j w sierpniu 2025 roku.
-
-
-
-
-
-
-
-
-
-<img src="/images/knrdron/received_1493581968849134.jpg" width="auto">
+<br><br>
