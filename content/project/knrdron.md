@@ -3,7 +3,15 @@ main_site_item_descr: Projekt KNR Drone zajmuje się rozwojem innowacyjnych rozw
 start_date: "2023"
 end_date: null
 main_site_priority: 4
-gallery_images: []
+gallery_images:
+ - image: /images/knrdron/IMG_3111.jpg
+ - image: /images/knrdron/vtol_pas.jpg
+ - image: /images/hal/URC4.jpg
+ - image: /images/hal/URC5.jpg
+ - image: /images/hal/ERC1.jpg
+ - image: /images/hal/ERC2.jpg
+ - image: /images/hal/ERC4.jpg
+ - image: /images/hal/mnisw.jpg
 main_site: true
 main_project_image: /images/knrdron/orzel1.jpg
 main_site_item_images:
@@ -12,15 +20,31 @@ short_title: KNR Dron
 title: KNR Drone
 short_description: Autonomiczny dron przygotowywany pod zawody Droniada 2024
 ---
- Sekcja KNR DRONE posiada w swoim zbiorze 3 jednostki latające wykorzystywane w projektach badawczych oraz na zawodach. Sekcja podjęła pracę nad budową i rozwojem jednostki latającej typu VTOL-TILT Rotor.
+ Projekt KNR Dron realizowany w Kole Naukowym Robotyków KNR koncentruje się na projektowaniu i budowie bezzałogowych statków powietrznych zdolnych do autonomicznego wykonywania złożonych misji. Zespół rozwija zarówno konstrukcję mechaniczną drona, jego i systemy elektroniczne oraz oprogramowanie odpowiedzialne za autonomię oraz przetwarzanie danych. Wiele komponentów powstaje przy wykorzystaniu technologii druku 3D, co umożliwia szybkie prototypowanie i dostosowywanie konstrukcji do wymagań konkretnych misji.
 
+Celem projektu jest stworzenie w pełni zintegrowanej platformy UAV zdolnej do realizacji zadań takich jak obserwacja terenu, analiza obrazu z powietrza czy autonomiczne wykonywanie zaplanowanych misji. Projekt łączy wiedzę z zakresu robotyki, systemów wbudowanych, mechaniki, elektroniki oraz sztucznej inteligencji. Obecnie zespół rozwija trzy platformy dronowe oraz pracuje nad najnowszą konstrukcją typu VTOL w konfiguracji tilt-rotor, łączącą możliwość pionowego startu z efektywnym lotem poziomym
+Działamy w 3 podsekcjach
+# Software
 
+Sekcja software odpowiada za rozwój oprogramowania sterującego dronem oraz systemów autonomii. Kluczowym elementem jest integracja systemu sterowania lotem z architekturą robotyczną opartą o ROS 2, która umożliwia modularne rozwijanie funkcjonalności systemu oraz komunikację pomiędzy poszczególnymi komponentami oprogramowania.
 
+Zespół pracuje nad algorytmami autonomicznej nawigacji, planowania trajektorii oraz integracją danych pochodzących z różnych sensorów. Ważnym obszarem jest również rozwój systemów wizji komputerowej wykorzystujących metody sztucznej inteligencji do wykrywania i klasyfikacji obiektów  z kamer pokładowych.
 
+Istotnym elementem prac jest także środowisko symulacyjne pozwalające na testowanie i rozwijanie algorytmów przed ich implementacją na rzeczywistych platformach UAV. Dzięki temu możliwe jest bezpieczne i efektywne rozwijanie systemów autonomicznych.
 
+# Elektronika 
 
+Sekcja elektroniki zajmuje się przede wszystkim zapewnieniem funkcjonowania wszystkich elementów elektronicznych drona i ich współdziałania z mechaniką i softwarem. 
 
+Dużą częścią pracy tej sekcji jest zapewnienie optymalnej pracy całej telemetrii na dronie, czyli wszystkich jego czujników. Następnymi ważnymi zadaniami jest praca nad zasilaniem i niskopoziomym programowaniem mikrokontrolerów do różnej maści czujników.
 
+Sekcja ta ma też duży kontakt z oprogramowaniem do sterowania dronem i jest niezbędna przy dodawaniu nowych funkcjonalności do dronów.
+
+# Mechanika 
+
+Sekcja mechaniczna odpowiada za projektowanie konstrukcji dronów oraz ich elementów strukturalnych. Obejmuje to projektowanie ram, elementów montażowych dla elektroniki oraz integrację układu napędowego i komponentów aerodynamicznych.
+
+W ramach prac rozwijane są również elementy konstrukcyjne wykonywane przy użyciu druku 3D, co pozwala na szybkie tworzenie prototypów oraz testowanie nowych rozwiązań konstrukcyjnych. Dzięki temu możliwe jest optymalizowanie masy, wytrzymałości oraz funkcjonalności platformy.
 
 
 # Orzeł 1
