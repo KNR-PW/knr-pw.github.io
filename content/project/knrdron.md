@@ -11,7 +11,7 @@ gallery_images:
  - image: /images/knrdron/vtol_stoi.jpg
  - image: /images/knrdron/received_987560246979077.jpg
  - image: /images/knrdron/kokos1.jpg 
- - image: /images/hal/mnisw.jpg
+ - image: /images/knrdron/programisci.jpg
 main_site: true
 main_project_image: /images/knrdron/orzel1.jpg
 main_site_item_images:
@@ -138,6 +138,9 @@ Najnowsza konstrukcja w stajni sekcji. Praca koncepcyjna nad projektem zaczęła
 
 
 Konstrukcja rozwijana jest z myślą o zaawansowanych autonomicznych misjach oraz udziale w międzynarodowych zawodach dronowych, m.in. SUAS 2026.
+
+
+<img src="/images/knrdron/vtol_koncepcja.jpg" width="auto">
 
 <br><br>
 
