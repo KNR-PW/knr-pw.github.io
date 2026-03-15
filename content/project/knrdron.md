@@ -145,5 +145,4 @@ Najnowsza konstrukcja w stajni sekcji. Praca koncepcyjna nad projektem zaczęła
 
 
 
-
-<img src="/images/knrdron/tr1.jpg" width="auto">
+<img src="/images/knrdron/received_1493581968849134.jpg" width="auto">
