@@ -55,7 +55,7 @@ By sprostać wymaganiom konkursowym zaprojektowaliśmy wymienne moduły operacyj
 
 <br><br>
 
-{{< youtube iI1e1XqFULk >}}
+{{< youtube d4Js5KchlyU >}}
 
 <br><br>
 
