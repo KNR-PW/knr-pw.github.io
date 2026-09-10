@@ -52,8 +52,12 @@
   width: 370px;
 }
 
+.sponsor--mediumbig img {
+  width: 250px;
+}
+
 .sponsor--medium img {
-  width: 140px;
+  width: 180px;
 }
 
 .sponsor--small img {
