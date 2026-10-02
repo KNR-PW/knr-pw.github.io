@@ -16,7 +16,6 @@ Jesteśmy kołem naukowym działającym od prawie 30 lat na Wydziale Mechaniczny
 
 * Łaziki marsjańskie
 * Drony
-* Druk 3D
 * Roboty Kroczące
 
 W każdej z tych sekcji możesz zdobyć wiedzę z zakresu mechaniki, elektroniki, programowania i wielu innych dziedzin. Odnajdą się u nas nie tylko osoby o zainteresowaniach technicznych, lecz także ci, którzy pasjonują się fotografią, grafiką czy innymi dziedzinami nietechnicznymi.
