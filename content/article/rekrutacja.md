@@ -42,11 +42,6 @@ Skierowana głównie do osób, które dopiero rozpoczynają swoją przygodę z i
 Skierowana do osób posiadających doświadczenie inżynieryjne – np. studentów po pierwszym lub drugim roku studiów albo osób, które tworzyły projekty już w szkole średniej. W tej rekrutacji pomijany jest projekt rekrutacyjny - zamiast obron odbywa się rozmowa. Kandydat musi przedstawić swoje wcześniejsze dokonania potwierdzające wystarczającą wiedzę. W celu usprawnienia rozmowy wymagane jest przesłanie krótkiego CV, z którym członkowie KNR zapoznają się wcześniej.
 <br></br>
 
-## Rekrutacja na stanowisko nietechniczne
-
-Przeznaczona dla osób, które zamiast rozwijać się w dziedzinach takich jak robotyka wolą zajmować się np. grafiką, prowadzeniem social mediów czy fotografią. Podobnie jak w rekrutacji przyspieszonej, nie ma tu projektu rekrutacyjnego – odbywa się rozmowa oraz wymagane jest przesłanie krótkiego CV lub portfolio, które członkowie KNR analizują wcześniej, aby skrócić czas rozmowy.
-<br></br>
-
 ## Spotkanie rekrutacyjne
 
 Więcej szczegółów oraz odpowiedzi na pytania będzie można uzyskać na spotkaniu rekrutacyjnym, które odbędzie się **13 października o godzinie 18:15 w auli A0 w budynku Instytutu Techniki Lotniczej i Mechaniki Stosowanej (ITLiMS)**.
