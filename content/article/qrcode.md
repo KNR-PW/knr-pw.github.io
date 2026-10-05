@@ -1,5 +1,5 @@
 ---
-title: Rekrutacja 2026Z
+title: Rekrutacja 2026Z QRCODE
 url: /qrcode
 main_project_image: /images/team_cut.jpg
 short_description: Czy marzysz o fascynującej przygodzie w świat robotyki i
