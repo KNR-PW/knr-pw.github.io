@@ -3,7 +3,6 @@ main_site_item_descr: "Zespół odpowiedzialny za druk 3D w kole. Aktualnie
   rozwijający drukarkę o 5 stopniach swobody "
 start_date: "2021"
 main_site: false
-main_site_priority: 3
 main_project_image: /images/druk3d/wydruki.jpg
 main_site_item_images: 
 - zbigniew-main.gif
