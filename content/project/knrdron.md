@@ -2,7 +2,7 @@
 main_site_item_descr: Projekt KNR Drone zajmuje się rozwojem innowacyjnych rozwiązań związanych z bezzałogowymi statkami powietrznymi. Skupiamy się na autonomicznych systemach przygotowywanych pod zawody oraz projektach badawczych.
 start_date: "2023"
 end_date: null
-main_site_priority: 4
+main_site_priority: 3
 gallery_images:
  - image: /images/knrdron/vtol_pas.jpg
  - image: /images/knrdron/chlopaki.jpg
