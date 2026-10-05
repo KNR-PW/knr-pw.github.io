@@ -7,7 +7,7 @@ main_project_image: /images/druk3d/wydruki.jpg
 main_site_item_images: 
 - zbigniew-main.gif
 title: Sekcja druku 3D
-short_description: true
+short_description: Zespół odpowiedzialny za druk 3D w kole. Aktualnie rozwijający drukarkę o 5 stopniach swobody 
 end_date: 2025
 archive_image: /images/druk3d/wydruki.jpg
 ---
