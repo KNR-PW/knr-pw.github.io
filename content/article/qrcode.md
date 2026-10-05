@@ -1,0 +1,231 @@
+---
+title: Rekrutacja 2026Z
+url: /qrcode
+main_project_image: /images/team_cut.jpg
+short_description: Czy marzysz o fascynującej przygodzie w świat robotyki i
+  nowoczesnych technologii?
+---
+# Rekrutacja 2026
+
+Czy chcesz się na studiach nauczyć więcej, zdobyć doświadczenie, a przy tym mieć poczucie, że Twoja praca nie idzie na marne?
+<br></br>
+
+## Dołącz do KNR!
+
+Jesteśmy kołem naukowym działającym od prawie 30 lat na Wydziale Mechanicznym Energetyki i Lotnictwa. Obecnie zrzeszamy ponad 100 członków i prowadzimy cztery główne projekty:
+
+* Łaziki marsjańskie
+* Drony
+* Roboty Kroczące
+
+W każdej z tych sekcji możesz zdobyć wiedzę z zakresu mechaniki, elektroniki, programowania i wielu innych dziedzin. Odnajdą się u nas nie tylko osoby o zainteresowaniach technicznych, lecz także ci, którzy pasjonują się fotografią, grafiką czy innymi dziedzinami nietechnicznymi.
+
+Posiadamy też projekty, które zostały wstrzymane ze względu na pandemię, jak np. [autonomiczne pojazdy](https://knr.edu.pl/project/selfie/), czy [łodzie podwodne](https://knr.edu.pl/project/okon/). Z chęcią wesprzemy w reaktywacji tych projektów :)
+
+## Jak do nas dołączyć?
+
+Aby zostać członkiem KNR, można wybrać jedną z trzech ścieżek rekrutacji:
+
+* Rekrutacja standardowa
+* Rekrutacja przyspieszona na stanowisko techniczne
+* Rekrutacja na stanowisko nietechniczne
+  <br></br>
+
+## Rekrutacja standardowa
+
+Skierowana głównie do osób, które dopiero rozpoczynają swoją przygodę z inżynierią. Kandydat otrzymuje projekt rekrutacyjny oraz opiekuna. Podczas pracy nad projektem rekrut zdobywa podstawowe umiejętności potrzebne do działania w kole. W styczniu odbywają się obrony wszystkich projektów, po których podejmowana jest decyzja dotycząca każdego kandydata.
+<br></br>
+
+## Rekrutacja przyspieszona
+
+Skierowana do osób posiadających doświadczenie inżynieryjne – np. studentów po pierwszym lub drugim roku studiów albo osób, które tworzyły projekty już w szkole średniej. W tej rekrutacji pomijany jest projekt rekrutacyjny - zamiast obron odbywa się rozmowa. Kandydat musi przedstawić swoje wcześniejsze dokonania potwierdzające wystarczającą wiedzę. W celu usprawnienia rozmowy wymagane jest przesłanie krótkiego CV, z którym członkowie KNR zapoznają się wcześniej.
+<br></br>
+
+## Spotkanie rekrutacyjne
+
+Więcej szczegółów oraz odpowiedzi na pytania będzie można uzyskać na spotkaniu rekrutacyjnym, które odbędzie się **13 października o godzinie 18:15 w auli A0 w budynku Instytutu Techniki Lotniczej i Mechaniki Stosowanej (ITLiMS)**.
+<br></br>
+
+## Harmonogram
+
+* 13.10 – Spotkanie rekrutacyjne
+* 20.10 – Termin przesyłania formularzy
+* 27.10 – Zapisy na projekt rekrutacyjny
+* 01.11 – Początek pracy nad projektami 
+* 29.11 – Początek obron przyśpieszonych 
+* 07.01 – Obrony projektów
+  <br></br>
+  *Po terminie rekrutacji? Spokojnie — zobacz FAQ poniżej :)*
+  <br></br>
+
+Nie możesz się pojawić na spotkaniu? Zajrzyj do FAQ 
+<br></br>
+
+### Zalety bycia w kole naukowym:
+
+* Możliwość nabycia praktycznych umiejętności, przydatnych w dalszej karierze zawodowej,
+* Zwiększona szansa na zdobycie stypendium rektora,
+* Możliwość zaliczenia przedmiotu działalnością w kole,
+* Dostęp do wyposażonego warsztatu
+* Możliwość realizacji [pracy dyplomowej](https://wutwaw.sharepoint.com/:x:/s/KNR-ZarzdiAdministracja/ETzKfD24BONMn45mw1P1BwYBETGmjmPODO0Oa5qqkwOCHA?e=8V5hy8) w ramach koła naukowego, w tym pozyskania na nią środków,
+* Oferty pracy, stażów i pomniejszych płatnych projektów kierowane do członków koła przez zaprzyjaźnione firmy z branży,
+* Poznanie wielu ciekawych i ambitnych ludzi.
+  <br></br>
+
+<h2 align="center">FAQ</h2>
+
+<div>
+
+<details>
+
+<summary>Czy muszę posiadać jakieś konkretne umiejętności, aby móc dołączyć do koła? </summary>
+
+Nie, wszystkiego się nauczysz pracując z nami. Koło naukowe jest miejscem do którego przychodzisz zdobyć praktyczne umiejętności. Z tego powodu najważniejsza jest pasja oraz chęć do pracy.
+
+</details>
+
+<details>
+
+<summary>Czy przyjmujecie członków z każdego wydziału? </summary>
+
+Tak, przyjmujemy członków z każdego wydziału PW. Nasz zespół tworzą osoby z wielu różnych kierunków, co pozwala nam łączyć różne kompetencje i realizować interdyscyplinarne projekty.
+
+Nasze sale znajdują się w budynkach ITC i ITLiMS, więc niedaleko Gmachu Głównego PW.
+
+</details>
+
+<details>
+
+<summary>Czy muszę znać się na robotyce, żeby dołączyć?</summary>
+
+Nie. Robotyka to szeroka i interdyscyplinarna dziedzina — w naszych projektach potrzebni są nie tylko konstruktorzy, programiści, czy elektronicy, ale także osoby zajmujące się organizacją pracy zespołu, logistyką, finansami, promocją oraz wieloma innymi obszarami.
+
+Nie musisz budować robotów, aby rozwijać się w naszym kole. Realizujemy również projekty niezwiązane bezpośrednio z robotyką, takie jak laboratorium chemiczne w łaziku, wystawy w Centrum Sztuki Nowoczesnej, a nawet występujemy w filmach.
+
+Jeśli masz pomysły, umiejętności albo po prostu ciekawość — na pewno znajdzie się dla Ciebie miejsce.
+
+</details>
+
+<details>
+
+<summary>Jak dołączyć do Discorda rekrutacyjnego?</summary>
+
+Dostęp do Discorda uzyskasz dopiero po wypełnieniu ankiety rekrutacyjnej. Po jej wypełnieniu powinien wyświetlić ci się link do dołączenia.
+
+</details>
+
+<details>
+
+<summary>Czy muszę czekać do października?</summary>
+
+Nie do końca. Główna rekrutacja do KNR odbywa się raz w roku i rozpoczyna się w październiku. Wynika to z faktu, że co roku zgłasza się do nas bardzo duża liczba kandydatów — często ponad 100 osób. Przeprowadzenie jednej, skoordynowanej rekrutacji pozwala nam sprawnie zorganizować cały proces, zapewnić kandydatom opiekunów oraz równe warunki udziału.
+
+Jednocześnie przez cały rok pozostajemy otwarci na osoby posiadające konkretne, przydatne dla nas umiejętności lub doświadczenie. Jeśli dobrze odnajdujesz się w takich obszarach jak druk 3D, projektowanie i utrzymanie stron internetowych, grafika, montaż wideo, obróbka drewna czy inne specjalistyczne dziedziny, nic nie stoi na przeszkodzie, aby odezwać się do nas również poza standardowym terminem rekrutacji.
+
+Dodatkowo zdarza się, że organizujemy mniejsze, uzupełniające rekrutacje w trakcie roku akademickiego — zwłaszcza dla osób, które chcą rozpocząć naukę od podstaw, ale nie mogły dołączyć jesienią.
+
+Jeśli uważasz, że możesz wnieść coś wartościowego do naszych zespołów, po prostu napisz do nas na knr@pw.edu.pl
+
+Zawsze chętnie odpowiemy i sprawdzimy, czy znajdzie się dla Ciebie miejsce.
+
+Nieszablonowe umiejętności i zaangażowanie są u nas zawsze mile widziane.
+
+</details>
+
+<details>
+
+<summary>Czy w tym roku obowiązuje składka rekrutacyjna? </summary>
+
+Tak, wysokość składki rekrutacyjnej zostanie opublikowana na spotkaniu rekrutacyjnym. Składka ta pozwala kupić nam w sprawny sposób wszelkie rzeczy potrzebne do realizacji waszych projektów, i zapobiega dezorganizacji spowodowanej "niezdecydowanymi".
+
+Zazwyczaj jest to kwota zwykłego wyjścia na maczka :P 
+
+</details>
+
+<details>
+
+<summary>Jak wygląda praca w kole?</summary>
+
+Sposób oraz organizacja pracy w kole zależy od projektu oraz zespołu w ramach którego pracujesz. Jeśli np. należysz do zespołu mechnaników pracujących nad łazikiem możecie mieć wspólne spotkania robocze co tydzień/dwa.
+
+</details>
+
+<details>
+
+<summary>Nie potrafię w inżynierskie rzeczy, czy potrzebujecie osób zajmujących się innymi rzeczami niż roboty? </summary>
+
+Tak! Jesteśmy jednym z największych kół na Politechnice i do sprawnego działania nie wystarczą tylko inżynierowie. Potrzebujemy także osób, które pomogą nam w logistyce, zarządzaniu zespołem, finansach, a także przy promocji koła. 
+
+</details>
+
+<details>
+
+<summary>Projekt wygląda na skończony, czy jest sens tam dołączać? </summary>
+
+Tak, nasze projekty są bez przerwy rozwijane o ile istnieje zespół z takimi chęciami. Coś wygląda na skończone? Spokojnie, zaraz zaczniemy kolejną wersję :)
+
+</details>
+
+<details>
+
+<summary>Czy muszę pojawić się na spotkaniu rekrutacyjnym?</summary>
+
+Nie, nie musisz pojawiać się na spotkaniu rekrutacyjnym jednak jest to bardzo wskazane. Podczas tego spotkania w szczegółach poznasz nasz zespół, projekty jakie realizujemy oraz dowiesz się dokładnie jak przebiega tegoroczna rekrutacja. Oprócz tego jest to okazja na zwiedzenie naszych warsztatów, zadania nurtujących cię pytań i integracji.
+
+Wszystkie najważniejsze informacje będą wrzucane na naszego Facebooka oraz tutaj :) 
+
+</details>
+
+<details>
+
+<summary>Jak często odbywają się rekrutacje?</summary>
+
+Rekrutacja odbywa się raz do roku, rozpoczyna się w październiku. 
+
+Natomiast osoby z doświadczeniem przyjmujemy cały rok - wystarczy do nas napisać na knr@pw.edu.pl :)
+
+</details>
+
+<details>
+
+<summary>Czym są KNR Pointsy i co mogę za nie kupić?</summary>
+
+Dowiesz się na spotkaniu rekrutacyjnym...
+
+</details>
+
+<details>
+
+<summary>Mam pomysł na projekt, czy otworzycie dla mnie specjalną sekcję?</summary>
+
+Tak, ale najpierw musisz dołączyć i pokazać, że warto :P  
+
+</details>
+
+<details>
+
+<summary>Jestem doktorantem, czy mogę do was dołączyć?</summary>
+
+Tak! W naszym zespole znajdują się osoby na studiach 3 stopnia. Dołączając do naszego zespołu możesz prowadzić własne projekty, pozyskiwać dofinansowania na badania i wyjazdy na konferencje lub zawody międzynarodowe.
+
+</details>
+
+<details>
+
+<summary>Czy mogę zapisać się do koła i nic nie robić?</summary>
+
+Nie :(
+
+</details>
+
+<details>
+
+<summary>Jestem z przyszłości i chcę się rekrutować w 2026 roku</summary>
+
+Wszystkie powyższe informacje dotyczą rekrutacji rozpoczętej w październiku 2025 roku. O ile co roku rekrutacje przebiegają podobnie, dokładne informacje aktualizujemy na początku października każdego roku. Cierpliwości!
+
+Natomiast osoby z doświadczeniem przyjmujemy cały rok - wystarczy do nas napisać na knr@pw.edu.pl :)
+
+</details>
+
+</div>
