@@ -222,7 +222,7 @@ Nie :(
 
 <summary>Jestem z przyszłości i chcę się rekrutować w 2026 roku</summary>
 
-Wszystkie powyższe informacje dotyczą rekrutacji rozpoczętej w październiku 2025 roku. O ile co roku rekrutacje przebiegają podobnie, dokładne informacje aktualizujemy na początku października każdego roku. Cierpliwości!
+Wszystkie powyższe informacje dotyczą rekrutacji rozpoczętej w październiku 2026 roku. O ile co roku rekrutacje przebiegają podobnie, dokładne informacje aktualizujemy na początku października każdego roku. Cierpliwości!
 
 Natomiast osoby z doświadczeniem przyjmujemy cały rok - wystarczy do nas napisać na knr@pw.edu.pl :)
 
