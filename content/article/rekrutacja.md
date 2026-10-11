@@ -24,11 +24,10 @@ Posiadamy też projekty, które zostały wstrzymane ze względu na pandemię, ja
 
 ## Jak do nas dołączyć?
 
-Aby zostać członkiem KNR, można wybrać jedną z trzech ścieżek rekrutacji:
+Aby zostać członkiem KNR, można wybrać jedną z dwóch ścieżek rekrutacji:
 
 * Rekrutacja standardowa
-* Rekrutacja przyspieszona na stanowisko techniczne
-* Rekrutacja na stanowisko nietechniczne
+* Rekrutacja przyspieszona
   <br></br>
 
 ## Rekrutacja standardowa
