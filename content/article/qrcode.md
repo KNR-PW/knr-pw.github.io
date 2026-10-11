@@ -12,7 +12,7 @@ Czy chcesz się na studiach nauczyć więcej, zdobyć doświadczenie, a przy tym
 
 ## Dołącz do KNR!
 
-Jesteśmy kołem naukowym działającym od prawie 30 lat na Wydziale Mechanicznym Energetyki i Lotnictwa. Obecnie zrzeszamy ponad 100 członków i prowadzimy cztery główne projekty:
+Jesteśmy kołem naukowym działającym od prawie 30 lat na Wydziale Mechanicznym Energetyki i Lotnictwa. Obecnie zrzeszamy ponad 100 członków i prowadzimy trzy główne projekty:
 
 * Łaziki marsjańskie
 * Drony
@@ -222,7 +222,7 @@ Nie :(
 
 <summary>Jestem z przyszłości i chcę się rekrutować w 2026 roku</summary>
 
-Wszystkie powyższe informacje dotyczą rekrutacji rozpoczętej w październiku 2025 roku. O ile co roku rekrutacje przebiegają podobnie, dokładne informacje aktualizujemy na początku października każdego roku. Cierpliwości!
+Wszystkie powyższe informacje dotyczą rekrutacji rozpoczętej w październiku 2026 roku. O ile co roku rekrutacje przebiegają podobnie, dokładne informacje aktualizujemy na początku października każdego roku. Cierpliwości!
 
 Natomiast osoby z doświadczeniem przyjmujemy cały rok - wystarczy do nas napisać na knr@pw.edu.pl :)
 
