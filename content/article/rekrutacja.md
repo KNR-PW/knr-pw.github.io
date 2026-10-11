@@ -12,7 +12,7 @@ Czy chcesz się na studiach nauczyć więcej, zdobyć doświadczenie, a przy tym
 
 ## Dołącz do KNR!
 
-Jesteśmy kołem naukowym działającym od prawie 30 lat na Wydziale Mechanicznym Energetyki i Lotnictwa. Obecnie zrzeszamy ponad 100 członków i prowadzimy cztery główne projekty:
+Jesteśmy kołem naukowym działającym od prawie 30 lat na Wydziale Mechanicznym Energetyki i Lotnictwa. Obecnie zrzeszamy ponad 100 członków i prowadzimy trzy główne projekty:
 
 * Łaziki marsjańskie
 * Drony
