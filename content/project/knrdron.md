@@ -157,3 +157,15 @@ Nasz zespół KNR Drone ma na swoim koncie m.in.:
 * Dofinansowanie z programu grantowego TURBOgrant 2025/2026 fundacji ORLEN
 
 <br><br>
+
+### Sukcesy na arenie międzynarodowej: Podium zawodów SUAS w USA
+
+Jako sekcja KNR Drone aktywnie rozwijamy nasze autorskie konstrukcje i z powodzeniem sprawdzamy je w międzynarodowej rywalizacji. Naszym ogromnym sukcesem jest zdobycie **3. miejsca na świecie** podczas prestiżowych zawodów **SUAS 2026 w USA**. W stawce 84 zarejestrowanych zespołów z całego globu, wywalczyliśmy również zaszczytny tytuł **najlepszej drużyny z Europy**.
+
+Ten historyczny wynik to zwieńczenie wielu miesięcy ciężkiej pracy całego zespołu – zaawansowanych testów inżynieryjnych, setek napisanych linijek kodu i nieprzespanych nocy w warsztacie. Udowadniamy tym samym, że determinacja studentów oraz polska myśl techniczna potrafią skutecznie konkurować na najwyższym światowym poziomie. 
+
+Realizacja tak ambitnych projektów oraz starty w zawodach za oceanem nie byłyby możliwe bez nieocenionego wsparcia Politechniki Warszawskiej, a także zaufania naszych Partnerów i Sponsorów, którzy wspólnie z nami inwestują w rozwój nowych technologii.
+
+<img src="/images/knrdron/suas.jpg" width="auto">
+
+<br><br>
