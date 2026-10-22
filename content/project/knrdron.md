@@ -19,6 +19,55 @@ main_site_item_images:
 short_title: KNR Dron
 title: KNR Drone
 short_description: Autonomiczny dron przygotowywany pod zawody Droniada 2024
+sponsor_rows:
+  - sponsors:
+      - name: Ministerstwo Nauki i Szkolnictwa Wyższego
+        image: /images/05_znak_-siatka_uproszczony_kolor_biale_tlo.png
+        url: https://www.gov.pl/web/nauka
+        class: sponsor--main
+  - sponsors:
+      - name: Etronika
+        image: /images/sponsorzy/drony/Etronika.png
+        url: https://etronika.pl/
+        class: sponsor--medium
+      - name: EY
+        image: /images/sponsorzy/drony/EY_Horizontal.jpg
+        url: https://www.ey.com/pl_pl
+        class: sponsor--mediumbig
+      - name: Fundacja PPL
+        image: /images/sponsorzy/PPL.png
+        url: https://fundacjappl.pl/
+        class: sponsor--medium
+  - sponsors:
+      - name: Bosch Rexroth
+        image: /images/sponsorzy/drony/bosch.png
+        url: https://www.boschrexroth.com/pl/pl/
+        class: sponsor-small
+      - name: Jabama
+        image: /images/sponsorzy/drony/Jabama.png
+        url: https://jabama.pl/
+        class: sponsor-small
+      - name: Łukasiewicz - Instytut Lotnictwa
+        image: /images/sponsorzy/drony/Lukasiewicz_ilot.png
+        url: https://ilot.lukasiewicz.gov.pl/
+        class: sponsor-small
+  - sponsors:
+      - name: Aerobits
+        image: /images/sponsorzy/drony/aerobits.png
+        url: https://www.aerobits.pl/
+        class: sponsor-small
+      - name: VIGO Photonics
+        image: /images/sponsorzy/drony/vigo.png
+        url: https://vigophotonics.com/
+        class: sponsor-small
+      - name: Zeiss Microscopy
+        image: /images/sponsorzy/drony/Zeiss.png
+        url: https://www.zeiss.com/microscopy/
+        class: sponsor-small
+      # - name: Fundacja Grupy PKP
+      #   image: /images/sponsorzy/drony/pkp.png
+      #   url: https://www.pkp.pl/pl/fundacja
+      #   class: sponsor-small
 ---
  Projekt KNR Dron realizowany w Kole Naukowym Robotyków koncentruje się na projektowaniu i budowie bezzałogowych statków powietrznych (BSP) zdolnych do autonomicznego wykonywania złożonych misji. Zespół rozwija zarówno konstrukcję mechaniczną dronów, ich systemy elektroniczne oraz oprogramowanie odpowiedzialne za autonomię oraz przetwarzanie danych. Wiele komponentów powstaje przy wykorzystaniu technologii druku 3D, co umożliwia szybkie prototypowanie i dostosowywanie konstrukcji do wymagań konkretnych misji.
 

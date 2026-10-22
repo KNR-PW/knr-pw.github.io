@@ -31,6 +31,39 @@ main_site_item_images:
 short_title: Rover Team
 title: KNR Rover Team
 short_description: Specjalny pojazd zaprojektowany do badania i eksploracji powierzchni Marsa
+sponsor_rows:
+  - sponsors:
+      - name: Ministerstwo Nauki i Szkolnictwa Wyższego
+        image: /images/05_znak_-siatka_uproszczony_kolor_biale_tlo.png
+        url: https://www.gov.pl/web/nauka
+        class: sponsor--main
+  - sponsors:
+      - name: Lockheed Martin
+        image: /images/sponsorzy/LM-logo-Blue.png
+        url: https://www.lockheedmartin.com/pl-pl/index.html
+        style: "width: 50%;"
+  - sponsors:
+      - name: Volkswagen Financial Services
+        image: /images/sponsorzy/vwfs.png
+        url: https://www.vwfs.pl
+        class: sponsor--big
+      - name: FedEx
+        image: /images/sponsorzy/collective_eng_2c_pos_rgb.png
+        url: http://fedex.com/
+        class: sponsor--big
+  - sponsors:
+      - name: MiniWare
+        image: /images/sponsorzy/miniware.png
+        url: https://e-design.com.cn/en/ProductCust/2201613-518357.html?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGn4o_0lgB-41ll9GuV8i0ZBzk_JGy9Uf7Haou6CPdsPbG5W05hiNCaWOFUTnI_aem_IAjU5Zi1C4bnrAhHt8H3mQ
+        class: sponsor--small
+      - name: Cubic Inch
+        image: /images/sponsorzy/CubicInch_logo_1_RGB_art.png
+        url: https://cubicinch.pl/
+        class: sponsor--small
+      - name: Addit
+        image: /images/addit.png
+        url: https://addit.pl/pl/
+        class: sponsor--small
 ---
 Łazik marsjański to specjalny pojazd zaprojektowany do badania i eksploracji powierzchni Marsa, a "HAL-062" jest efektem naszej wizji eksploracji kosmosu. Ponadto "HAL-062" stanowi naszą odpowiedź na wyzwania stawiane przez prestiżowe zawody, takie jak [University Rover Challenge](https://urc.marssociety.org/), [European Rover Challenge](https://roverchallenge.eu/) oraz [Anatolian Rover Challenge](https://www.anatolianrover.space/). Dzięki swojej solidnej, aluminiowej konstrukcji, zawieszeniu typu Rocker-Bogie oraz napędowi różnicowemu, łazik jest w stanie bez najmniejszego problemu poradzić sobie w trudnych terenowych warunkach. Manipulator o 6 stopniach swobody pozwala na precyzyjne manewrowanie obiektami trzymanymi w chwytaku. System kamer analogowych o dużym zasięgu pozwala na sterowanie łazikiem bez konieczności jego stałej obserwacji. Ponadto, łazik potrafi również poruszać się autonomicznie - dynamicznie podejmuje decyzje o swoich działaniach dzięki zaawansowanego systemu wizji, który bazuje na kamerze głębi. Wedle uznania można dołączyć IMU oraz modułu GNSS, aby system działał dokładniej. Obecnie, w 2024 roku, cieszymy się z faktu, że już czwarta iteracja łazika "HAL-062" jest przygotowywana do udziału w kolejnych edycjach międzynarodowych konkursów.
 

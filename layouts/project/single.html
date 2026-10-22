@@ -63,6 +63,27 @@
   <div class="square square-white"></div>
 </section>
 
+{{ if and (not .Params.end_date) .Params.sponsor_rows }}
+<section class="sponsors" id="sponsors" data-section="sponsors">
+  <div class="container">
+    <div data-aos="fade-up" class="sponsors__title">Wspierają nas</div>
+    <div data-aos="fade-up" data-aos-delay="300" class="sponsors__block">
+      <div class="sponsors__section">
+        {{ range .Params.sponsor_rows }}
+        <div class="sponsor_row" data-aos="fade-up" data-aos-delay="150">
+          {{ range .sponsors }}
+          <a href="{{ .url }}" target="_blank" class="sponsor{{ with .class }} {{ . }}{{ end }}">
+            <img src="{{ .image }}" alt="{{ .name }} logo"{{ with .style }} style="{{ . | safeCSS }}"{{ end }} />
+          </a>
+          {{ end }}
+        </div>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+
 <script>
   function myFunction(imgs) {
     if (imgs.src === undefined) {

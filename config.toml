@@ -1,4 +1,4 @@
-baseURL = "https://knr.edu.pl/"
+  baseURL = "https://knr.edu.pl/"
 languageCode = "pl-pl"
 title = "Koło Naukowe Robotyków PW"
 
@@ -23,3 +23,29 @@ plural = "articles"
 [params]
   [params.project]
     title = 'Projekty KNR'
+
+  [[params.sponsor_rows]]
+    [[params.sponsor_rows.sponsors]]
+      name = "Wydział MEiL PW"
+      image = "/images/sponsorzy/mel.png"
+      url = "https://meil.pw.edu.pl/"
+      class = "sponsor--main"
+
+  [[params.sponsor_rows]]
+    [[params.sponsor_rows.sponsors]]
+      name = "Botland"
+      image = "/images/botland.png"
+      url = "https://botland.com.pl/pl/"
+      class = "sponsor--small"
+
+    [[params.sponsor_rows.sponsors]]
+      name = "Altium"
+      image = "/images/thumbnail_altium_logo_blk.png"
+      url = "https://www.altium.com/"
+      class = "sponsor--small"
+
+    [[params.sponsor_rows.sponsors]]
+      name = "TME"
+      image = "/images/tme_logo.png"
+      url = "https://tme.eu/"
+      class = "sponsor--small"

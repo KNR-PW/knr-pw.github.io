@@ -4,26 +4,37 @@
   line-height: 68px;
   margin-bottom: 30px;
   text-align: center;
-  
 }
 
+.sponsors__subtitle {
+  font-family: RadicalWut;
+  font-size: 40px;
+  line-height: 48px;
+  margin-top: 40px;
+  margin-bottom: 10px;
+  text-align: center;
+}
 
 .sponsors__block {
   display: flex;
   text-align: center;
   flex-direction: column;
   gap: 30px;
-
 }
 
-.sponsor_row{
-  
-  justify-content: space-between;;
+.sponsors__section {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  width: 100%;
+}
+
+.sponsor_row {
+  justify-content: space-between;
   align-items: center;
   gap: 60px;
   max-width: 100%;
-  
-  }
+}
 
 .sponsor img {
   height: auto;
@@ -32,22 +43,17 @@
   margin-right: 20px;
   margin-top: 20px;
   transition: transform 0.3s ease-in-out;
-  
 }
-
-
-
 
 /* Skalowanie logotypów wg ważności */
 .sponsor--main img {
   width: 400px;
-  
 }
 
 .sponsor--huge img {
   width: 370px;
-  
 }
+
 .sponsor--big img {
   width: 370px;
 }
@@ -60,21 +66,21 @@
   width: 180px;
 }
 
-.sponsor--small img {
+.sponsor--small img,
+.sponsor-small img {
   width: 120px;
 }
 
 /* Efekt hover */
 .sponsor:hover img {
   transform: scale(1.05);
-  
 }
 
 .sponsors__contact {
   text-align: center; /* Wyśrodkowanie tekstu */
   margin-top: 50px; /* Dystans od sponsorów */
   font-size: 25px;
-  }
+}
 
 .sponsors__contact a {
   color: #292929; /* Kolor linku, możesz zmienić */

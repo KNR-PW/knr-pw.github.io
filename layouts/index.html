@@ -34,7 +34,7 @@
 </section>
 
 <section class="section__transition">
-</section>
+</section>dr5
 
 <section class="about" id="about" data-section="about">
   <div class="container">
@@ -262,135 +262,45 @@
     <!-- Sekcja sponsorów -->
     <div data-aos="fade-up" data-aos-delay="300" class="sponsors__block">
 
-      <div class="sponsor_row">
-        <a href="https://meil.pw.edu.pl/" target="_blank" class="sponsor sponsor--main">
-          <img src="/images/sponsorzy/mel.png" alt="Wydział MEiL PW logo" />
-        </a>
-
-        <a href="https://www.gov.pl/web/nauka" target="_blank" class="sponsor sponsor--main">
-          <img src="/images/05_znak_-siatka_uproszczony_kolor_biale_tlo.png" alt="Ministerstwo Edukacji i Nauki logo" />
-        </a>
-
-      </div>
+      <!-- Sponsorzy ogólnokołowi (KNR) -->
+      {{ if .Site.Params.sponsor_rows }}
+      <div class="sponsors__section">
+        {{ range .Site.Params.sponsor_rows }}
         <div class="sponsor_row" data-aos="fade-up" data-aos-delay="150">
-        <a href="https://www.lockheedmartin.com/pl-pl/index.html" target="_blank" class="sponsor">
-          <img src="/images/sponsorzy/LM-logo-Blue.png" alt="Lockheed Martin logo"  style="width: 50%;"/>
-        </a>
-
-      <div class="sponsor_row" data-aos="fade-up" data-aos-delay="150">
-        <a href="https://www.vwfs.pl" target="_blank" class="sponsor sponsor--big">
-          <img src="/images/sponsorzy/vwfs.png" alt="VWFS logo" />
-        </a>
-        <a href="http://fedex.com/" target="_blank" class="sponsor sponsor--big">
-          <img src="/images/sponsorzy/collective_eng_2c_pos_rgb.png" alt="FedEx logo" />
-        </a>
-        
+          {{ range .sponsors }}
+          <a href="{{ .url }}" target="_blank" class="sponsor{{ with .class }} {{ . }}{{ end }}">
+            <img src="{{ .image }}" alt="{{ .name }} logo"{{ with .style }} style="{{ . | safeCSS }}"{{ end }} />
+          </a>
+          {{ end }}
+        </div>
+        {{ end }}
       </div>
+      {{ end }}
 
-      
-      <div class="sponsor_row" data-aos="fade-up" data-aos-delay="150">
-        <a href="" target="_blank" class="sponsor sponsor--medium">
-          <img src="/images/sponsorzy/drony/Etronika.png" alt="logo" />
-        </a>
-         <a href="" target="_blank" class="sponsor sponsor--mediumbig">
-          <img src="/images/sponsorzy/drony/EY_Horizontal.jpg" alt="logo" />
-        </a>
-     </div>
-
-   
-      
-      <div class="sponsor_row" data-aos="fade-up" data-aos-delay="150">
-        <a href="" target="_blank" class="sponsor sponsor--medium">
-          <img src="/images/sponsorzy/drony/bosch.png" alt="Bosch Rexroth logo" />
-        </a>
-       
-        <a href="" target="_blank" class=" sponsor sponsor--medium">
-          <img src="/images/sponsorzy/drony/Jabama.png" alt="Jabama logo" />
-        </a>
-        </a>
-      <a href="h" target="_blank" class=" sponsor sponsor--medium">
-          <img src="/images/sponsorzy/drony/Lukasiewicz_ilot.png" alt="ILOT logo" />
-        </a>
-          
+      <!-- Sponsorzy poszczególnych aktywnych sekcji -->
+      {{ range sort (where .Site.RegularPages "Section" "project") "Params.main_site_priority" }}
+      {{ if and (not .Params.end_date) .Params.sponsor_rows }}
+      <div class="sponsors__section">
+        <div data-aos="fade-up" class="sponsors__subtitle">{{ .Title }}</div>
+        {{ range .Params.sponsor_rows }}
+        <div class="sponsor_row" data-aos="fade-up" data-aos-delay="150">
+          {{ range .sponsors }}
+          <a href="{{ .url }}" target="_blank" class="sponsor{{ with .class }} {{ . }}{{ end }}">
+            <img src="{{ .image }}" alt="{{ .name }} logo"{{ with .style }} style="{{ . | safeCSS }}"{{ end }} />
+          </a>
+          {{ end }}
+        </div>
+        {{ end }}
       </div>
-      <div class="sponsor_row" data-aos="fade-up" data-aos-delay="150">
+      {{ end }}
+      {{ end }}
 
-       
-   
-        <a href="" target="_blank" class=" sponsor sponsor--medium">
-          <img src="/images/sponsorzy/drony/aerobits.png" alt="Aerobits logo" />
-        </a>
-        <a href="h" target="_blank" class=" sponsor sponsor--medium">
-          <img src="/images/sponsorzy/drony/vigo.png" alt="Vigo logo" />
-        </a>
-         <a href="h" target="_blank" class=" sponsor sponsor--medium">
-          <img src="/images/sponsorzy/drony/Zeiss.png" alt="Zeiss logo" />
-        </a>
-
-      
-   
-
-      </div>
-       <div class="sponsor_row" data-aos="fade-up" data-aos-delay="150">
-        <a href="https://e-design.com.cn/en/ProductCust/2201613-518357.html?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGn4o_0lgB-41ll9GuV8i0ZBzk_JGy9Uf7Haou6CPdsPbG5W05hiNCaWOFUTnI_aem_IAjU5Zi1C4bnrAhHt8H3mQ" target="_blank" class="sponsor sponsor--small">
-          <img src="/images/sponsorzy/miniware.png" alt="MiniWare logo" />
-        </a>
-       
-        <a href="https://cubicinch.pl/" target="_blank" class=" sponsor sponsor--small">
-          <img src="/images/sponsorzy/CubicInch_logo_1_RGB_art.png" alt="Cubic Inch logo" />
-        </a>
-        <a href="https://pcosa.com.pl/pl" target="_blank" class=" sponsor sponsor--small">
-          <img src="/images/sponsorzy/PCO-logo-RGB.png" alt="PCO logo" />
-        </a>
-        <a href="https://addit.pl/pl/" target="_blank" class=" sponsor sponsor--small">
-          <img src="/images/addit.png" alt="Addit logo" />
-        </a>
-      
-      </div>
-
-
-      <div class="sponsor_row" data-aos="fade-up" data-aos-delay="300">
-
-        <a href="https://www.st.com/content/st_com/en.html" target="_blank" class=" sponsor sponsor--small">
-          <img src="/images/stm.png" alt="ST Microelectronics logo" />
-        </a>
-        <a href="https://dps-software.pl/" target="_blank" class=" sponsor sponsor--small">
-          <img src="/images/dps-software-logo.png" alt="DPS Software logo" />
-        </a>
-        <a href="https://www.gov.pl/web/nauka/program-studenckie-kola-naukowe-tworza-innowacje" target="_blank" class=" sponsor sponsor--small">
-          <img src="/images/sponsorzy/mein_studenckie_kola_naukowe_tworza_innowacje_logo.jpg" alt="SKNTI logo" />
-        </a>
-         <a href="https://astronika.pl/" target="_blank" class=" sponsor sponsor--small">
-          <img src="/images/sponsorzy/Astronika-logo-RGB.png" alt="Astronika logo" />
-        </a>
-         <a href="https://www.maxongroup.com/en" target="_blank" class=" sponsor sponsor--small">
-          <img src="/images/Maxon_logo.png" alt="maxon logo" />
-        </a>
-      
-        
-      </div>
-
-      <div class="sponsor_row" data-aos="fade-up" data-aos-delay="300">
-        <a href="https://botland.com.pl/pl/" target="_blank" class="sponsor sponsor--small">
-          <img src="/images/botland.png" alt="Botland logo" />
-        </a>
-        <a href="https://www.altium.com/" target="_blank" class="sponsor sponsor--small">
-          <img src="/images/thumbnail_altium_logo_blk.png" alt="Altium logo" />
-        </a>
-        <a href="https://tme.eu/" target="_blank" class="sponsor sponsor--small">
-          <img src="/images/tme_logo.png" alt="TME logo" />
-        </a>
-        <a href="https://symkom.pl/" target="_blank" class="sponsor sponsor--small">
-          <img src="/images/symkon-logo-420x280.png" alt="Symkom logo" />
-        </a>
-      </div>
       <div class="sponsors__contact">
         <p>Chcesz z nami współpracować? Napisz do nas na mail:
           <a href="mailto:knr@pw.edu.pl">knr@pw.edu.pl</a>
         </p>
       </div>
     </div>
-
 
   </div>
 
