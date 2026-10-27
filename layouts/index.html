@@ -262,26 +262,11 @@
     <!-- Sekcja sponsorów -->
     <div data-aos="fade-up" data-aos-delay="300" class="sponsors__block">
 
-      <!-- Sponsorzy ogólnokołowi (KNR) -->
-      {{ if .Site.Params.sponsor_rows }}
-      <div class="sponsors__section">
-        {{ range .Site.Params.sponsor_rows }}
-        <div class="sponsor_row" data-aos="fade-up" data-aos-delay="150">
-          {{ range .sponsors }}
-          <a href="{{ .url }}" target="_blank" class="sponsor{{ with .class }} {{ . }}{{ end }}">
-            <img src="{{ .image }}" alt="{{ .name }} logo"{{ with .style }} style="{{ . | safeCSS }}"{{ end }} />
-          </a>
-          {{ end }}
-        </div>
-        {{ end }}
-      </div>
-      {{ end }}
-
       <!-- Sponsorzy poszczególnych aktywnych sekcji -->
       {{ range sort (where .Site.RegularPages "Section" "project") "Params.main_site_priority" }}
       {{ if and (not .Params.end_date) .Params.sponsor_rows }}
       <div class="sponsors__section">
-        <div data-aos="fade-up" class="sponsors__subtitle">{{ .Title }}</div>
+        <div data-aos="fade-up" class="sponsors__subtitle">{{ .Title }}:</div>
         {{ range .Params.sponsor_rows }}
         <div class="sponsor_row" data-aos="fade-up" data-aos-delay="150">
           {{ range .sponsors }}
@@ -293,6 +278,22 @@
         {{ end }}
       </div>
       {{ end }}
+      {{ end }}
+
+      <!-- Sponsorzy ogólnokołowi (KNR) -->
+      {{ if .Site.Params.sponsor_rows }}
+      <div class="sponsors__section">
+        <div data-aos="fade-up" class="sponsors__subtitle">KNR:</div>
+        {{ range .Site.Params.sponsor_rows }}
+        <div class="sponsor_row" data-aos="fade-up" data-aos-delay="150">
+          {{ range .sponsors }}
+          <a href="{{ .url }}" target="_blank" class="sponsor{{ with .class }} {{ . }}{{ end }}">
+            <img src="{{ .image }}" alt="{{ .name }} logo"{{ with .style }} style="{{ . | safeCSS }}"{{ end }} />
+          </a>
+          {{ end }}
+        </div>
+        {{ end }}
+      </div>
       {{ end }}
 
       <div class="sponsors__contact">
