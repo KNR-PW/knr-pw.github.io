@@ -65,7 +65,7 @@ sponsor_rows:
         url: https://www.zeiss.com/microscopy/
         class: sponsor-small
       - name: Fundacja Grupy PKP
-        image: /images/sponsorzy/drony/fundacja_grupy_pkp.svg
+        image: /images/sponsorzy/drony/fundacja_grupy_pkp.jpg
         url: https://www.pkp.pl/pl/fundacja
         class: sponsor-small
 ---
