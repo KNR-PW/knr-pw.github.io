@@ -29,7 +29,7 @@ sponsor_rows:
       - name: Etronika
         image: /images/sponsorzy/drony/Etronika.png
         url: https://etronika.pl/
-        class: sponsor--medium
+        class: sponsor--mediumbig
       - name: EY
         image: /images/sponsorzy/drony/EY_Horizontal.jpg
         url: https://www.ey.com/pl_pl
@@ -37,7 +37,7 @@ sponsor_rows:
       - name: Fundacja PPL
         image: /images/sponsorzy/PPL.png
         url: https://fundacjappl.pl/
-        class: sponsor--medium
+        class: sponsor--mediumbig
   - sponsors:
       - name: Bosch Rexroth
         image: /images/sponsorzy/drony/bosch.png
@@ -64,10 +64,10 @@ sponsor_rows:
         image: /images/sponsorzy/drony/Zeiss.png
         url: https://www.zeiss.com/microscopy/
         class: sponsor-small
-      # - name: Fundacja Grupy PKP
-      #   image: /images/sponsorzy/drony/pkp.png
-      #   url: https://www.pkp.pl/pl/fundacja
-      #   class: sponsor-small
+      - name: Fundacja Grupy PKP
+        image: /images/sponsorzy/drony/fundacja_grupy_pkp.svg
+        url: https://www.pkp.pl/pl/fundacja
+        class: sponsor-small
 ---
  Projekt KNR Dron realizowany w Kole Naukowym Robotyków koncentruje się na projektowaniu i budowie bezzałogowych statków powietrznych (BSP) zdolnych do autonomicznego wykonywania złożonych misji. Zespół rozwija zarówno konstrukcję mechaniczną dronów, ich systemy elektroniczne oraz oprogramowanie odpowiedzialne za autonomię oraz przetwarzanie danych. Wiele komponentów powstaje przy wykorzystaniu technologii druku 3D, co umożliwia szybkie prototypowanie i dostosowywanie konstrukcji do wymagań konkretnych misji.
 
