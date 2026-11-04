@@ -29,7 +29,7 @@ sponsor_rows:
       - name: Etronika
         image: /images/sponsorzy/drony/Etronika.png
         url: https://etronika.pl/
-        class: sponsor--mediumbig
+        class: sponsor--medium
       - name: EY
         image: /images/sponsorzy/drony/EY_Horizontal.jpg
         url: https://www.ey.com/pl_pl
