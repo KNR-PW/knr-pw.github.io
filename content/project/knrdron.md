@@ -42,32 +42,32 @@ sponsor_rows:
       - name: Bosch Rexroth
         image: /images/sponsorzy/drony/bosch.png
         url: https://www.boschrexroth.com/pl/pl/
-        class: sponsor-small
+        class: sponsor--small
       - name: Jabama
         image: /images/sponsorzy/drony/Jabama.png
         url: https://jabama.pl/
-        class: sponsor-small
+        class: sponsor--small
       - name: Łukasiewicz - Instytut Lotnictwa
         image: /images/sponsorzy/drony/Lukasiewicz_ilot.png
         url: https://ilot.lukasiewicz.gov.pl/
-        class: sponsor-small
+        class: sponsor--small
   - sponsors:
       - name: Aerobits
         image: /images/sponsorzy/drony/aerobits.png
         url: https://www.aerobits.pl/
-        class: sponsor-small
+        class: sponsor--small
       - name: VIGO Photonics
         image: /images/sponsorzy/drony/vigo.png
         url: https://vigophotonics.com/
-        class: sponsor-small
+        class: sponsor--small
       - name: Zeiss Microscopy
         image: /images/sponsorzy/drony/Zeiss.png
         url: https://www.zeiss.com/microscopy/
-        class: sponsor-small
+        class: sponsor--small
       - name: Fundacja Grupy PKP
         image: /images/sponsorzy/drony/fundacja_grupy_pkp.jpg
         url: https://www.pkp.pl/pl/fundacja
-        class: sponsor-small
+        class: sponsor--mediumbig
 ---
  Projekt KNR Dron realizowany w Kole Naukowym Robotyków koncentruje się na projektowaniu i budowie bezzałogowych statków powietrznych (BSP) zdolnych do autonomicznego wykonywania złożonych misji. Zespół rozwija zarówno konstrukcję mechaniczną dronów, ich systemy elektroniczne oraz oprogramowanie odpowiedzialne za autonomię oraz przetwarzanie danych. Wiele komponentów powstaje przy wykorzystaniu technologii druku 3D, co umożliwia szybkie prototypowanie i dostosowywanie konstrukcji do wymagań konkretnych misji.
 
