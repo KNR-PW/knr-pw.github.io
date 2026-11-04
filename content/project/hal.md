@@ -65,11 +65,11 @@ sponsor_rows:
         url: https://addit.pl/pl/
         class: sponsor--small
       - name: DPS Software
-        image: /images/sponsorzy/hal/dps-software-logo.png"
+        image: /images/sponsorzy/hal/dps-software-logo.png
         url: https://dps-software.pl/
         class: sponsor--small
       - name: Centrum Ratownictwa
-        image: /images/sponsorzy/hal/CR_logo.svg"
+        image: /images/sponsorzy/hal/CR_logo.svg
         url: https://www.centrumratownictwa.com/
         class: sponsor--small
 ---
