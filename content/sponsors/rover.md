@@ -13,7 +13,7 @@ sponsors:
     link: https://www.lockheedmartin.com/pl-pl/index.html
     row: 2
     order: 1
-    style: "width: 50%;"
+    class: sponsor--main
   - name: Volkswagen Financial Services
     logo: /images/sponsorzy/hal/vwfs.png
     link: https://www.vwfs.pl
