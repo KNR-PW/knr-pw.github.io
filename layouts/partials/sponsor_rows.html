@@ -1,4 +1,15 @@
-{{ $sponsors := . }}
+{{ $allSponsors := . }}
+{{ $sponsors := slice }}
+{{ range $sp := $allSponsors }}
+  {{ $isActive := true }}
+  {{ if isset $sp "aktualne" }}
+    {{ $isActive = $sp.aktualne }}
+  {{ end }}
+  {{ if $isActive }}
+    {{ $sponsors = $sponsors | append $sp }}
+  {{ end }}
+{{ end }}
+
 {{ $rows := slice }}
 {{ range $sponsors }}
   {{ $r := int (.row | default 1) }}

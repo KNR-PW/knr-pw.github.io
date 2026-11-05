@@ -259,10 +259,35 @@
   <div class="container">
     <div data-aos="fade-up" class="sponsors__title">Wspierają nas</div>
 
+    {{ $sponsorPages := where .Site.RegularPages "Section" "sponsors" }}
+    {{ $knrPremium := slice }}
+    {{ $knrRegular := slice }}
+    {{ range $spPage := $sponsorPages }}
+      {{ $sec := $spPage.Params.section | default $spPage.Title }}
+      {{ if eq $sec "KNR" }}
+        {{ range $sp := $spPage.Params.sponsors }}
+          {{ $isActive := true }}
+          {{ if isset $sp "aktualne" }}{{ $isActive = $sp.aktualne }}{{ end }}
+          {{ if $isActive }}
+            {{ if $sp.premium }}
+              {{ $knrPremium = $knrPremium | append $sp }}
+            {{ else }}
+              {{ $knrRegular = $knrRegular | append $sp }}
+            {{ end }}
+          {{ end }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+
     <!-- Sekcja sponsorów -->
     <div data-aos="fade-up" data-aos-delay="300" class="sponsors__block">
 
-      {{ $sponsorPages := where .Site.RegularPages "Section" "sponsors" }}
+      <!-- Sponsorzy premium (KNR) — nad wszystkimi sekcjami -->
+      {{ if gt (len $knrPremium) 0 }}
+      <div class="sponsors__section sponsors__section--premium">
+        {{ partial "sponsor_rows.html" $knrPremium }}
+      </div>
+      {{ end }}
 
       <!-- Sponsorzy poszczególnych aktywnych sekcji -->
       {{ range sort (where .Site.RegularPages "Section" "project") "Params.main_site_priority" }}
@@ -271,31 +296,88 @@
         {{ range $spPage := $sponsorPages }}
           {{ $sec := $spPage.Params.section | default $spPage.Title }}
           {{ if and (eq $sec $projTitle) $spPage.Params.sponsors }}
-          <div class="sponsors__section">
-            <div data-aos="fade-up" class="sponsors__subtitle">{{ $projTitle }}:</div>
-            {{ partial "sponsor_rows.html" $spPage.Params.sponsors }}
-          </div>
+            {{ $activeSecSponsors := slice }}
+            {{ range $sp := $spPage.Params.sponsors }}
+              {{ $isActive := true }}
+              {{ if isset $sp "aktualne" }}{{ $isActive = $sp.aktualne }}{{ end }}
+              {{ if $isActive }}{{ $activeSecSponsors = $activeSecSponsors | append $sp }}{{ end }}
+            {{ end }}
+            {{ if gt (len $activeSecSponsors) 0 }}
+            <div class="sponsors__section">
+              <div data-aos="fade-up" class="sponsors__subtitle">{{ $projTitle }}:</div>
+              {{ partial "sponsor_rows.html" $activeSecSponsors }}
+            </div>
+            {{ end }}
           {{ end }}
         {{ end }}
       {{ end }}
       {{ end }}
 
       <!-- Sponsorzy ogólnokołowi (KNR) -->
-      {{ range $spPage := $sponsorPages }}
-        {{ $sec := $spPage.Params.section | default $spPage.Title }}
-        {{ if and (eq $sec "KNR") $spPage.Params.sponsors }}
-        <div class="sponsors__section">
-          <div data-aos="fade-up" class="sponsors__subtitle">KNR:</div>
-          {{ partial "sponsor_rows.html" $spPage.Params.sponsors }}
-        </div>
-        {{ end }}
+      {{ if gt (len $knrRegular) 0 }}
+      <div class="sponsors__section">
+        <div data-aos="fade-up" class="sponsors__subtitle">KNR:</div>
+        {{ partial "sponsor_rows.html" $knrRegular }}
+      </div>
       {{ end }}
 
-      <div class="sponsors__contact">
-        <p>Chcesz z nami współpracować? Napisz do nas na mail:
-          <a href="mailto:knr@pw.edu.pl">knr@pw.edu.pl</a>
-        </p>
+    </div>
+
+    <!-- Nieaktualni sponsorzy — karuzela 'Zaufali nam' -->
+    {{ $inactiveSponsors := slice }}
+    {{ $seenLogos := slice }}
+    {{ range $spPage := $sponsorPages }}
+      {{ range $sp := $spPage.Params.sponsors }}
+        {{ $isActive := true }}
+        {{ if isset $sp "aktualne" }}{{ $isActive = $sp.aktualne }}{{ end }}
+        {{ $logo := $sp.logo | default $sp.image }}
+        {{ if and (not $isActive) $logo (not (in $seenLogos $logo)) }}
+          {{ $seenLogos = $seenLogos | append $logo }}
+          {{ $inactiveSponsors = $inactiveSponsors | append (dict
+            "name" $sp.name
+            "logo" $logo
+            "link" ($sp.link | default $sp.url)
+          ) }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+
+    {{ if gt (len $inactiveSponsors) 0 }}
+    {{ $marqueeItems := $inactiveSponsors }}
+    {{ range seq 1 8 }}
+      {{ if lt (len $marqueeItems) 8 }}
+        {{ range $item := $inactiveSponsors }}
+          {{ $marqueeItems = $marqueeItems | append $item }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+    <div data-aos="fade-up" class="sponsors__trusted">
+      <div class="sponsors__title">Zaufali nam</div>
+      <div class="sponsors__marquee">
+        <div class="sponsors__marquee-track">
+          <div class="sponsors__marquee-group">
+            {{ range $marqueeItems }}
+            <a{{ with .link }} href="{{ . }}" target="_blank" rel="noopener"{{ end }} class="sponsors__marquee-item" title="{{ .name }}">
+              <img src="{{ .logo }}" alt="{{ .name }} logo" />
+            </a>
+            {{ end }}
+          </div>
+          <div class="sponsors__marquee-group" aria-hidden="true">
+            {{ range $marqueeItems }}
+            <a{{ with .link }} href="{{ . }}" target="_blank" rel="noopener" tabindex="-1"{{ end }} class="sponsors__marquee-item" title="{{ .name }}">
+              <img src="{{ .logo }}" alt="{{ .name }} logo" />
+            </a>
+            {{ end }}
+          </div>
+        </div>
       </div>
+    </div>
+    {{ end }}
+
+    <div class="sponsors__contact">
+      <p>Chcesz z nami współpracować? Napisz do nas na mail:
+        <a href="mailto:knr@pw.edu.pl">knr@pw.edu.pl</a>
+      </p>
     </div>
 
   </div>

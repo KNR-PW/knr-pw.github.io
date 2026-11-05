@@ -85,3 +85,85 @@
 .sponsors__contact a:hover {
   text-decoration: underline;
 }
+
+/* Sekcja nieaktualnych sponsorów — karuzela 'Zaufali nam' */
+.sponsors__trusted {
+  margin-top: 90px;
+  width: 100%;
+}
+
+.sponsors__marquee {
+  overflow: hidden;
+  width: 100%;
+  padding: 20px 0;
+  -webkit-mask-image: linear-gradient(to right, transparent, #000 8%, #000 92%, transparent);
+  mask-image: linear-gradient(to right, transparent, #000 8%, #000 92%, transparent);
+}
+
+.sponsors__marquee-track {
+  display: flex;
+  width: max-content;
+  align-items: center;
+  animation: sponsors-marquee 40s linear infinite;
+}
+
+.sponsors__marquee:hover .sponsors__marquee-track {
+  animation-play-state: paused;
+}
+
+.sponsors__marquee-group {
+  display: flex;
+  align-items: center;
+  gap: 60px;
+  padding-right: 60px;
+  flex-shrink: 0;
+}
+
+.sponsors__marquee-item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.sponsors__marquee-item img {
+  height: 75px;
+  width: auto;
+  max-width: 190px;
+  object-fit: contain;
+  transition: transform 0.3s ease-in-out;
+}
+
+.sponsors__marquee-item:hover img {
+  transform: scale(1.06);
+}
+
+@keyframes sponsors-marquee {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+@media (max-width: 767px) {
+  .sponsors__subtitle {
+    font-size: 38px;
+    line-height: 46px;
+  }
+
+  .sponsors__trusted {
+    margin-top: 60px;
+  }
+
+  .sponsors__marquee-group {
+    gap: 40px;
+    padding-right: 40px;
+  }
+
+  .sponsors__marquee-item img {
+    height: 55px;
+    max-width: 140px;
+  }
+}

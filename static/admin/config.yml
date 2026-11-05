@@ -80,9 +80,11 @@ collections:
         summary: "Wiersz {{fields.row}}.{{fields.order}} — {{fields.name}}"
         fields:
           - {label: "Nazwa sponsora", name: "name", widget: "string", required: true, hint: "Nazwa sponsora"}
+          - {label: "Aktualny", name: "aktualne", widget: "boolean", default: true, required: false, hint: "Jeśli zaznaczone — wyświetla się normalnie w 'Wspierają nas'. Jeśli odznaczone — trafia do karuzeli 'Zaufali nam'."}
+          - {label: "Premium (tylko dla KNR)", name: "premium", widget: "boolean", default: false, required: false, hint: "Dotyczy wyłącznie sponsorów ogólnokołowych (KNR) — wyświetla sponsora nad wszystkimi sekcjami tuż pod 'Wspierają nas'."}
           - {label: "Logo sponsora", name: "logo", widget: "image", required: true, choose_url: true, hint: "Logo sponsora"}
           - {label: "Link do strony sponsora", name: "link", widget: "string", required: false, hint: "Link do strony sponsora"}
           - {label: "Wiersz", name: "row", widget: "number", value_type: "int", min: 1, step: 1, default: 1, required: true, hint: "Numer wiersza (1 = pierwszy od góry)"}
           - {label: "Kolejność w wierszu", name: "order", widget: "number", value_type: "int", min: 1, step: 1, default: 1, required: true, hint: "Kolejność w wierszu (1 = pierwszy od lewej)"}
-          - {label: "Klasa", name: "class", widget: "select", required: false, default: "sponsor--small", options: ["sponsor--main", "sponsor--big", "sponsor--mediumbig", "sponsor--medium", "sponsor--small"], hint: "Klasa rozmiaru sponsora (opcjonalna, jeśli podano własny Style)"}
-          - {label: "Style", name: "style", widget: "string", required: false, hint: "Css style dla sponsora, np. 'width: 100px; height: 100px;'"}
+          - {label: "Klasa", name: "class", widget: "select", required: false, default: "sponsor--small", options: ["sponsor--main", "sponsor--big", "sponsor--mediumbig", "sponsor--medium", "sponsor--small"], hint: "Klasa rozmiaru sponsora (opcjonalna, jeśli podano własny Style; pomijana w karuzeli 'Zaufali nam')"}
+          - {label: "Style", name: "style", widget: "string", required: false, hint: "Css style dla sponsora, np. 'width: 100px; height: 100px;' (pomijane w karuzeli 'Zaufali nam')"}

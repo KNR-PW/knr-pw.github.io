@@ -68,16 +68,24 @@
 {{ range where .Site.RegularPages "Section" "sponsors" }}
   {{ $sec := .Params.section | default .Title }}
   {{ if and (eq $sec $projTitle) .Params.sponsors }}
+    {{ $activeSponsors := slice }}
+    {{ range $sp := .Params.sponsors }}
+      {{ $isActive := true }}
+      {{ if isset $sp "aktualne" }}{{ $isActive = $sp.aktualne }}{{ end }}
+      {{ if $isActive }}{{ $activeSponsors = $activeSponsors | append $sp }}{{ end }}
+    {{ end }}
+    {{ if gt (len $activeSponsors) 0 }}
 <section class="sponsors" id="sponsors" data-section="sponsors">
   <div class="container">
     <div data-aos="fade-up" class="sponsors__title">Wspierają nas</div>
     <div data-aos="fade-up" data-aos-delay="300" class="sponsors__block">
       <div class="sponsors__section">
-        {{ partial "sponsor_rows.html" .Params.sponsors }}
+        {{ partial "sponsor_rows.html" $activeSponsors }}
       </div>
     </div>
   </div>
 </section>
+    {{ end }}
   {{ end }}
 {{ end }}
 {{ end }}
