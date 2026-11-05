@@ -3,7 +3,7 @@ title: KNR Rover Team
 section: KNR Rover Team
 sponsors:
   - name: Ministerstwo Nauki i Szkolnictwa Wyższego
-    logo: /images/05_znak_-siatka_uproszczony_kolor_biale_tlo.png
+    logo: /images/sponsorzy/05_znak_-siatka_uproszczony_kolor_biale_tlo.png
     link: https://www.gov.pl/web/nauka
     row: 1
     order: 1

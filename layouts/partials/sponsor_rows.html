@@ -1,0 +1,35 @@
+{{ $sponsors := . }}
+{{ $rows := slice }}
+{{ range $sponsors }}
+  {{ $r := int (.row | default 1) }}
+  {{ if not (in $rows $r) }}
+    {{ $rows = $rows | append $r }}
+  {{ end }}
+{{ end }}
+{{ $rows = sort $rows }}
+
+{{ range $r := $rows }}
+  {{ $rowItems := slice }}
+  {{ range $idx, $sp := $sponsors }}
+    {{ if eq (int ($sp.row | default 1)) $r }}
+      {{ $item := dict
+        "name" $sp.name
+        "logo" ($sp.logo | default $sp.image)
+        "link" ($sp.link | default $sp.url)
+        "class" $sp.class
+        "style" $sp.style
+        "sortKey" (add (mul (int ($sp.order | default 999)) 1000) $idx)
+      }}
+      {{ $rowItems = $rowItems | append $item }}
+    {{ end }}
+  {{ end }}
+  {{ $sortedRowItems := sort $rowItems "sortKey" "asc" }}
+  <div class="sponsor_row" data-aos="fade-up" data-aos-delay="150">
+    {{ range $sortedRowItems }}
+    <a{{ with .link }} href="{{ . }}" target="_blank"{{ end }} class="sponsor{{ with .class }} {{ . }}{{ end }}">
+      <img src="{{ .logo }}" alt="{{ .name }} logo"{{ with .style }} style="{{ . | safeCSS }}"{{ end }} />
+    </a>
+    {{ end }}
+  </div>
+{{ end }}
+

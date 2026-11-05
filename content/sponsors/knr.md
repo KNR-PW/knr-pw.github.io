@@ -9,19 +9,19 @@ sponsors:
     order: 1
     class: sponsor--main
   - name: Botland
-    logo: /images/botland.png
+    logo: /images/sponsorzy/botland.png
     link: https://botland.com.pl/pl/
     row: 2
     order: 1
     class: sponsor--small
   - name: Altium
-    logo: /images/thumbnail_altium_logo_blk.png
+    logo: /images/sponsorzy/thumbnail_altium_logo_blk.png
     link: https://www.altium.com/
     row: 2
     order: 2
     class: sponsor--small
   - name: TME
-    logo: /images/tme_logo.png
+    logo: /images/sponsorzy/tme_logo.png
     link: https://tme.eu/
     row: 2
     order: 3

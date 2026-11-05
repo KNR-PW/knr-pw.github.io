@@ -15,6 +15,18 @@ title = "Artykuł"
 singular = "article"
 plural = "articles"
 
+[sponsors]
+title = "Sponsorzy"
+singular = "sponsors"
+plural = "sponsors"
+
+[[cascade]]
+  [cascade._build]
+    render = "never"
+    list = "always"
+  [cascade._target]
+    path = "/sponsors/**"
+
 [module]
 [[module.mounts]]
     target = "assets/images"
@@ -23,29 +35,3 @@ plural = "articles"
 [params]
   [params.project]
     title = 'Projekty KNR'
-
-  [[params.sponsor_rows]]
-    [[params.sponsor_rows.sponsors]]
-      name = "Wydział MEiL PW"
-      image = "/images/sponsorzy/mel.png"
-      url = "https://meil.pw.edu.pl/"
-      class = "sponsor--main"
-
-  [[params.sponsor_rows]]
-    [[params.sponsor_rows.sponsors]]
-      name = "Botland"
-      image = "/images/botland.png"
-      url = "https://botland.com.pl/pl/"
-      class = "sponsor--small"
-
-    [[params.sponsor_rows.sponsors]]
-      name = "Altium"
-      image = "/images/thumbnail_altium_logo_blk.png"
-      url = "https://www.altium.com/"
-      class = "sponsor--small"
-
-    [[params.sponsor_rows.sponsors]]
-      name = "TME"
-      image = "/images/tme_logo.png"
-      url = "https://tme.eu/"
-      class = "sponsor--small"

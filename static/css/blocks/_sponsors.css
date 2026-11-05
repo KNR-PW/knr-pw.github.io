@@ -50,10 +50,6 @@
   width: 400px;
 }
 
-.sponsor--huge img {
-  width: 370px;
-}
-
 .sponsor--big img {
   width: 370px;
 }
@@ -66,8 +62,7 @@
   width: 180px;
 }
 
-.sponsor--small img,
-.sponsor-small img {
+.sponsor--small img {
   width: 120px;
 }
 

@@ -52,3 +52,37 @@ collections:
     fields: # The fields for each document, usually in front matter desccriptions: https://decapcms.org/docs/widgets/
       - {label: "Title", name: "title", widget: "string", required: true, hint: "Nazwa projektu"}
       - {label: "Body", name: "body", widget: "markdown", required: false}
+  - name: "sponsors" # Used in routes, e.g., /admin/collections/sponsors
+    label: "Sponsorzy" # Used in the UI
+    description: "Sponsorzy koła i projektów"
+    folder: "content/sponsors/" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    identifier_field: "title"
+    summary: "{{title}}"
+    fields: # The fields for each document, usually in front matter descriptions: https://decapcms.org/docs/widgets/
+      - {label: "Nazwa sekcji", name: "title", widget: "string", required: true, hint: "Nazwa wyświetlana na liście w panelu (np. KNR, KNR Rover Team, KNR Drone)"}
+      - label: "Sekcja"
+        name: "section"
+        widget: "select"
+        required: true
+        default: "KNR"
+        hint: "Wybierz 'KNR' dla sponsorów ogólnokołowych lub nazwę aktywnej sekcji/projektu"
+        options:
+          - {label: "KNR (ogólnokołowi)", value: "KNR"}
+          - {label: "KNR Rover Team", value: "KNR Rover Team"}
+          - {label: "KNR Drone", value: "KNR Drone"}
+          - {label: "Zespół Robotów Kroczących", value: "Zespół Robotów Kroczących"}
+      - label: "Sponsorzy"
+        name: "sponsors"
+        widget: "list"
+        allow_add: true
+        required: false
+        summary: "Wiersz {{fields.row}}.{{fields.order}} — {{fields.name}}"
+        fields:
+          - {label: "Nazwa sponsora", name: "name", widget: "string", required: true, hint: "Nazwa sponsora"}
+          - {label: "Logo sponsora", name: "logo", widget: "image", required: true, choose_url: true, hint: "Logo sponsora"}
+          - {label: "Link do strony sponsora", name: "link", widget: "string", required: false, hint: "Link do strony sponsora"}
+          - {label: "Wiersz", name: "row", widget: "number", value_type: "int", min: 1, step: 1, default: 1, required: true, hint: "Numer wiersza (1 = pierwszy od góry)"}
+          - {label: "Kolejność w wierszu", name: "order", widget: "number", value_type: "int", min: 1, step: 1, default: 1, required: true, hint: "Kolejność w wierszu (1 = pierwszy od lewej)"}
+          - {label: "Klasa", name: "class", widget: "select", required: false, default: "sponsor--small", options: ["sponsor--main", "sponsor--big", "sponsor--mediumbig", "sponsor--medium", "sponsor--small"], hint: "Klasa rozmiaru sponsora (opcjonalna, jeśli podano własny Style)"}
+          - {label: "Style", name: "style", widget: "string", required: false, hint: "Css style dla sponsora, np. 'width: 100px; height: 100px;'"}
