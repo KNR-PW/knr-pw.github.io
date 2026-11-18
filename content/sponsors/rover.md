@@ -58,5 +58,12 @@ sponsors:
     order: 5
     class: sponsor--small
     aktualne: true
+  - aktualne: true
+    premium: false
+    row: 3
+    order: 6
+    class: sponsor--small
+    logo: /images/st_logo.png
+    link: https://www.st.com/content/st_com/en.html
+    name: STMicroelectronics
 ---
-
