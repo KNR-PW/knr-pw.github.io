@@ -74,7 +74,7 @@ sponsors:
     class: sponsor--small
     aktualne: false
     premium: false
-  - name: Wydział WEiTI PW
+  - name: Wydział EiTI PW
     logo: /images/sponsorzy/WEiTI_PW_sygnet_PL_czarny.png
     link: https://www.elka.pw.edu.pl/
     row: 4
@@ -139,4 +139,3 @@ sponsors:
     aktualne: false
     premium: false
 ---
-
