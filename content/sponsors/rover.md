@@ -47,21 +47,21 @@ sponsors:
   - name: DPS Software
     logo: /images/sponsorzy/hal/dps-software-logo.png
     link: https://dps-software.pl/
-    row: 3
-    order: 4
+    row: 4
+    order: 1
     class: sponsor--small
     aktualne: true
   - name: Centrum Ratownictwa
     logo: /images/sponsorzy/hal/CR_logo.svg
     link: https://www.centrumratownictwa.com/
-    row: 3
-    order: 5
+    row: 4
+    order: 2
     class: sponsor--small
     aktualne: true
   - aktualne: true
     premium: false
-    row: 3
-    order: 6
+    row: 4
+    order: 3
     class: sponsor--small
     logo: /images/st_logo.png
     link: https://www.st.com/content/st_com/en.html
